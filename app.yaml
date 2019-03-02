@@ -1,0 +1,52 @@
+runtime: python27
+threadsafe: true
+api_version: 1
+
+handlers:
+- url: /
+  static_files: public/index.html
+  upload: /
+- url: /css
+  static_dir: public/css
+#- url: /publication
+#  static_files: public/publication/index.html
+#  upload: /
+# - url: /talk
+#   static_files: public/talk/index.html
+#   upload: /
+- url: /fonts
+  static_dir: public/fonts
+  http_headers:
+    Access-Control-Allow-Origin: '*'
+- url: /js
+  static_dir: public/js
+- url: /img
+  static_dir: public/img
+- url: /(.*)/$
+  static_files: public/\1/index.html
+  upload: .*\.html$
+
+skip_files: |
+  ^(.*/)?(
+  (archetypes/.*)|
+  (app\.yaml)|
+  (app\.yml)|
+  (index\.yaml)|
+  (index\.yml)|
+  (config\.yaml)|
+  (#.*#)|
+  (.*~)|
+  (.*\.py[co])|
+  (.*\.po)|
+  (.*\.pot)|
+  (\..*)|
+  (manage\.py)|
+  (README\.md)|
+  (LICENSE)|
+  (content\/.*)|
+  (data\/.*)|
+  (static\/.*)|
+  (layouts\/.*)|
+  (\.git\/.*)|
+  (\.gitignore)|
+  )$
