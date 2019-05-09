@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+  <div id="page-title" class="workshop-page-title">
+    <span class="workshop-page-title__title">{{ .Title }}</span>
+    <span class="workshop-page-title__when-where">{{ .Param "dates" }}, {{ .Param "location" }}</span>
+  </div>
+
+  <div id="page-content">
+
+    <nav class="workshop-nav">
+    {{ $workshopId := .Param "workshop"}}
+    {{ $currentWorkshopFilter := where .Site.RegularPages "Params.workshop" $workshopId }}
+    {{ range first 1 (sort $currentWorkshopFilter "Params.weight" "asc") }}
+      <div class="workshop-nav__link workshop-nav__link--selected"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+    {{ end }}
+    {{ range after 1 (sort $currentWorkshopFilter "Params.weight" "asc") }}
+      <div class="workshop-nav__link"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+    {{ end }}
+      <div class="workshop-nav__fill-end-border"></div>
+    </nav>
+
+    <article class="workshop-content">
+      {{ range first 1 (sort $currentWorkshopFilter "Params.weight" "asc") }}
+        {{ .Content }}
+      {{ end }}
+    </article>
+
+  </div>
+{{ end }}

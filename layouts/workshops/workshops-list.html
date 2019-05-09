@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <div id="page-title">
+    {{ .Title }}
+  </div>
+
+  <div id="page-content">
+
+    <article>
+      {{ range sort .Sections ".Params.startdate" "desc" }}
+      <div>
+          <h2 style="margin-bottom: 0.3em; margin-top: 2em;"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          {{ .Params.Dates }}<br>{{ .Params.Location }}
+          <br>
+      </div>
+      {{ end }}
+    </article>
+
+  </div>
+{{ end }}

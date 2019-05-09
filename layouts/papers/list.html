@@ -1,0 +1,57 @@
+{{ define "main" }}
+
+  <div id="page-title">
+    {{ .Title }}
+  </div>
+
+  <div id="page-content">
+
+    {{ $sitePages := .Site.Pages }}
+    {{ $scratch := .Scratch }}
+
+    <article>
+      {{ range .Pages.GroupByParam "publishedAt" "desc" }}
+      <div class="paper-library">
+        <div class="paper-library__workshop-title">
+          {{ $currentWorkshopFilter := where $sitePages "Params.workshop" .Key }}
+          {{ range $currentWorkshopFilter }}
+            {{ if eq .Kind "section" }}
+            <h2>{{ .Title }}</h2>
+            {{ end }}
+          {{ end }}
+        </div>
+
+        <ul class="paper-library__paper-list">
+
+          {{ range .Pages }}
+            {{ $firstAuthor := index (.Params.authors) 0 }}
+            {{ $firstAuthorNames := split $firstAuthor " " }}
+            {{ $firstAuthorLastNameIndex := sub (len $firstAuthorNames) 1}}
+            {{ $firstAuthorLastName := index $firstAuthorNames $firstAuthorLastNameIndex }}
+            {{ $scratch.SetInMap "authorToPage" $firstAuthorLastName . }}
+          {{ end }}
+
+          {{ $sortedPages := $scratch.GetSortedMapValues "authorToPage" }}
+          {{ range $sortedPages }}
+          <li class="paper-library__paper">
+            <div class="paper-library__paper-title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+            <div class="paper-library__paper-authors">
+              {{ with .Params.authors }}
+              {{ delimit . ", " }}
+              {{ end }}
+            </div>
+            <div class="paper-library__paper-links">
+              {{ with .Params.url_pdf }}<a href="{{ . | absURL }}">PDF</a>{{ end }}
+              {{ with .Params.url_bibtex }}<a href="{{ . | absURL }}">BibTeX</a>{{ end }}
+            </div>
+          </li>
+          {{ end }}
+
+          {{ $scratch.Delete "authorToPage" }}
+        </ul>
+      </div>
+      {{ end }}
+    </article>
+
+  </div>
+{{ end }}

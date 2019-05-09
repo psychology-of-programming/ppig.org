@@ -1,0 +1,8 @@
+---
+title: "Dynamic Translation of Spreadsheet Formulas to Problem Domain Narratives"
+authors: [Bennett Kankuzi]
+abstract: "Most errors in spreadsheets are formula-based. Referenced cells in formulas are normally presented using the traditional A1 cell referencing style. A spreadsheet user has to therefore mentally map referenced cells to their corresponding labels in order to comprehend a formula in the context of the problem domain. In this paper, we give a detailed description of an algorithm that can be used to dynamically translate traditional spreadsheet formulas to their problem domain equivalents which are easier to understand. The translation is done as one accesses a formula cell in a spreadsheet. The formula translation is based on inferred labels of referenced cells in the formula. The aim of the translation is to ease the cognitive load on the spreadsheet user and hence improving the error-prone spreadsheet development process. The paper also highlights some factors that need to be taken into consideration when dynamically translating spreadsheet formulas. The number of referenced cells in a formula and the distance of labels from referenced cells will determine the speed of the translation process hence affecting system responsiveness as one navigates through a spreadsheet. Unpredictable spatial arrangement of data in spreadsheets (spreadsheet layout) can also pose a challenge to the translation algorithm which may lead to mis-translation of spreadsheet formulas. These challenges might increase the cognitive load on the spreadsheet user hence negating the purpose of dynamically translating spreadsheet formulas."
+publishedAt: "ppig-2017"
+year: 2017
+url_pdf: "files/2017-PPIG-28th-kankuzi.pdf"
+---

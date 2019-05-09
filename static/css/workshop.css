@@ -1,0 +1,68 @@
+/****************************
+* Workshop page title
+*/
+.workshop-page-title__title,
+.workshop-page-title__when-where {
+  display: block;
+}
+
+.workshop-page-title__when-where {
+  text-align: right;
+  font-size: 18px;
+}
+
+/****************************
+* Workshop page nav
+*/
+
+.workshop-nav {
+  display: flex;
+  font-size: 16px;
+}
+
+.workshop-nav__link {
+  display: block;
+  flex: 0 0 auto;
+}
+
+.workshop-nav__link a {
+  display: block;
+}
+
+.workshop-nav__fill-end-border {
+  display: block;
+  flex: 1 1 auto;
+  height: 24px;
+  width: 100%;
+}
+
+.workshop-nav__link a,
+.workshop-nav__fill-end-border {
+  padding: 8px;
+  border-bottom: 1px solid #DD9B64;
+  border-top: 3px solid #ffffff;
+}
+
+.workshop-nav__link--selected a {
+  border: 1px solid #DD9B64;
+  border-bottom: none;
+  border-top: 3px solid #DD9B64;
+}
+
+/****************************
+* Workshop page table format
+*/
+
+.workshop-content table th:first-of-type {
+  white-space: nowrap;
+  min-width: 100px;
+}
+
+.workshop-content table td {
+  vertical-align: top;
+  padding-right: 12px;
+}
+
+.workshop-content table em {
+  padding-left: 12px;
+}

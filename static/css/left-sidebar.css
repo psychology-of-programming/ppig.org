@@ -1,0 +1,50 @@
+.left-sidebar {
+  border-right: 1px solid #DD9B64;
+  background: white;
+}
+
+.left-sidebar__logo {
+  width: 120px;
+  height: 140px;
+  padding: 40px 40px 20px;
+}
+
+.left-sidebar__nav {
+  width: 120px;
+}
+
+.site-nav {
+  text-align: left;
+  padding: 20px 40px;
+  margin: 0;
+  white-space: nowrap;
+}
+
+.site-nav__link {
+  display: block;
+  padding: 8px 0;
+}
+
+.site-nav__link a {
+  padding: 8px 0;
+}
+
+.site-nav__link--selected a {
+  color: #DD9B64;
+}
+
+.site-nav__link .arrow {
+  font-size: 8px;
+  padding-left: 2px;
+}
+
+.site-nav__sub-menu {
+  max-height: 0;
+  transition: ease-in-out 200ms max-height;
+  overflow: hidden;
+  padding-left: 20px;
+}
+
+.site-nav__sub-menu.visible {
+  max-height: 100px;
+}
