@@ -1,0 +1,44 @@
+{{ define "main" }}
+
+{{ $publishedAtWorkshopId := .Params.publishedAt }}
+{{ $publishedAtWorkshopAllPages := where .Site.Pages "Params.workshop" $publishedAtWorkshopId }}
+{{ $scratch := newScratch }}
+{{ $scratch.Set "workshopName" .Params.publishedAt }}
+{{ range $publishedAtWorkshopAllPages }}
+{{ if eq .Kind "section" }}
+{{ $scratch.Set "workshopName" .Params.Title }}
+{{ end }}
+{{ end }}
+
+  <div id="page-title" class="paper-info-page-title">
+    <div class="paper-info-page-title__workshop">{{ $scratch.Get "workshopName" }}</div>
+    {{ with .Params.paperType }}
+    <div class="paper-info-page-title__paper-type">{{ . }}</div>
+    {{ end }}
+    <div class="paper-info-page-title__paper-title">{{ .Title }}</div>
+  </div>
+
+  <div id="page-content">
+    <article>
+      <div class="paper-info">
+
+        <div class="paper-info__authors">
+          {{ with .Params.authors }}
+          {{ delimit . ", " }}
+          {{ end }}
+        </div>
+
+        <div class="paper-info__abstract">
+          <span class="paper-info__abstract-keyword">Abstract:</span>
+          <span class="paper-info__abstract-content">{{ .Params.abstract | safeHTML }}</span>
+        </div>
+
+        <div class="paper-info__links">
+          {{ with .Params.url_pdf }}<a href="{{ . | absURL }}">PDF</a>{{ end }}
+          {{ with .Params.url_bibtex }}<a href="{{ . | absURL }}">BibTeX</a>{{ end }}
+        </div>
+      </div>
+    </article>
+
+  </div>
+{{ end }}

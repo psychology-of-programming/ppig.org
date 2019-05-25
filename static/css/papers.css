@@ -1,0 +1,44 @@
+/****************************
+* Paper info page
+*/
+
+.paper-info-page-title__workshop,
+.paper-info-page-title__paper-type {
+  font-size: 14px;
+  text-align: right;
+}
+
+.paper-info-page-title__paper-title {
+  font-size: 24px;
+}
+
+.paper-info__authors {
+  font-weight: 600;
+}
+
+.paper-info__abstract,
+.paper-info__links {
+  padding-top: 16px;
+}
+
+.paper-info__abstract-keyword {
+  font-style: italic;
+}
+
+
+/****************************
+* Paper library page
+*/
+
+.paper-library__paper {
+  padding-bottom: 16px;
+}
+
+.paper-library__paper-title {
+  font-size: 16px;
+}
+
+.paper-library__paper-authors,
+.paper-library__paper-links {
+  padding-left: 24px;
+}

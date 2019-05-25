@@ -1,0 +1,152 @@
+/****************************
+ * Fonts
+ */
+
+body {
+  font-family: Palatino, Georgia, Times, serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+nav, h1, h2, h3, h4, h5, h6,
+#page-title {
+  font-family: Oswald, sans-serif;
+  font-weight: 300;
+}
+
+code {
+  font-family: Consolas, monospace;
+}
+
+#page-title {
+  font-size: 30px;
+}
+
+h1 {
+  font-size: 20px;
+  margin: 32px 0 16px;
+}
+
+h2 {
+  font-size: 18px;
+  margin: 24px 0 12px;
+}
+
+h3, h4, h5, h6 {
+  font-size: 16px;
+  margin: 16px 0 8px;
+}
+
+footer {
+  font-size: 10px;
+}
+
+article {
+  text-align: justify;
+}
+
+/****************************
+* Colors
+*/
+
+color-desat-bright { color: #DD9B64 }
+color-desat-dark { color: #876C55 }
+color-primary { color: #272522 }
+color-sat-dark { color: #654931 }
+color-sat-bright { color: #8F490E }
+
+html, body {
+  color: #272522;
+}
+
+#page-title,
+h1, h2, h3 {
+  color: #DD9B64;
+}
+
+h4, h5, h6 {
+  color: #876C55;
+}
+
+a {
+  color: #654931;
+  text-decoration: underline #654931;
+  -webkit-transition: color 0.1s ease;
+  transition: color 0.1s ease;
+}
+
+a:hover {
+  color: #8F490E;
+}
+
+nav a {
+  color: #654931;
+  text-decoration: none;
+}
+
+/****************************
+ * Spacing and layout
+ */
+
+body {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  width: 100%;
+  min-height: 100%;
+}
+
+#left-sidebar {
+  flex: 0 0 auto;
+  position: fixed;
+  height: 100%;
+}
+
+#right-content {
+  display: flex;
+  flex-direction: column;
+  flex: 1 0 auto;
+  margin-left: 200px;
+}
+
+header {
+  position: relative;
+}
+
+footer {
+  position: relative;
+  padding: 20px;
+  text-align: center;
+}
+
+main {
+  flex: 1 0 auto;
+  display: flex;
+}
+
+#main-content {
+  width: 700px;
+  margin: 40px auto;
+  display: flex;
+  flex-direction: column;
+}
+
+#page-title,
+#page-content {
+  padding: 36px;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+main li {
+  padding-left: 48px;
+  text-indent: -24px;
+}
+
+p {
+  margin: 0.7em 0;
+}

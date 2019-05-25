@@ -1,0 +1,32 @@
+baseURL = "https://psychology-of-programming.appspot.com/"
+# baseURL = "https://www.cl.cam.ac.uk/~mcm79/ppig/"
+languageCode = "en-gb"
+title = "Psychology of Programming Interest Group"
+canonifyURLs = true
+
+ignoreFiles = [ "Icon?" ]
+
+# [[menu.main]]
+#     name = "Home"
+#     url = "/"
+#     weight = 1
+
+# [[menu.main]]
+#     name = "About PPIG"
+#     url = "/about/"
+#     weight = 2
+
+# [[menu.main]]
+#     name = "Next workshop"
+#     url = "/ppig-2019/"
+#     weight = 25
+
+# [[menu.main]]
+#     name = "Past workshops"
+#     url = "/workshops/"
+#     weight = 4
+
+# [[menu.main]]
+#     name = "Archive"
+#     url = "/archive/"
+#     weight = 5

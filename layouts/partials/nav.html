@@ -1,0 +1,36 @@
+<nav id="left-sidebar" class="left-sidebar">
+  <a href="{{ .Site.BaseURL }}"><img class="left-sidebar__logo" src="img/ppig-logo.png"/></a>
+
+  <ul class="left-sidebar__nav site-nav">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+      {{ if .HasChildren }}
+        <li class="site-nav__link {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)  }}site-nav__link--selected{{ end }}">
+          {{ if .Page.Content }}
+          <a href="{{ .URL }}">
+          {{ else }}
+          <a href="javascript:void(0);" class="js-toggle">
+          {{ end }}
+            {{ if .Page.Params.menuTitle }} {{ .Page.Params.menuTitle }}{{ else }}{{ .Name }}{{ end }}
+          </a>
+          <a href="javascript:void(0);" class="js-toggle arrow">▼</a>
+        </li>
+        <ul class="site-nav__sub-menu {{ if $currentPage.HasMenuCurrent "main" . }}visible{{ end }}">
+          {{ range .Children }}
+            <li class="site-nav__link {{ if $currentPage.IsMenuCurrent "main" . }}site-nav__link--selected{{ end }}">
+              <a href="{{ .URL }}">
+                {{ if .Page.Params.menuTitle }} {{ .Page.Params.menuTitle }}{{ else }}{{ .Name }}{{ end }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      {{ else }}
+        <li class="site-nav__link {{ if $currentPage.IsMenuCurrent "main" . }}site-nav__link--selected{{ end }}">
+          <a href="{{ .URL }}">
+            {{ if .Page.Params.menuTitle }} {{ .Page.Params.menuTitle }}{{ else }}{{ .Name }}{{ end }}
+          </a>
+        </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+</nav>
