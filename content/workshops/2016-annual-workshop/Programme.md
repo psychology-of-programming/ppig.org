@@ -260,4 +260,3 @@ _Guo Yu_
 
 _Mariana Marasoiu_
 
-*   [Log in](/user/login?destination=node/1012%23comment-form) to post comments
