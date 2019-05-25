@@ -1,3 +1,10 @@
+---
+title: "Call for papers"
+workshop: "ppig-2016"
+weight: 0
+---
+
+
 Psychology of Programming 2016 Call For Papers
 ----------------------------------------------
 
