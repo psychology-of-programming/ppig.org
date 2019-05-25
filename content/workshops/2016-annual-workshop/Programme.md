@@ -1,3 +1,10 @@
+---
+title: "Programme"
+workshop: "ppig-2016"
+weight: 1
+---
+
+
 PPIG 2016 Programme
 ===================
 
