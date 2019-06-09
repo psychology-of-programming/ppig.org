@@ -1,3 +1,9 @@
+---
+title: "Call for Papers"
+workshop: "ppig-2015"
+weight: 0
+---
+
 PPIG 2015 Call for Papers
 =========================
 
