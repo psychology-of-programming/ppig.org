@@ -1,8 +1,8 @@
 ---
-title: "PPIG 2015 - 26th Annual Workshop"
-dates: "15 Jul - 17 Jul 2015"
-startdate: "2017-07-15"
-location: "Bournemouth, UK"
-workshop: "ppig-2015"
+title: "PPIG 2016 - 27th Annual Workshop"
+dates: "7 Sep - 10 Sep 2016"
+startdate: "2017-09-16"
+location: "University of Cambridge, UK"
+workshop: "ppig-2016"
 ---
 
