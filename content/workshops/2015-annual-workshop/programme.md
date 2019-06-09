@@ -1,3 +1,9 @@
+---
+title: "Programme"
+workshop: "ppig-2015"
+weight: 1
+--
+
 PPIG 2015 Programme
 ===================
 
