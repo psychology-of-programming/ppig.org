@@ -1,3 +1,16 @@
+---
+title: "Programme"
+workshop: "ppig-2014"
+weight: 1
+--
+
+PPIG 2014 Programme
+===================
+
+
+
+
+
 Doctoral Consortium
 -------------------
 
