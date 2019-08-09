@@ -1,7 +1,7 @@
 ---
 title: "All recordable human discourse is trapped in aleph-zero"
 authors: [Oli Sharpe]
-abstract: "Borges’ short story 'The Library of Babel' is a classic literary exploration of the idea of a
+abstract: "Borges’ short story \"The Library of Babel\" is a classic literary exploration of the idea of a
 combinatorial library that contains all possible books of a certain format. However, this idea can be
 expanded into a theoretical enumeration over all possible recordable attempts by humans to
 communicate. From this we can deduce that the fidelity with which humans can refer is ‘only’

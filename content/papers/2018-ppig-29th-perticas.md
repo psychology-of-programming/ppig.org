@@ -1,6 +1,6 @@
 ---
 title: "Modeling cognitive processes underlying computer programming"
-authors: [Catalin F. Perticas, Bipin Indurkhya]
+authors: [Cătălin F. Perţicaş, Bipin Indurkhya]
 abstract: "We present an approach to modeling computer programming as a cognitive process. In particular, we
 apply Piaget’s four-stage model of cognitive development to study how programming is learnt by adult
 programmers. For this purpose we survey software developers at different stages in their career. In

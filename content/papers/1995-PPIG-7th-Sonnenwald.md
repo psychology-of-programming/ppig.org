@@ -1,0 +1,8 @@
+---
+title: "Knowledge Exploration in Design: Communicating Across Boundaries"
+authors: [Diane H. Sonnenwald]
+abstract: "The exploration and integration of information from multiple domains is increasingly important in the design process. For example, many engineering firms now use concurrent and life-cycle engineering design methods that emphasize the integration of software and mechanical engineering, manufacturing, marketing and distribution, maintenance and repair, disposal and recycling, and application (end-user, knowledge in order to create innovative and competitive artifacts and reduce design and development costs. Discovering how design participants explore and integrate information from multiple domains is a first step towards understanding how information technology could enhance this process. Based on field studies of four design situations in architecture, expert systems. telecommunications. and engineering design, this paper presents boundary spanning roles that emerge in the design context to support knowledge exploration. These roles provide access to information as well as filter and translate information across organizational, task. discipline, and personal boundaries. This paper further proposes a cognitive work model that could be implemented in information technology to support the boundary spanning roles design participants develop to cope with the complexity of knowledge exploration. This type of information system would support boundary spanning by providing advice on boundary spanning strategies, answering queries and presenting information based on boundary spanning roles, and performing gatekeeping functions."
+publishedAt: "ppig-1995"
+year: 1995
+url_pdf: "files/1995-PPIG-7th-Sonnenwald.pdf"
+---

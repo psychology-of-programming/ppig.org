@@ -1,0 +1,8 @@
+---
+title: "A neurofeedback system to promote learner engagement"
+authors: [James Lockwood, Aidan Mooney, Susan Bergin]
+abstract: "This paper describes a series of experiments that track novice programmer’s engagement during two attention based tasks. The tasks required participants to watch a tutorial video on introductory programming and to attend to a simple maze game whilst wearing an electroencephalogram (EEG) device called the Emotiv EPOC. The EPOC’s proprietary software includes a system which tracks emotional state (specifically: engagement, excitement, meditation, frustration, valence and long-term excitement). Using this data, a software application written in the Processing language was developed to track user’s engagement levels and implement a neurofeedback based intervention when engagement fell below an acceptable level. The aim of the intervention was to prompt learners who disengaged with the task to re-engage. The intervention used during the video tutorial was to pause the video if a participant disengaged significantly. However other interventions such as slowing the video down, playing a noise or darkening/brightening the screen could also be used. For the maze game, the caterpillar moving through the maze slowed in line with disengagement and moved more quickly once the learner re-engaged. The approach worked very well and successfully re-engaged participants, although a number of improvements could be made. A number of interesting findings on the comparative engagement levels of different groups e.g. by gender and by age etc. were identified and provide useful pointers for future research studies."
+publishedAt: "ppig-2016"
+year: 2016
+url_pdf: "files/2016-PPIG-27th-Lockwood.pdf"
+---
