@@ -2,8 +2,18 @@
 title: "Programme"
 workshop: "ppig-2014"
 weight: 10
-contentstyle: "wide"
 ---
+
+<style>
+article {
+  font-size: 12px;
+  width: 900px;
+  padding-right: 36px;
+}
+.workshop-content table th:first-of-type {
+  min-width: 90px;
+}
+</style>
 
 ## PPIG 2014 FINAL PROGRAMME: Version 1
 
@@ -34,11 +44,8 @@ contentstyle: "wide"
 |16.30-17.20  |__Session 2: Cognitive Factors (cont.)__|Ana Paula Ambrosio, Leandro Da Silva Almeida, Joaquim Macedo and Amanda Franco|Exploring Core Cognitive Skills of Computational Thinking|30mins|
 |             |                      |Laura Benvenuti and Gerrit Van Der Veer|The Object-Relational impedance mismatch from a cognitive point of view|20mins|
 |18.00-19.00  |Welcome drinks reception||||
-
-<br>
-
-||||||
-|------------|---------------|--- |--- |--- |
+|<br>|||||
+|<br>|||||
 |**THURSDAY**|**26th June**  ||||
 |8.30-9.00   |Registration   ||||
 |9.00-10.00  |__Invited speaker__|__Marian Petre__|The Psychology of PPIG: a curly tale|60mins|
@@ -60,11 +67,8 @@ contentstyle: "wide"
 |            |               |Sebastian Lohmeier|Activation and the Comprehension of Indirect Anaphors in Source Code|20mins|
 |            |               ||||
 |19.30-21.30 |Dinner + Speaker|__Alan Blackwell__||30mins|
-
-<br>
-
-||||||
-|-----------|---------------|--- |--- |--- |
+|<br>|||||
+|<br>|||||
 |**FRIDAY** |**27th June**  ||||
 |8.30-9.00  |Registration   ||||
 |9.00-10.00 |Invited speaker|__David Gilmore__|A Survey of the User Experience of Tools for Programming Real-time Control Systems Logic: An opportunity for applying cognitive dimensions|60mins|

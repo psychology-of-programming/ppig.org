@@ -4,6 +4,15 @@ workshop: "ppig-2018"
 weight: 1
 ---
 
+<style>
+.workshop-content table th:first-of-type {
+  min-width: 100px;
+}
+td em {
+  padding-left: 6px;
+}
+</style>
+
 ## Wednesday, 5 September
 
 |               |                   |

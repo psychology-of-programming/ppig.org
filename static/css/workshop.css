@@ -52,16 +52,12 @@
 * Workshop page table format
 */
 
-.workshop-content table th:first-of-type {
-  white-space: nowrap;
-  min-width: 100px;
+.workshop-content table {
+  text-align: left;
 }
 
 .workshop-content table td {
   vertical-align: top;
   padding-right: 12px;
-}
-
-.workshop-content table em {
-  padding-left: 12px;
+  padding-bottom: 12px;
 }

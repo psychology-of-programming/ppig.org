@@ -4,6 +4,12 @@ workshop: "ppig-2017"
 weight: 1
 ---
 
+<style>
+.workshop-content table th:first-of-type {
+  min-width: 100px;
+}
+</style>
+
 ## Saturday, 1 July
 
 |               |                   |
