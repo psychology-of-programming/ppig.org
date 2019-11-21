@@ -93,10 +93,10 @@ Details (including downloadable conference papers and the full PhD thesis) can b
 
 My new address is:
 
-Susan Wiedenbeck<br>
-College of Information Science and Technology<br>
-Drexel University<br>
-3141 Chestnut Street<br>
+Susan Wiedenbeck \
+College of Information Science and Technology \
+Drexel University \
+3141 Chestnut Street \
 Philadelphia, PA 19104 USA
 
 voice: +1 215 895 2490

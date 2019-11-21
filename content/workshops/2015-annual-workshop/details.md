@@ -8,22 +8,13 @@ weight: 30
 
 15-17 July 2015
 
-<br>
-
-__Hotel Miramar__
-
-East Overcliff Drive
-
-Bournemouth
-
-Dorset
-
+__Hotel Miramar__ \
+East Overcliff Drive \
+Bournemouth \
+Dorset \
 BH1 3AL
 
-<br>
-
-Tel: (01202) 556581
-
+Tel: (01202) 556581 \
 Fax: (01202) 291242
 
 ## Hotel Miramar
@@ -76,8 +67,7 @@ __Aruba Restaurant & Bar__ is located on Bournemouth seafront overlooking the Bo
 {{< figure src="/img/ppig-2015/ppig2015-4.jpg" width="auto" height="100px" class="fr pa1">}}
 {{< figure src="/img/ppig-2015/ppig2015-5.jpg" width="auto" height="100px" class="fr pa1">}}
 
-Prezzo
-
+Prezzo \
 Westover Road, Bournemouth, BH1 2BZ
 
 Prezzo is a 5-minute walk from Hotel Miramar.

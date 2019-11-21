@@ -40,7 +40,7 @@ Also included within this issue is a new interdisciplinary [book review]( {{< lo
 
 The PPIG newsletter is what you make it, so please feel free to submit articles and ideas for inclusion at any time. Other possibilities for future issues include compressed bibliographies or subject area summaries aimed towards busy researchers and industrialists. We are also particularly interested in conference reports and announcements, abstracts of recently published PPIG papers and developments within industry that may be of interest to the PPIG community, whether it being a new language, human-computer interaction evaluation approach or that new fantastic silver-bullet wielding software tool! Do tell us all!
 
-**Chris Douce**<br>
+**Chris Douce** \
 *Chrisd@fdbk.co.uk*
 
 ---
@@ -63,7 +63,8 @@ Rebel Code is considered to be an important addition to the genre of writing tha
 Chris Douce works in a small company that uses a mixture of open source and proprietary software to design educational systems for colleges.
 
 <br>
-***Rebel Code: Linux and the Open Source Revolution***<br>
+
+***Rebel Code: Linux and the Open Source Revolution*** \
 by **Glyn Moody**   January 2001   ISBN: 0738203335
 
 ---
@@ -110,17 +111,17 @@ Finally, I mentioned some of the languages we have to deal with: ADP, ASP, JSP f
 
 I hope these many questions will grab your attention and maybe kick-start some discussions on the PPIG mailing-list, in any case do not hesitate to email me directly!
 
-**Fabrice Retkowsky**<br>
-*fabrice@runtime-collective.com*<br>
+**Fabrice Retkowsky** \
+*fabrice@runtime-collective.com* \
 [www.runtime-collective.com](http://www.runtime-collective.com)
 
 ---
 
 # Paper
 ## A proposal for yet another dimension - the case for Tunability
-**Chris Roast**<br>
-Sheffield Hallam University Sheffield<br>
-*c.r.roast@shu.ac.uk*<br>
+**Chris Roast** \
+Sheffield Hallam University Sheffield \
+*c.r.roast@shu.ac.uk* \
 http://www.shu.ac.uk/schools/cms/teaching/crr/
 
 ### Introduction
@@ -165,10 +166,10 @@ On a final note, it was mentioned and agreed upon by all attendees of IWPC that 
 
 Next year, the International Workshop on Program Comprehension (IWPC 2002), will take place in Buenos Aires, Argentina, as a co-located event with ICSE 2002. Details of IWPC 2002 can be found by following the links on the [ICSE 2002 web site](http://www.icse-conferences.org/2002/).
 
-**Michael O'Brien**<br>
-Department of Information Technology<br>
-Limerick Institute of Technology<br>
-Moylish Park, Limerick<br>
+**Michael O'Brien** \
+Department of Information Technology \
+Limerick Institute of Technology \
+Moylish Park, Limerick \
 IRELAND *michael.obrien@lit.ie*
 
 ---

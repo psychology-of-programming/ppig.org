@@ -44,7 +44,7 @@ To format your paper, please use the [PPIG Word Template](http://www.sussex.ac.u
 
 Note that the templates currently (21st February 2014) refer to earlier PPIG conferences.  This will be fixed.
 
-Papers should be submitted via EasyChair in PDF format via  https://www.easychair.org/conferences/?conf=ppig2014
+Papers should be submitted via [EasyChair](https://www.easychair.org/conferences/?conf=ppig2014) in PDF format.
 
 ## Doctoral Consortium
 
@@ -53,14 +53,9 @@ The Psychology of Programming Interest Group Workshop will again host a doctoral
 
 ## Dates
 
-__Extended from 25th March to 31st March__: submission of draft <u>Full</u> and <u>Short or Work in Progress</u> papers
-
-__7th May__: authors will be notified
-
-__1st June__: submission of final camera‐ready copy
-
-__13th May__: submission of <u>Doctorial Consortium</u> papers _(note change from later date of 25th May)_
-
-__25th June 2014__: Doctoral Consortium
-
+__Extended from 25th March to 31st March__: submission of draft <u>Full</u> and <u>Short or Work in Progress</u> papers \
+__7th May__: authors will be notified \
+__1st June__: submission of final camera‐ready copy \
+__13th May__: submission of <u>Doctorial Consortium</u> papers _(note change from later date of 25th May)_ \
+__25th June 2014__: Doctoral Consortium \
 __25th-27th June 2014__: Conference

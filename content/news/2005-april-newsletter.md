@@ -80,7 +80,7 @@ If you have any questions regarding the event, please don't hesitate to contact 
 
 # Work in Progress PPIG Workshop
 ## Unroll Your Ideas: a work-in-progress meeting of the Psychology of Programming Interest Group
-December 15-16 2004<br>
+December 15-16 2004 \
 University of Nottingham, UK
 
 Review by **Eileen Doyle**
@@ -133,9 +133,9 @@ Finally I would like to thank Marjahan and her team for organising a successful 
 by **Chris Douce**
 
 ## Code Complete : A practical handbook of software construction (Second Edition)
-by **Steve McConnell**<br>
-Microsoft Press, 2004<br>
-ISBN 0-7356-1967-0<br>
+by **Steve McConnell** \
+Microsoft Press, 2004 \
+ISBN 0-7356-1967-0
 
 Not long after discovering Software Psychology by Ben Shneiderman in the university library, I remember being excited when I stumbled over what almost seemed to be a code oriented contemporary equivalent in a local bookshop: Code Complete.
 
@@ -179,7 +179,7 @@ Do you know of a journal that may be of interest to fellow PPIG members? If so, 
 
 # Conferences, Workshops and Call for Papers
 ## SPA2005 - Software Practice Advancement
-April 10-13, 2005<br>
+April 10-13, 2005 \
 The Robinson Centre, Bedfordshire, England
 
 SPA2005 explores the following issues:
@@ -221,7 +221,7 @@ More information can be found at: [SPA2005](http://www.spaconference.org/)
 Editors note: [Session 42](http://www.spaconference.org/sessions/session42.html) looks particularly appealing
 
 ## ACCU 2005
-April 20-23, 2005<br>
+April 20-23, 2005 \
 Oxford, UK
 
 The ACCU Conference 2005 will bring software professionals the chance to hear about the latest ideas in software development.
@@ -235,7 +235,7 @@ The lineup of speakers includes many well known industry figures, writers and pr
 [ACCU website](http://www.accu.org/conference/)
 
 ## 12th Annual ACT-R Workshop
-July 15-17, 2005<br>
+July 15-17, 2005 \
 Trieste, Italy
 
 ACT-R is a cognitive theory and simulation system for developing cognitive models for tasks that vary from simple reaction time to air traffic control.
@@ -253,7 +253,7 @@ More information can be found on the CogSci webiste:
 [27th annual meeting of the Cognitive Science Society (CogSci 2005)](http://www.psych.unito.it/csc/cogsci05/default.html)
 
 ## HCI 2005
-September 5-9, 2005<br>
+September 5-9, 2005 \
 Napier University, Edinburgh, UK
 
 HCI2005 is the 19th Annual Conference of the British HCI Group, a specialist group of the British Computer Society. Established in 1985, the conference has become the premier annual conference on Human-Computer Interaction in Europe. Attracting hundreds of researchers and practitioners from over twenty countries, its published proceedings (The People & Computers series) form an important part of the archive of HCI research.

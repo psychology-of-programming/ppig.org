@@ -4,9 +4,9 @@ date: "2001-07-01"
 ---
 
 # A proposal for yet another dimension - the case for Tunability
-Chris Roast<br>
-*Sheffield Hallam University, Sheffield, UK*<br>
-c.r.roast@shu.ac.uk<br>
+Chris Roast \
+*Sheffield Hallam University, Sheffield, UK* \
+c.r.roast@shu.ac.uk \
 [www.shu.ac.uk/schools/cms/teaching/crr/]
 
 ## Introduction

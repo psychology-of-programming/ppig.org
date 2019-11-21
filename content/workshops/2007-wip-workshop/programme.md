@@ -17,7 +17,7 @@ workshop: "ppig-wip-2007"
 
 ### Session 2: Design Practice
 
- **Connecting Programming with Accessibility**
+**Connecting Programming with Accessibility**
 
 - Chris Douce (Open)
 

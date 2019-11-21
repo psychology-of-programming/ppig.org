@@ -10,16 +10,16 @@ weight: 10
 
 ## Where
 
-Science Centre Delft
-Mijnbouwstraat 120
-2628 RX Delft
+Science Centre Delft \
+Mijnbouwstraat 120 \
+2628 RX Delft \
 Netherlands
 
-http://www.sciencecentre.tudelft.nl/en/ 
+http://www.sciencecentre.tudelft.nl/en/
 
 ## Costs (not including credit card handling fees)
 
-Student or Independent Artist Registration: €100,50
+Student or Independent Artist Registration: €100,50 \
 Regular Registration : €300,50
 
 ## Hotel
@@ -28,7 +28,7 @@ For the PPIG 2017 workshop we have made price arrangements with Hampshire Hotel 
 
 Standard room € 106.50 for one person and € 116.50 for two, including breakfast and free internet. Tourist tax € 2.90 per person per night (not included)
 
-Reservations can only be made with code “PPIG2017TUDELFT” via e-mail at reserveringen@hoteldelftcentre.nl or phone +31 (0)15-212 2125  
+Reservations can only be made with code “PPIG2017TUDELFT” via e-mail at reserveringen@hoteldelftcentre.nl or phone +31 (0)15-212 2125
 
 ## Arriving
 

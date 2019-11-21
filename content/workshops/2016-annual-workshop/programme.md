@@ -5,6 +5,9 @@ weight: 1
 ---
 
 <style>
+  ul {
+    list-style: none;
+  }
   li > p {
     margin-bottom: 0;
   }

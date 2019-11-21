@@ -53,10 +53,7 @@ Research students are also requested to bring an A2/A3 poster presenting their w
 
 ### Dates
 
-__27 April__: submission of draft Full and Short or Work in Progress papers
-
-__25 May__: authors will be notified
-
-__15 June__: submission of final camera‐ready copy
-
+__27 April__: submission of draft Full and Short or Work in Progress papers \
+__25 May__: authors will be notified \
+__15 June__: submission of final camera‐ready copy \
 __1 June__: submission of Doctorial Consortium papers
