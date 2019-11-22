@@ -1,5 +1,5 @@
 ---
-title: "Newsletter: January 2001"
+title: "January 2001 Newsletter"
 date: 2001-01-01
 newsletter: "january-2001"
 ---

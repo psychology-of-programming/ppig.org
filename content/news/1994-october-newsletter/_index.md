@@ -1,7 +1,8 @@
 ---
-title: "Newsletter: October 1994"
+title: "October 1994 Newsletter"
 date: 1994-10-01
 newsletter: "october-1994"
+layout: "news-single"
 ---
 
 _Issue_: Number 15 \

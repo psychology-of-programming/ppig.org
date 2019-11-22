@@ -1,7 +1,8 @@
 ---
-title: "Newsletter: July 2001"
+title: "July 2001 Newsletter"
 date: 2001-07-01
 newsletter: "july-2001"
+layout: "news-single"
 ---
 
 Editor: **Chris Douce**

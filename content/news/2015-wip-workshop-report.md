@@ -1,5 +1,5 @@
 ---
-title: "PPIG 2015: Work in Progress meeting report"
+title: "2015 WIP meeting report"
 date: 2015-02-28
 newsletter: "wip-report-2015"
 ---

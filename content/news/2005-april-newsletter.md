@@ -1,5 +1,5 @@
 ---
-title: "Newsletter: April 2005"
+title: "April 2005 Newsletter"
 date: 2005-04-01
 newsletter: "april-2005"
 ---

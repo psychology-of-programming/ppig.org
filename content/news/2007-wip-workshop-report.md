@@ -1,5 +1,5 @@
 ---
-title: "PPIG WIP 2007 Report"
+title: "2007 WIP meeting Report"
 date: 2007-02-28
 newsletter: "wip-report-2007"
 ---
