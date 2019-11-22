@@ -1,6 +1,7 @@
 ---
 title: "Newsletter: January 2001"
-date: "2001-01-01"
+date: 2001-01-01
+newsletter: "january-2001"
 ---
 
 Editor: **Paul Mulholland**

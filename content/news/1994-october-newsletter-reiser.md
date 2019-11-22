@@ -1,8 +1,8 @@
 ---
 title: "Cognitive and motivational consequences of tutoring and discovery learning"
 authors: [B. J. Reiser, W. A. Copen, M. Ranney, A. Hamid, D. Y. Kimberg]
-date: "1994-10-01"
 newsletter: "october-1994"
+subpage: true
 ---
 
 Reiser, B. J., Copen, W. A., Ranney, M., Hamid, A. & Kimberg, D. Y. (1994) \

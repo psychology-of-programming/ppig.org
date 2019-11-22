@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+  <div id="page-title">
+    {{ .Title }}
+  </div>
+
+  <div id="page-content">
+
+    {{ $sitePages := .Pages }}
+
+    <article>
+
+      {{ $scratch := .Scratch }}
+
+      {{ range .Pages.GroupByDate "2006-01" }}
+        {{ range (where .Pages "Params.subpage" "ne" true).GroupByParam "newsletter" }}
+          {{ range .Pages }}
+            {{ $scratch.SetInMap "newsletters" .Params.newsletter .Page }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+
+      {{ $sortedPages := $scratch.GetSortedMapValues "newsletters" }}
+      {{ $sortedPages := sort $sortedPages ".Params.date" "desc" }}
+
+      <div class="newsletter-library">
+      {{ range $sortedPages }}
+        <div class="newsletter-library__newsletter-title">
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        </div>
+
+        {{/*  <ul class="newspaper-library__pages-list">
+          {{ range (where (where $sitePages "Params.newsletter" .Params.newsletter) "Params.subpage" true) }}
+            <li class="newspaper-library__page">
+              <div class="newspaper-library__page-title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+              <div class="newspaper-library__page-authors">
+                {{ with .Params.authors }}
+                {{ delimit . ", " }}
+                {{ end }}
+              </div>
+            </li>
+          {{ end }}
+        </ul>  */}}
+      {{ end }}
+    </article>
+
+  </div>
+{{ end }}

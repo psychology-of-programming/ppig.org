@@ -1,8 +1,8 @@
 ---
 title: "Scaffolding effective problem solving strategies in interactive learning environments"
 authors: [D. C. Merrill, B. J. Reiser]
-date: "1994-10-01"
 newsletter: "october-1994"
+subpage: true
 ---
 
 Merrill, D. C. & Reiser, B. J. (1994) \

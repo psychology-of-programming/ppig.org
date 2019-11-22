@@ -1,6 +1,6 @@
 ---
 title: "Newsletter: October 1994"
-date: "1994-10-01"
+date: 1994-10-01
 newsletter: "october-1994"
 ---
 

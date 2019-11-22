@@ -1,6 +1,8 @@
 ---
-title: "Newsletter: July 2001 - Paper"
-date: "2001-07-01"
+title: "A proposal for yet another dimension - the case for Tunability"
+authors: [Chris Roast]
+newsletter: "january-2001"
+subpage: true
 ---
 
 # A proposal for yet another dimension - the case for Tunability

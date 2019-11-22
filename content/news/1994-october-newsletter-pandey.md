@@ -1,8 +1,8 @@
 ---
 title: "Is It Easier To Write Matrix Manipulation Programs Visually Or Textually? An Empirical Study"
 authors: [Rajeev K. Pandey, Margaret M. Burnett]
-date: "1994-10-01"
 newsletter: "october-1994"
+subpage: true
 ---
 
 Rajeev K. Pandey & Margaret M. Burnett \

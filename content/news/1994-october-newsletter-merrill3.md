@@ -1,8 +1,8 @@
 ---
 title: "Tutoring: Guided learning by doing"
 authors: [D. C. Merrill, B. J. Reiser, S. K. Merrill, S. Landes]
-date: "1994-10-01"
 newsletter: "october-1994"
+subpage: true
 ---
 
 Merrill, D. C., Reiser, B. J., Merrill, S. K. & Landes, S. (1994) \

@@ -1,8 +1,8 @@
 ---
 title: "The Organization and Character of Programmers' Knowledge Concerning Software Bugs"
 authors: [Jared Freeman]
-date: "1994-10-01"
 newsletter: "october-1994"
+subpage: true
 ---
 
 Jared Freeman \

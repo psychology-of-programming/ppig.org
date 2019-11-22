@@ -1,6 +1,7 @@
 ---
 title: "PPIG WIP 2007 Report"
-date: "2007-02-28"
+date: 2007-02-28
+newsletter: "wip-report-2007"
 ---
 
 Several of participants of event have taken the time to describe their presentations and tell us what they gained from the WIP workshop.

@@ -1,8 +1,8 @@
 ---
 title: "The contributions of studying examples and solving problems to skill acquisition"
 authors: [J. G. Trafton, B. J. Reiser]
-date: "1994-10-01"
 newsletter: "october-1994"
+subpage: true
 ---
 
 Trafton, J. G. & Reiser, B. J. (1993) \

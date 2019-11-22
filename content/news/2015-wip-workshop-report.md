@@ -1,6 +1,7 @@
 ---
 title: "PPIG 2015: Work in Progress meeting report"
-date: "2015-02-28"
+date: 2015-02-28
+newsletter: "wip-report-2015"
 ---
 
 By __Chris Douce__

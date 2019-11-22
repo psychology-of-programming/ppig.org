@@ -1,6 +1,7 @@
 ---
 title: "Newsletter: April 2005"
-date: "2005-04-01"
+date: 2005-04-01
+newsletter: "april-2005"
 ---
 
 Editor: **Chris Douce**

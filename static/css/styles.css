@@ -62,11 +62,17 @@ html, body {
 }
 
 #page-title,
-h1, h2, h3 {
+h1, h2, h3,
+h1 a,
+h2 a,
+h3 a {
   color: #DD9B64;
 }
 
-h4, h5, h6 {
+h4, h5, h6,
+h4 a,
+h5 a,
+h6 a {
   color: #876C55;
 }
 
