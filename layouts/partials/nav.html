@@ -9,11 +9,11 @@
           {{ if .Page.Content }}
           <a href="{{ .URL }}">
           {{ else }}
-          <a href="javascript:void(0);" class="js-toggle">
+          <a href="javascript:void(0);" class="js-toggle" style="display: inline;">
           {{ end }}
             {{ if .Page.Params.menuTitle }} {{ .Page.Params.menuTitle }}{{ else }}{{ .Name }}{{ end }}
           </a>
-          <a href="javascript:void(0);" class="js-toggle arrow">▼</a>
+          <a href="javascript:void(0);" class="js-toggle arrow" style="display: inline;">▼</a>
         </li>
         <ul class="site-nav__sub-menu {{ if $currentPage.HasMenuCurrent "main" . }}visible{{ end }}">
           {{ range .Children }}
