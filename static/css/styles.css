@@ -153,6 +153,10 @@ ul {
   padding-left: 24px;
 }
 
+ol {
+  padding-left: 24px;
+}
+
 p {
   margin: 0.7em 0;
 }
