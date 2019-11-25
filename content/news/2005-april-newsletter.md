@@ -10,9 +10,9 @@ Editor: **Chris Douce**
 
 [Editorial]( {{< localref "#editorial" >}} )
 
-[PPIG 2005 Workshop]( {{< localref "#ppig-2005-workshop" >}} ) Pablo Romero provides some details about the forthcoming workshop
+[PPIG 2005 Workshop]( {{< localref "#ppig-2005" >}} ) Pablo Romero provides some details about the forthcoming workshop
 
-[Work in Progress Workshop Review]( {{< localref "#work-in-progress-workshop-review" >}} ) Eileen Doyle provides a fine eye-witness report on the event that was the Unroll your ideas work-in-progress workshop
+[Work in Progress Workshop Review]( {{< localref "#work-in-progress-ppig-workshop" >}} ) Eileen Doyle provides a fine eye-witness report on the event that was the Unroll your ideas work-in-progress workshop
 
 [Book and Journal Reviews]( {{< localref "#book-and-journal-reviews" >}} ) - Chris Douce reviews Code Complete by Steve McConnell
 
@@ -20,11 +20,11 @@ Editor: **Chris Douce**
 
 [Spotlight on PPIGers]( {{< localref "#spotlight-on-ppigers" >}} ) where you are and what you are doing
 
-[Curiosity Corner]( {{< localref "#curiosity-corner" >}} ) Chris Douce present an ecclectic list of programming related trivia and links
+[Curiosity Corner]( {{< localref "#curiosity-corner" >}} ) Chris Douce presents an ecclectic list of programming related trivia and links
 
-[Factors affecting use of constructs]( {{< localref "#factors-affecting-use-of-constructs" >}} ) Derek Jones presents a short article about the use of programming constructs
+[Factors affecting use of constructs]( {{< localref "#factors-affecting-the-use-of-language-constructs" >}} ) Derek Jones presents a short article about the use of programming constructs
 
-[Software Patents]( {{< localref "#software-patents" >}} ) A number of links to language design and software patent issues
+[Software Patents]( {{< localref "#software-patents-and-language-design" >}} ) A number of links to language design and software patent issues
 
 ---
 
