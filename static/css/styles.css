@@ -162,3 +162,8 @@ blockquote {
   border-left: 2px solid #DD9B64;
   font-style: italic;
 }
+
+td {
+  padding-right: 12px;
+  padding-bottom: 6px;
+}

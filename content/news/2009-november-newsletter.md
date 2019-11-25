@@ -460,8 +460,6 @@ _Italics_ indicate the journals my students most often target.
 
 <style>
 table td {
-  padding-right: 12px;
-  padding-bottom: 6px;
   font-size: 11px;
   text-align: left;
 }
