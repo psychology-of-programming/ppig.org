@@ -10,21 +10,21 @@ Editor: **Chris Douce**
 
 [Editorial]( {{< localref "#editorial" >}} )
 
-[PPIG 2005 Workshop]( {{< localref "#ppig-2005" >}} ) Pablo Romero provides some details about the forthcoming workshop
+**[PPIG 2005 Workshop]( {{< localref "#ppig-2005" >}} )** **Pablo Romero** provides some details about the forthcoming workshop
 
-[Work in Progress Workshop Review]( {{< localref "#work-in-progress-ppig-workshop" >}} ) Eileen Doyle provides a fine eye-witness report on the event that was the Unroll your ideas work-in-progress workshop
+**[Work in Progress Workshop Review]( {{< localref "#work-in-progress-ppig-workshop" >}} )** **Eileen Doyle** provides a fine eye-witness report on the event that was the Unroll your ideas work-in-progress workshop
 
-[Book and Journal Reviews]( {{< localref "#book-and-journal-reviews" >}} ) - Chris Douce reviews Code Complete by Steve McConnell
+**[Book and Journal Reviews]( {{< localref "#book-and-journal-reviews" >}} )** - **Chris Douce** reviews *Code Complete* by **Steve McConnell**
 
-[Conferences, Workshops and Call for Papers]( {{< localref "#conferences-workshops-and-call-for-papers" >}} )
+**[Conferences, Workshops and Call for Papers]( {{< localref "#conferences-workshops-and-call-for-papers" >}} )**
 
-[Spotlight on PPIGers]( {{< localref "#spotlight-on-ppigers" >}} ) where you are and what you are doing
+**[Spotlight on PPIGers]( {{< localref "#spotlight-on-ppigers" >}} )** where you are and what you are doing
 
-[Curiosity Corner]( {{< localref "#curiosity-corner" >}} ) Chris Douce presents an ecclectic list of programming related trivia and links
+**[Curiosity Corner]( {{< localref "#curiosity-corner" >}} )** **Chris Douce** presents an ecclectic list of programming related trivia and links
 
-[Factors affecting use of constructs]( {{< localref "#factors-affecting-the-use-of-language-constructs" >}} ) Derek Jones presents a short article about the use of programming constructs
+**[Factors affecting use of constructs]( {{< localref "#factors-affecting-the-use-of-language-constructs" >}} )** **Derek Jones** presents a short article about the use of programming constructs
 
-[Software Patents]( {{< localref "#software-patents-and-language-design" >}} ) A number of links to language design and software patent issues
+**[Software Patents]( {{< localref "#software-patents-and-language-design" >}} )** A number of links to language design and software patent issues
 
 ---
 
@@ -515,7 +515,7 @@ The amount of nesting of language constructs often (e.g., fig 43, 44, 45, 184, 1
 
 Educators will be interested in the fact that a large percentage of statements are very simple (e.g., table 192, 202, 205, 219). Concentrating on teaching the common cases will help students focus on what they will mostly encounter during program comprehension (and perhaps reduce the desire to write complicated code).
 
-Anybody wanting to measure a different collection of C source can find some useful tools at [www.knosof.co.uk/cbook/srccnt.tgz] (note: a *nix based system is required).
+Anybody wanting to measure a different collection of C source can find some useful tools at [www.knosof.co.uk/cbook/srccnt.tgz](www.knosof.co.uk/cbook/srccnt.tgz) (note: a *nix based system is required).
 
 ---
 
