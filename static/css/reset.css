@@ -66,3 +66,7 @@ b, strong {
 code {
   font-family: monospace;
 }
+
+sub, sup {
+  font-size: 75%;
+}
