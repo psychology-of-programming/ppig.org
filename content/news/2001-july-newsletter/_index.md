@@ -24,7 +24,7 @@ Editor: **Chris Douce**
 [New Projects]( {{< localref "#new-projects" >}} ): A new crusade for comprehension, **Pablo Romero**
 
 [Announcements]( {{< localref "#announcements" >}} ):
-[INSERC 2001]( {{< localref "#inserc" >}} ),
+[INSERC 2001]( {{< localref "#inserc-2001" >}} ),
 [eLearn Magazine]( {{< localref "#elearn-magazine" >}} )
 and spotlight on PPIGers:
 [David Gilmore]( {{< localref "#david-gilmore" >}} ),

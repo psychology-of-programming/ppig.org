@@ -10,9 +10,9 @@ Editor: **Chris Douce**
 
 [Editorial]( {{< localref "#editorial" >}} )
 
-**[Workshop Review]( {{< localref "#todo" >}} )** **Chris Douce** compiles a witness report on the success that was PPIG 2004.
+**[Workshop Review]( {{< localref "#workshop-review" >}} )** **Chris Douce** compiles a witness report on the success that was PPIG 2004.
 
-**[Work in progress workshop]( {{< localref "#todo" >}} )** **Marjahan Begum** and **Thomas Green** provides us with information about a forthcoming work-in-progress workshop
+**[Work in progress workshop]( {{< localref "#work-in-progress-ppig-workshop" >}} )** **Marjahan Begum** and **Thomas Green** provides us with information about a forthcoming work-in-progress workshop
 
 **[Book and Journal Reviews]( {{< localref "#book-and-journal-reviews" >}} )** - **Chris Douce** reviews *Computer Science Education Research* by **Sally Fincher** and **Marian Petre**
 

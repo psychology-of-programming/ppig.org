@@ -21,7 +21,7 @@ Editor: **Chris Douce**
 
 **[Doddery Foddery 2: Harder to Digest]( {{< localref "#dodder-fodder-2" >}} )** *Another light-hearted selection of programming related web sites* by **Frank Wales**.
 
-[Lighter Point(er)s]( {{< localref "#lighter-point-er-s" >}} )
+[Lighter Point(er)s]( {{< localref "#lighter-pointers" >}} )
 
 **[In Memory]( {{< localref "#in-memory" >}} )** Edsger Wybe Dijkstra.
 

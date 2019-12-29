@@ -13,7 +13,7 @@ Editor: **Chris Douce**
 **[Book Reviews]( {{< localref "#book-reviews" >}} )**
 **Chris Douce** reviews *Refactoring: Improving the Design of Existing Code*.
 
-**[Software Design - Cognitive Aspects]( {{< localref "#software-design-cognitive-aspects" >}} )** - **Françoise Détienne** introduces her new book.
+**[Software Design - Cognitive Aspects]( {{< localref "#software-design---cognitive-aspects" >}} )** - **Françoise Détienne** introduces her new book.
 
 **[Announcements]( {{< localref "#announcements" >}} )** - Find out more about the forthcoming PPIG'02 workshop including ESP and several other related workshops and conferences.
 

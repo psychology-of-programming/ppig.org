@@ -9,7 +9,7 @@ Editors: **Roman Bednarik and Chris Douce**
 
 # Contents
 
-[Editorial]( {{< localref "#editorial-finally" >}} ) by Roman Bednarik
+[Editorial]( {{< localref "#editorial---finally" >}} ) by Roman Bednarik
 
 **[PPIG 2009 Workshop Report]( {{< localref "#ppig-2009-workshop-report" >}} )** by Jim Buckley
 
@@ -18,7 +18,7 @@ Editors: **Roman Bednarik and Chris Douce**
 **[Work in progress 2009 workshop]( {{< localref "#work-in-progress-2009" >}} )** - by Gabriela Pavel
 
 **[Spotlight on PPIGers]( {{< localref "#spotlight-on-ppigers" >}} )** \
-[Andres Moreno, University of Joensuu]( {{< localref "#andrés-moreno-university-of-joensuu" >}} ) \
+[Andres Moreno, University of Joensuu]( {{< localref "#andrs-moreno-university-of-joensuu" >}} ) \
 [Chris Martin, University of Dundee]( {{< localref "#chris-martin-university-of-dundee" >}} ) \
 [Sami Pietinen, University of Joensuu]( {{< localref "#sami-pietinen-university-of-joensuu" >}} )
 
@@ -26,7 +26,7 @@ Editors: **Roman Bednarik and Chris Douce**
 [Forthcoming PPIG Workshops]( {{< localref "#forthcoming-ppig-workshops" >}} ) \
 [PPIG WIP 7-8 January 2010: call for papers.]( {{< localref "#ppig-wip-7-8-january-2010-call-for-papers" >}} ) \
 [PPIG 2010]( {{< localref "#ppig-2010" >}} ) \
-[2010 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC'10)]( {{< localref "#2010-ieee-symposium-on-visual-languages-and-human-centric-computing-vl-hcc-10" >}} ) \
+[2010 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC'10)]( {{< localref "#2010-ieee-symposium-on-visual-languages-and-human-centric-computing-vlhcc10" >}} ) \
 [Special issue: IEEE Software Special Issue on the Cooperative and Human Aspects of Software Engineering]( {{< localref "#special-issue-ieee-software-special-issue-on-the-cooperative-and-human-aspects-of-software-engineering" >}} )
 
 **[The journals PPIGers can submit to (and get eventually accepted)]( {{< localref "#the-journals-ppigers-can-submit-to-and-get-eventually-accepted" >}} )** by Marian Petre

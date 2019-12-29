@@ -10,7 +10,7 @@ Editor: **Chris Douce**
 
 [Editorial]( {{< localref "#editorial" >}} )
 
-**[PPIG '04]( {{< localref "#ppig-04-16th-annual-ppig-workshop" >}} )** **Enda Dunican** provides us with further information regarding this year's workshop.
+**[PPIG '04]( {{< localref "#ppig-04---16th-annual-ppig-workshop" >}} )** **Enda Dunican** provides us with further information regarding this year's workshop.
 
 **[Book and Journal Reviews]( {{< localref "#book-and-journal-reviews" >}} )** - **Chris Douce** reviews *Secure Cording: Principles and Practices* by **Mark Graff and Kenneth van Wyk**
 

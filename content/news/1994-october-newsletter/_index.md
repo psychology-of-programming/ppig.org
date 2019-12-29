@@ -10,19 +10,19 @@ _Editor_: Paola Kathuria
 
 # Contents
 
-[PPIG-7 Annual Workshop]( {{< localref "#spotlight-on-ppig-members" >}} ) \
-[INTERACT'95]( {{< localref "#upcoming-conferences" >}} ) \
-[ESP 6]( {{< localref "#upcoming-conferences" >}} ) \
-[EWITD'94 - Conference Report]( {{< localref "#upcoming-conferences" >}} ) \
-[Research Notes]( {{< localref "#upcoming-conferences" >}} ):
+[PPIG-7 Annual Workshop]( {{< localref "#ppig-7-annual-workshop" >}} ) \
+[INTERACT'95]( {{< localref "#interact-95" >}} ) \
+[ESP 6]( {{< localref "#esp-6" >}} ) \
+[EWITD'94 - Conference Report]( {{< localref "#conference-report" >}} ) \
+[Research Notes]( {{< localref "#research-notes" >}} ):
 
-- [Jared Freeman]( {{< localref "#upcoming-conferences" >}} )
-- [Judith Segal]( {{< localref "#upcoming-conferences" >}} )
-- [Judith Good]( {{< localref "#upcoming-conferences" >}} )
-- [Nick Flor]( {{< localref "#upcoming-conferences" >}} )
-- [Dr Arthur V. Lopes]( {{< localref "#upcoming-conferences" >}} )
+- [Jared Freeman]( {{< localref "#jared-freeman" >}} )
+- [Judith Segal]( {{< localref "#judith-segal" >}} )
+- [Judith Good]( {{< localref "#judith-good" >}} )
+- [Nick Flor]( {{< localref "#nick-flor" >}} )
+- [Dr Arthur V. Lopes]( {{< localref "#dr-arthur-v-lopes" >}} )
 
-[Abstracts]( {{< localref "#upcoming-conferences" >}} )
+[Abstracts]( {{< localref "#abstracts" >}} )
 
 ---
 
