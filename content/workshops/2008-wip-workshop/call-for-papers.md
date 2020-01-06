@@ -1,5 +1,5 @@
 ---
-title: "call-for-papers.md
+title: "call-for-papers.md"
 workshop: "ppig-wip-2008"
 weight: 0
 ---
