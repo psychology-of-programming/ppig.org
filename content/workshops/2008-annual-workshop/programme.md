@@ -1,3 +1,9 @@
+---
+title: "Programme"
+workshop: "ppig-2008"
+weight: 1
+---
+
 Wednesday, 10 September 2008
 ----------------------------
 
