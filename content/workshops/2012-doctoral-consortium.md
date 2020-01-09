@@ -11,9 +11,7 @@ PPIG Doctoral Consortium 2012
 
 21 Nov 2012
 
-London Metropolitan University
-
-*   UK
+London Metropolitan University, UK
 
 Workshop papers
 ---------------
