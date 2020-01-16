@@ -2,6 +2,7 @@
 title: "Report and Photos"
 workshop: "ppig-2001"
 weight: 1
+---
 
 
 *This really needs the photos! - TG* 
