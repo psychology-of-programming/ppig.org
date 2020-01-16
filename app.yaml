@@ -1,19 +1,17 @@
 runtime: python27
 threadsafe: true
 api_version: 1
+application: psychology-of-programming
+version: 2019-03-29
 
 handlers:
 - url: /
   static_files: public/index.html
   upload: /
+- url: /files
+  static_dir: public/files
 - url: /css
   static_dir: public/css
-#- url: /publication
-#  static_files: public/publication/index.html
-#  upload: /
-# - url: /talk
-#   static_files: public/talk/index.html
-#   upload: /
 - url: /fonts
   static_dir: public/fonts
   http_headers:
