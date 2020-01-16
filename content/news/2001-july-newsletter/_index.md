@@ -129,7 +129,7 @@ http://www.shu.ac.uk/schools/cms/teaching/crr/
 ### Introduction
 Cognitive dimensions provide a range of concepts that have been used to assess and compare a variety of information artifacts. The cognitive dimensions are intended to provide a "language" capable of capturing features of human system interaction that are both common to a variety of systems and highly relevant to the effective use of systems. In this short paper we propose that the notion of "tunability" should serve as another dimension not evident in the established set.
 
-[read the full paper...](archives/news/2001-july-newsletter-paper/)
+[read the full paper...](news/2001-july-newsletter/2001-july-newsletter-paper/)
 
 ---
 

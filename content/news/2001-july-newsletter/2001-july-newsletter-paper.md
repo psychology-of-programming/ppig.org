@@ -1,15 +1,14 @@
 ---
 title: "A proposal for yet another dimension - the case for Tunability"
 authors: [Chris Roast]
-newsletter: "january-2001"
+newsletter: "july-2001"
 subpage: true
 ---
 
-# A proposal for yet another dimension - the case for Tunability
 Chris Roast \
 *Sheffield Hallam University, Sheffield, UK* \
 c.r.roast@shu.ac.uk \
-[www.shu.ac.uk/schools/cms/teaching/crr/]
+www.shu.ac.uk/schools/cms/teaching/crr/
 
 ## Introduction
 Cognitive dimensions provide a range of concepts that have been used to assess and compare a variety of information artifacts. The cognitive dimensions are intended to provide a "language" capable of capturing features of human system interaction that are both common to a variety of systems and highly relevant to the effective use of systems. In this short paper we propose that the notion of "tunability" should serve as another dimension not evident in the established set.
