@@ -20,11 +20,11 @@ But here we have a contradiction, since although programming is famously comfort
 What assistance could a future programming offer to such struggling traditions?
 
 ## Location
-The Art Workers' Guild
-6 Queen Square
-Bloomsbury
-London
-WC1N 3AT
+The Art Workers' Guild \
+6 Queen Square \
+Bloomsbury \
+London \
+WC1N 3AT \
 UK
 
 This year’s PPIG workshop will be gloriously hosted in the London headquarters of the Art Workers’ Guild, founded in 1884 by followers of William Morris.
@@ -49,12 +49,12 @@ Submissions for the workshop should be uploaded to EasyChair.
 
 ## Important dates
 
-* *Abstract submission* deadline: 1 June 2018
-* *Doctoral consortium submissions* deadline: 15 June 2018
-* *Paper submission* deadline: 29 June 2018
-* *Authors will be notified*: 20 July 2018
-* *Submission of final camera ready copy*: ~~3 August 2018~~ extended to **31 August 2018**
-* *Conference*: 5-7 September 2018 at The Art Workers' Guild, 6 Queen Square, Bloomsbury, London WC1N 3AT, UK
+* **Abstract submission** deadline: 1 June 2018
+* **Doctoral consortium submissions** deadline: 15 June 2018
+* **Paper submission** deadline: 29 June 2018
+* **Authors will be notified**: 20 July 2018
+* **Submission of final camera ready copy**: ~~3 August 2018~~ extended to **31 August 2018**
+* **Conference**: 5-7 September 2018 at The Art Workers' Guild, 6 Queen Square, Bloomsbury, London WC1N 3AT, UK
 
 As always, we are excited to receive papers touching on any of PPIG’s traditional interests, including:
 
