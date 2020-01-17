@@ -22,16 +22,14 @@ As usual, we welcome the following categories of submissions:
 
 **Please use [our templates](author-resources/paper-templates) for papers. Submissions for the workshop should be uploaded to [EasyChair](https://easychair.org/conferences/?conf=ppig2019).**
 
-Important dates:
+## Important dates:
 
-|               |                   |
-| ------------- | ----------------- |
-| Abstract submission deadline: | Wed, 29 May 2019 |
-| Paper/demo submission deadline: | Wed, 12 June 2019 |
-| Authors will be notified: | Wed, 10 July 2019 |
-| Submission of final camera ready copy: | Wed, 31 July 2019 |
-| Doctoral consortium submission deadline: | Wed, 17 July 2019 |
-| Conference dates: | Wed-Fri, 28-30 August 2019 |
+- Abstract submission deadline: Wed, 29 May 2019
+- Paper/demo submission deadline: ~~Wed, 12 June 2019~~ extended to 26 June 2019
+- Authors will be notified: ~~Wed, 10 July 2019~~ extended to 17 July 2019
+- Submission of final camera ready copy: Wed, 31 July 2019
+- Doctoral consortium submission deadline: Wed, 17 July 2019
+- Conference dates: Wed-Fri, 28-30 August 2019
 
 PPIG may be able to provide financial support for students submitting to the doctoral consortium; please contact Mariana (mariana.marasoiu@cl.cam.ac.uk) for further details.
 
@@ -55,5 +53,5 @@ If you’re stuck to think of things we might find interesting, here are some th
 - Non-human programming
 - Technology support for creativity
 
-Looking forwards to seeing you there,
+Looking forwards to seeing you there, \
 Lindsay, Luke, Mariana
