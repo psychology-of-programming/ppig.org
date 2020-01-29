@@ -4,53 +4,56 @@ workshop: "ppig-2016"
 weight: 0
 ---
 
-In 2017 we’re especially interested in the psychology of programming as a form of artistic expression. We encourage authors to look beyond the traditional stomping grounds of programming and consider other domains.
+The Psychology of Programming Interest Group (PPIG) will meet from the 8th to the 10th of September 2016, in Cambridge, UK. It will be colocated with [VL/HCC](https://sites.google.com/site/vlhcc2016/).
 
-PPIG has a tradition of breadth. Our previous discussion ranged from CS education topics to software engineering, programming music, robots and collaboration. The philosophy of computation, visual programming languages and programming language design are all in scope.
+PPIG is interested in psychological issues in programming and software engineering, and more generally, what happens anytime people meet formal structures.
 
-We have open minds, and enjoy conversations around creative and risky ideas more than polished 'correctness'. If you think we might be interested, give us a try.
+We've covered how people learn mathematical notations, how to make programming more usable, issues in supporting creativity in design and the prospects for live coding laptop music. PPIG supports a correspondingly broad spectrum of research approaches from psychological, philosophical and social theory to quantitative and experience reports.
 
-We will welcome the following categories of submissions:
+We have open minds, and are more interested in creative or risky ideas than polished 'correctness'. If you think we might be interested, give us a try.
 
-- Full Papers: Up to 10 pages long.
-- Work In Progress reports: Up to 4 pages long.
-- System demonstrations and reflections: an abstract, video, or artwork outlining what you will present. Crashes are desirable. Up to 2.5 days long.
-- Doctoral consortium submissions: Up to 2 pages long.
+In 2016 we would especially welcome submissions for "PPIG in the classroom" and "PPIG in the wild". That is: papers addressing PPIG issues associated with teaching and education, and PPIG issues associated with professional practice in programming design and tooling.
 
-Please use our [templates for papers](about/templates).
+We will welcome two broad categories of submissions:
 
-Submissions are due as follows:
+**Papers: ([Templates are available to download](/content/author-resources/paper-templates.md))**
 
-- ~~Abstract submission deadline: 15th of April, 2017~~
-- Paper submission deadline: ~~1st of May, 2017~~, **extended until 15th of May, 2017!**
-- Doctoral consortium submissions deadline: 1st of May, 2017
+Full Papers: Up to 10 pages long.
+
+Work In Progress reports: Up to 4 pages long.
+
+Doctoral consortium submissions: Up to 2 pages long.
+
+System demonstrations and reflections: Please submit an abstract, video, or artwork outlining what you will present. Crashes are acceptable. Up to 3 days long.
+
+**Submissions for both categories should be sent by the 23rd of May, 2016\. Doctoral consortium submissions are due on the 4th of July, 2016.**
 
 Limited funding may be available to support travel for doctoral consortium submissions. Please get in touch for details.
 
-**Papers for the workshop should be submitted via [EasyChair](https://easychair.org/conferences/?conf=ppig2017)**. Submissions should be in PDF format.
+Submissions can be uploaded via [EasyChair](https://easychair.org/conferences/?conf=ppig2016).
 
-If you’re stuck to think of things we might find interesting, here are some themes to prompt:
+If you're stuck to think of things we might find interesting, here are some themes to prompt:
 
-- Abstract art as abstract programming
-- Concrete art as concrete programming
-- Music(al) programming
-- Liveness and interactivity in programming
-- Programming education and skills acquisition
-- Human centered design and evaluation of programming languages, tools and infrastructure
-- Programming and human cognition
-- Team/co-operative work in programming
-- End user programming
-- Distributed programming, programming distribution
-- Software engineering methods, planning, estimation
-- Gender, age, culture and programming
-- New paradigms in programming
-- Code quality, readability, productivity and re-use
-- Mistakes, bugs and errors
-- Notational design
-- Unconventional interactions and quasi-programming
-- Non-human programming
-- Technology support for creativity
+*   Empirical studies of programming
+*   Liveness and interactivity in programming
+*   Programming education and skills acquisition
+*   Human centered design and evaluation of programming languages, tools and infrastructure
+*   Programming and human cognition
+*   Team/co-operative work in programming
+*   End user programming
+*   Distributed programming, programming distribution
+*   Software engineering methods, planning, estimation
+*   Gender, age, culture and programming
+*   New paradigms in programming
+*   Code quality, readability, productivity and re-use
+*   Mistakes, bugs and errors
+*   Notational design
+*   Unconventional interactions and quasi-programming
+*   Non-human programming
 
-If you have any questions, please don’t hesitate to get in touch.
+If you have any questions, please don't hesitate to [get in touch](mailto:workshop@ppig.org?subject=PPIG%202016).
 
-We look forwards to seeing you in Delft.
+I look forwards to seeing you in Cambridge.
+
+Luke \
+[luke@church.name](mailto:luke@church.name)

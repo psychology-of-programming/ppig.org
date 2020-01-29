@@ -46,4 +46,4 @@ There once was a naming convention, \
 For identifiers, drawing attention \
 To unparsable strings; \
 Detestable things! \
-A regularising invention. \
+A regularising invention.

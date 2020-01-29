@@ -36,7 +36,6 @@ Posters from the Doctoral Consortium students will be on display throughout the 
 
 ## About us
 
-
 Bournemouth University (BU) is situated at multiple sites in Bournemouth and Poole. It’s main campus,and the home of the Faculty of Science and Technology is in Poole. BU became a ‘new university’ in 1992, although the origins of the university date back to the early 1900s. BU currently has over 16,000 students, including over 1,500 international students.
 
 The Faculty of Science and Technology, based at the Talbot Campus in Poole, is home to a number of departments but includes both the Computing and Informatics department and the Psychology department.

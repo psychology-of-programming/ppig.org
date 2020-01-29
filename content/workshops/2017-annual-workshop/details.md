@@ -32,6 +32,6 @@ Reservations can only be made with code “PPIG2017TUDELFT” via e-mail at rese
 
 ## Arriving
 
-We recommend that you fly to Schiphol Airport. The train from Amsterdam to Delft central station runs every 15 minutes and takes approximately 50 minutes.
+We recommend that you fly to **Schiphol Airport**. The train from Amsterdam to Delft central station runs every 15 minutes and takes approximately 50 minutes.
 
 An alternative to Schiphol Airport is Rotterdam-The Hague Airport. It is closer to Delft, but lacks public transport facilities.
