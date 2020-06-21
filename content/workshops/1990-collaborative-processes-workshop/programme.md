@@ -1,16 +1,24 @@
 ---
-title: "Programme"  
+title: "Programme"
 workshop: "collaborative-processes-workshop-1990"
 weight: 1
 ---
 
-Collaborative Processes Workshop 1990 Programme
-===============================================
+Collaborative Processes in Software Design Workshop
+===================================================
 
-**CABAL, or What the Groupware Means to Me** Tim Rajan _HCRL, The Open University, UK_
+1. **CABAL, or What the Groupware Means to Me** \
+_Tim Rajan_ \
+HCRL, The Open University, UK
 
-**Empirical Studies of Collaborative Design** Gary Olson _University of Michigan, USA and EuroPARC, UK_
+2. **Empirical Studies of Collaborative Design** \
+_Gary Olson_ \
+University of Michigan, USA and EuroPARC, UK
 
-**Developing a Sociological Conception of Software Development** Wes Sharrock _EuroPARC, UK_
+3. **Developing a Sociological Conception of Software Development** \
+_Wes Sharrock_ \
+EuroPARC, UK
 
-**(no title)** John Bowers _Department of Psychology, University of Nottingham, UK_
+* **Discussion** \
+_John Bowers_ \
+Department of Psychology, University of Nottingham, UK

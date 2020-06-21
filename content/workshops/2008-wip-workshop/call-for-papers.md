@@ -1,14 +1,8 @@
 ---
-title: "call-for-papers.md"
+title: "Call for papers"
 workshop: "ppig-wip-2008"
-weight: 0
+weight: 10
 ---
-
-A work-in-progress meeting of the Psychology of Programming Interest Group
---------------------------------------------------------------------------
-
-21-22 February, 2008  
-Department of Informatics, University of Sussex, UK
 
 Paper submissions are now invited for the PPIG work-in-progress workshop.
 

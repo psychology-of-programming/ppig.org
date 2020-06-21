@@ -7,6 +7,8 @@
 
   <div id="page-content">
 
+    {{ .Content }}
+
     <nav class="workshop-nav">
     {{ $workshopId := .Param "workshop"}}
     {{ $currentWorkshopFilter := where .Site.RegularPages "Params.workshop" $workshopId }}

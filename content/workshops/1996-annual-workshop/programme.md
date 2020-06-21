@@ -1,108 +1,153 @@
 ---
 title: "Programme"
 workshop: "ppig-1996"
-weight: 1
+weight: 10
 ---
 
-Wed, 10 April 1996
-------------------
+# Wed, 10 April
+Arrival & Registration
 
 Lunch at KIHO
 
-Opening Session
----------------
+### Opening Session
 
-Luc Haerens Director of KaHo Sint-Lieven, Judith Segal
+*Luc Haerens*, Director of KaHo Sint-Lieven \
+*Judith Segal*
 
-New Programming languages/environments
---------------------------------------
+### New Programming languages/environments
 
-1.  **Cognitive Dimensions of PrologSpace** Lindsey Ford
-2.  **Comprehension and documentation of Smalltalk Class Libraries** Isabelle Borne
-3.  **Further Investigations into the transfer effect of moving from procedural to logic programming** Babak Khazaei, Jawed Siddiqi, Andreas Harnack, Rick Osborn & Chris Roast
+1.  **Cognitive Dimensions of PrologSpace** \
+*Lindsey Ford*
+
+
+2.  **Comprehension and documentation of Smalltalk Class Libraries** \
+_Isabelle Borne_
+
+3.  **Further Investigations into the transfer effect of moving from procedural to logic programming** \
+_Babak Khazaei, Jawed Siddiqi, Andreas Harnack, Rick Osborn & Chris Roast_
+
 
 Coffee Break
 
-Program Understanding
----------------------
+### Program Understanding
 
-1.  **Concepts and Methodologies for Knowledge-Based Program Understander ALPUS** Ueno Haruki
-2.  **Visual Machines and Program Comprehension** Josh D. Tenenberg
-3.  **A theoretical framework for studying OO program comprehension** Francoise Detienne, Jean-Marie Burkhardt & Susan Wiedenbeck
+4.  **Concepts and Methodologies for Knowledge-Based Program Understander ALPUS** \
+_Ueno Haruki_
 
-**Demo** Isabelle Borne
+5.  **Visual Machines and Program Comprehension** \
+_Josh D. Tenenberg_
 
-*   Surprise official welcome & reception in the Town Hall
+6.  **A theoretical framework for studying OO program comprehension** \
+_Francoise Detienne, Jean-Marie Burkhardt & Susan Wiedenbeck_
+
+
+### Demo
+* _Isabelle Borne_
+
+Evening activities:
+
+*   Surprise [official welcome](workshops/1996-annual-workshop/welcome-speech/) & reception in the Town Hall
 *   Sight-seeing boat-trip on the 'Leie' and the 'Lieve'
 *   Dinner in the 'Patershol' in Restaurant 'Virus'
 
-Thu, 11 April 1996
-------------------
+# Thu, 11 April
 
-Keynote
--------
+### Invited Speaker
 
-1.  **What is the knowledge that knowledge based programming is based on?: An analysis.** Pavol Navrat
+7.  **What is the knowledge that knowledge based programming is based on?: An analysis.** \
+_Pavol Navrat_
+
 
 Coffee Break
 
-(Programming) Knowledge 1
--------------------------
+### (Programming) Knowledge 1
 
-1.  **Metaphor or Analogy: how should we see programming abstractions** Alan Blackwell
-2.  **Goals and plans in spreadsheets and other programming tools** Jorma Sajaniemi & Markku Tukiainen
-3.  **The organisation of professional operative knowledge: goal-oriented categorisations** Willemien Visser & Laurence Perron
+8.  **Metaphor or Analogy: how should we see programming abstractions** \
+_Alan Blackwell_
+
+9.  **Goals and plans in spreadsheets and other programming tools** \
+_Jorma Sajaniemi & Markku Tukiainen_
+
+10.  **The organisation of professional operative knowledge: goal-oriented categorisations** \
+_Willemien Visser & Laurence Perron_
+
 
 Lunch at KIHO
 
-Novice Programmers 1
---------------------
+### Novice Programmers 1
 
-1.  **The Learning Psychology of Visual Programming for Object Orientation** Mark Ireland, Roger Stone & Ray Dawson
-2.  **Experiences teaching a first programming language at GPT** Ray Dawson & R. Newsham
-3.  **Searching for Examples: An Evaluation of an Intermediate Description Language for a Techniques Editor** Paul Brna & Judith Good
+11.  **The Learning Psychology of Visual Programming for Object Orientation** \
+_Mark Ireland, Roger Stone & Ray Dawson_
+
+12.  **Experiences teaching a first programming language at GPT** \
+_Ray Dawson & R. Newsham_
+
+13.  **Searching for Examples: An Evaluation of an Intermediate Description Language for a Techniques Editor** \
+_Paul Brna & Judith Good_
+
 
 Coffee Break
 
-Novice Programmers 2
---------------------
+### Novice Programmers 2
 
-1.  **CAMUS: A Cognitive Model for Reverse Engineering-Bases Program Analysis** Philip Vanneste , Koen Bertels & Bart De Decker
-2.  **Moving programming teaching onto the Internet: work in progress** Marian Petre , Blaine Price & Linda Carswelll
-3.  **Title to be announced** Pierre Robillard
+14.  **CAMUS: A Cognitive Model for Reverse Engineering-Bases Program Analysis** \
+_Philip Vanneste , Koen Bertels & Bart De Decker_
 
-Demo: **B-Asset: A Realization of Schema-Based Spreadsheet Knowledge** Markku Tukiainen & Jorma Sajaniemi
+15.  **Moving programming teaching onto the Internet: work in progress** \
+_Marian Petre , Blaine Price & Linda Carswelll_
+
+16.  **Title to be announced** \
+_Pierre Robillard_
+
+
+### Demo
+* **B-Asset: A Realization of Schema-Based Spreadsheet Knowledge** \
+_Markku Tukiainen & Jorma Sajaniemi_
+
+Evening activities:
 
 *   Guided visit to the Filliers Distillery
 *   Dinner in the 'Cours Sint-Georges', which is known as the eldest hotel in Europe
 
-Fri, 12 April 1996
-------------------
+# Fri, 12 April
 
-Keynote
--------
+### Invited Speaker
 
-1.  **Programming skills, visual layout design, and unjustifiably useful testing: Three reports in the psychology of programming** Steve Draper
+17.   **Programming skills, visual layout design, and unjustifiably useful testing: Three reports in the psychology of programming** \
+_Steve Draper_
+
 
 Coffee Break
 
-1.  **Intelligent Support for Program Development** Navrat Pavol , Maria Bielikova, Igor Koziak, Viera Rozinajova & Maria Smolarova
+18.   **Intelligent Support for Program Development** \
+_Navrat Pavol , Maria Bielikova, Igor Koziak, Viera Rozinajova & Maria Smolarova_
+
 
 Panel Discussion Lunch at KIHO
 
-Programming Knowledge 2
------------------------
+### Programming Knowledge 2
 
-1.  **Knowledge about working strategies and errors in software professionals: Effects of expertise and experience** Sabine Sonnentag
-2.  **The Role of External Information Sources in Computer Programming - A Framework for Understanding Programming Strategies** Simon Davies
-3.  **Data Model Comprehension: An Experiment with 3 Graphic Styles** Joan Norbotten & Martha Crosby
+19.   **Knowledge about working strategies and errors in software professionals: Effects of expertise and experience** \
+_Sabine Sonnentag_
 
-Closing Session Workshop conclusions PPIG announcements
+20.   **The Role of External Information Sources in Computer Programming - A Framework for Understanding Programming Strategies** \
+_Simon Davies_
 
-Closing of the workshop
------------------------
+21.   **Data Model Comprehension: An Experiment with 3 Graphic Styles** \
+_Joan Norbotten & Martha Crosby_
 
-**A. Acke** Head of Department KIHO of KaHo Sint-Lieven
+
+Closing Session
+
+Workshop conclusions
+
+PPIG announcements
+
+### Closing of the workshop
+
+A. Acke, Head of Department KIHO of KaHo Sint-Lieven
+
+<br>
 
 * * *
 

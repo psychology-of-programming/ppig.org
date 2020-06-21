@@ -1,24 +1,18 @@
 ---
 title: "Report"
-workshop: "ppig-wip-2005"
-weight: 1
+workshop: "ppig-wip-2004"
+weight: 20
 ---
-
-
-
-## PPIG Workshop: 
-
-
 
 Work-in-Progress PPIG Workshop
 ------------------------------
 
-December 15-16 2004  
+December 15-16 2004
 University of Nottingham, UK
 
 **Review by Eileen Doyle**
 
-The [first workshop for **Unroll Your Ideas**](/node/237) took place in the University of Nottingham. The workshop comprised four sessions, during which fifteen research ideas were presented, covering areas such as extreme programming, empirical modelling and teaching and learning computer science.
+The [first workshop for **Unroll Your Ideas**](workshops/2004-wip-workshop) took place in the University of Nottingham. The workshop comprised four sessions, during which fifteen research ideas were presented, covering areas such as extreme programming, empirical modelling and teaching and learning computer science.
 
 The workshop commenced with a keynote speech on teaching debugging by Eric Roberts. Eric supplied us with interesting references like Robert Pirsig's Zen and the art of motorcycle maintenance to emphasise the psychological and cognitive aspects of debugging.
 

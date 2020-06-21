@@ -1,23 +1,14 @@
 ---
-title: "Welcome Speech" 
+title: "Welcome Speech"
 workshop: "ppig-1996"
-weight: 0
+weight: 20
 ---
 
-
-
-
-
-PPIG 1996 Welcome Speech
-========================
-
-**[PPIG 1996 - 8th Annual Workshop](/node/88)**  
-10-12 April 1996  
-KaHo Sint Lieven, Campus Rabot, Ghent, Belgium
-
-**Guy Serraes, Alderman of Informatics**
+**Speech given by Guy Serraes, Alderman of Informatics**
 
 In _Flemish_ and English. Reproduced with permission.
+
+{{< figure src="img/ppig-1996/8th-reception.jpg" caption="Ghent City Hall reception" class="tl">}}
 
 _Ontwerp van toespraak door de heer Guy Serraes, Schepen van Personeelsbeleid en Informatica, ter gelegenheid van de begroeting van de deelnemers aan de workshop "Psychology of Programmers Interest", op 10 april in het Stadhuis._
 

@@ -4,14 +4,7 @@ workshop: "ppig-2004"
 weight: 0
 ---
 
-
-
-PPIG 2004 Call for Participation
-================================
-
-
-
-Enda Dunican from the Institute of Technology, Carlow, Ireland will be hosting the [16th Annual PPIG workshop](/node/110) between Monday 5th April 2004 and Wednesday 7th April.
+Enda Dunican from the Institute of Technology, Carlow, Ireland will be hosting the [16th Annual PPIG workshop](workshops/2004-annual-workshop) between Monday 5th April 2004 and Wednesday 7th April.
 
 A featured theme at PPIG 2004 will be research in the area of computer science education. The authors of selected papers submitted in this area will be invited to develop their papers for submission to a special issue of the Computer Science Education (CSE) journal to appear in 2005. Papers covering other topics of interest to the PPIG community (including work-in-progress papers) are also invited and welcomed.
 
@@ -39,8 +32,8 @@ Accommodation
 
 Accommodation will be provided at the Dolmen Hotel, Kilkenny Road, Carlow. Delegates are asked to book their accommodation directly with the Dolmen Hotel by phone or via their website. The delegate room per night for the PPIG conference is 55 euro per night B&B for a single room. If you have any other requirements or you would like alternative accommodation lists, please contact Enda.
 
-Dolmen Hotel Website:[www.dolmenhotel.ie](http://www.dolmenhotel.ie/)  
-Phone: 00353 59 9142002  
+Dolmen Hotel Website: [www.dolmenhotel.ie](http://www.dolmenhotel.ie/) \
+Phone: 00353 59 9142002 \
 E-Mail: _reservations(at)dolmenhotel.ie_
 
 Getting To Carlow
@@ -73,8 +66,7 @@ Additional Information
 More information regarding the Carlow institute and the surrounding area can be found by visiting the following links:
 
 *   [Institute of Technology, Carlow, Ireland](http://www.itcarlow.ie/)
-    
 *   [About Carlow and surrounding area](http://www.carlowtourism.com/)
-    
+
 
 Here's to a successful workshop. Look forward to seeing you all in Carlow!

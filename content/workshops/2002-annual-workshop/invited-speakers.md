@@ -1,11 +1,8 @@
 ---
-title: "invited-speakers"
+title: "Invited Speakers"
 workshop: "ppig-2002"
-weight: 0
+weight: 20
 ---
-[**14th Annual Workshop**](/node/108)  
-18-21 June 2002  
-Brunel University, London, UK
 
 Françoise Détienne
 ------------------
@@ -26,6 +23,8 @@ Studies on reasoning in design have usually been carried out on individual probl
 
 Current research issues on collaborative design will be discussed. We will defend the position that the nature of the approaches for supporting design should be not only technical. They are most often technico-organisational.
 
+---
+
 Thomas Green
 ------------
 
@@ -41,22 +40,24 @@ Some of the relevant arenas are these.
 
 1.  The notation per se: is it consistent, non-ambiguous, secure? Can it be parsed by efficient algorithms? These technical questions are not directly the province of PPIG, yet we need to consider what contribution they make today.
 2.  The expressiveness of the notation: does the notation allow the user or composer or writer to express the desired structures or perform the desired operations? For some purposes, the graphical language LabView is excellent not because it is graphical, but because it ships with a library of really useful subroutines. Likewise the musician who wants to express microtones will probably not be interested in a musical notation that cannot do so, no matter how good it may be in other ways.
-    
+
     In other cases the notation can express the concepts but not in the manner of the user's conceptual system: aspects investigated by PPIG contributors have include the choice of constructs for concurrent programming, the choice of temporal logics (Kutar), and the structure of central heating controllers (Young and Cox).
-    
+
 3.  The notation as a medium for individual use: this what Clayton Lewis called the fluency of the notation. Here we consider the user/composer as an information sculptor, forming a shape, or as a reader, looking for a shape. This is the domain of CDs, and if needed I will quickly sketch some of the ideas behind the CDs framework - and try to think of topics that live in this arena but are not covered by CDs.
 4.  Fitting notational products into the user's life: notations are rather like an eco-system. Such things as programs, diary entries, email messages, and cartoons can draw on resources from various external sources, but likewise have to co-exist with a network of external pressures. Resources frequently include a cloud of appendages (the notational culture) -- familiar examples, outstanding teaching aids, local expertise. These resources not only point to accepted domains of use (systems programming for C, mathematical algorithms for Pascal) but can dictate style (fuzzy like C or sharp-edged like Pascal).
-    
+
     External pressures from other information systems are very frequent - on-line diaries have to co-exist with paper diaries, organizers, and those ubiquitous, unavoidable, all-important scraps of paper. Notations with a graphical component, such as maps and music, have somehow to be handled by systems built for symbolic-only material, such as e-mail. Sometimes notations need to usable on systems with a transient medium, such as speech; or a persistent but very limited medium, such as a knitting machine.
-    
+
 5.  The presentation of a notation: this aspect is deliberately ignored by the CDs framework, except insofar as the notation includes a 'eprceptual mapping' between information structure and rendering. Aspects like attractiveness and fun are completely ignored. Developments in children's programming languages, such as ToonTalk and KidSim (now renamed) show that a good graphic artist can add a whole new dimension.
 6.  Communication with a notation: notations are probably used as collaborative tools more often than their designers expect. Nardi, Bannon, Détienne and Visser have all contributed to our understanding of this arena, but there is a long way to go. We have still very little information about how to develop notations that will be good explicative vehicles, on the lines of the spreadsheets that Nardi showed were excellent for communication between people from different departments of an organisation. We know even less about how to design a notation that will be easy for simultaneous work, the co-design practices encouraged by some contemporary practitioners, e.g. XP.
-    
+
     It would be nice to think that this area could be absorbed into other areas above. Perhaps one day we shall be able to.
-    
+
 7.  Any other notational business: notations get used for other purposes, too, such as for writing deliberately obscure programs, or for writing quines (programs whose output is themselves); less whimsically, notations have to lend themselves to developing teaching examples.
 
 That is not likely to be an exhaustive list but it's enough to raise the question, are CDs worth bothering with? Obviously I think they are. I will try to think of some arguments that are persuasive, or at least plausible, to support my claim.
+
+---
 
 Mark Harman
 -----------

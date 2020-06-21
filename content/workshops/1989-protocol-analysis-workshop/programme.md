@@ -1,24 +1,31 @@
 ---
-title: "Programme"  [title of file]
+title: "Programme"
 workshop: "protocol-analysis-workshop-1989"
 weight: 1
 ---
 
-Protocol Analysis Workshop 1989 Programme
-=========================================
+# Collecting and Analysing Protocols of Programming Behaviour Workshop
 
-Simon Davies _Huddersfield Polytechnic, UK_
+_Simon Davies_ \
+Huddersfield Polytechnic, UK
 
-David Gilmore _Department of Psychology, University of Nottingham, UK_
+_David Gilmore_ \
+Department of Psychology, University of Nottingham, UK
 
-Steve Howard _University of Wolverhampton, UK_
+_Steve Howard_ \
+University of Wolverhampton, UK
 
-Robin Johnson _University of Lancaster, UK_
+_Robin Johnson_ \
+University of Lancaster, UK
 
-Tom Ormerod _University of Loughborough, UK_
+_Tom Ormerod_ \
+University of Loughborough, UK
 
-Marian Petre _Inst fir Perception Research, Eindhoven_
+_Marian Petre_ \
+Inst fir Perception Research, Eindhoven
 
-Charo Rivera _University of Wolverhampton, UK_
+_Charo Rivera_ \
+University of Wolverhampton, UK
 
-John Sumiga _University of Wolverhampton, UK_
+_John Sumiga_ \
+University of Wolverhampton, UK

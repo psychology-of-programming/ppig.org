@@ -1,20 +1,29 @@
 ---
-title: "Programme" 
-workshop: "ppig-1991-tool-evaluation-workshop"
+title: "Programme"
+workshop: "tool-evaluation-workshop-1991"
 weight: 1
 ---
 
-Tool Evaluation Workshop 1991 Programme
-=======================================
+**Human Factors Evaluation of Software Development Tools: A Framework and a Case Study** \
+_Andy Whifield_ \
+Ergonomics Unit, University College London, UK
 
-**Human Factors Evaluation of Software Development Tools: A Framework and a Case Study** Andy Whifield _Ergonomics Unit, University College London, UK_
+**What's So Special about Software for Software Development Tools?** \
+_Roland Carn_ \
+Reliability Consultants Ltd, UK
 
-**What's So Special about Software for Software Development Tools?** Roland Carn _Reliability Consultants Ltd, UK_
+**The IED DESMET Project** \
+_David Law_ \
+NCC, UK
 
-**The IED DESMET Project** David Law _NCC, UK_
+**A Pragmatic Approach to Software Development Tool Evalutaion within the FOCUS Project** \
+_Nick Rousseau_ \
+LUTCHI Research Centre, Loughborough University, UK
 
-**A Pragmatic Approach to Software Development Tool Evalutaion within the FOCUS Project** Nick Rousseau _LUTCHI Research Centre, Loughborough University, UK_
+**Evaluation in the Cognitive Browser Project** \
+_Russel Winder_ \
+Department of Computer Science, University College London, UK
 
-**Evaluation in the Cognitive Browser Project** Russel Winder _Department of Computer Science, University College London, UK_
-
-**SDTs and CDs: Armchair Today, Video Tomorrow** Thomas Green _MRC APU, UK_
+**SDTs and CDs: Armchair Today, Video Tomorrow** \
+_Thomas Green_ \
+MRC APU, UK

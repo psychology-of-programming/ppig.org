@@ -4,65 +4,85 @@ workshop: "ppig-1989"
 weight: 1
 ---
 
+### Opening address
 
-PPIG 1989 Programme
-===================
+**The Psychology of Programming of Learning and Teaching Prolog** \
+_Ben du Boulay_ \
+School of Cognitive and Computing Sciences, University of Sussex, UK
 
-Opening address
----------------
+### Discussion Session 1
+**Plans** \
+_David Gilmore_ \
+Department of Psychology, University of Nottingham, UK
 
-*   **The Psychology of Programming of Learning and Teaching Prolog** Ben du Boulay _School of Cognitive and Computing Sciences, University of Sussex, UK_
+### Discussion Session 2
+**Learning Prolog** \
+_Pat Fung_ \
+Information Technology and Education, The Open University, UK
 
-Discussion: Plans
------------------
+### Paper 1
+**Becoming an Expert: The Process of Acquiring Expertise Among Novice Computer Scientists** \
+_Laura Leventhal (with Keith Instone)_
 
-David Gilmore _Department of Psychology, University of Nottingham, UK_
+### Paper 2
+**The Legacy of TPM** \
+_Mike Brayshaw_ \
+HCRL, The Open University, UK
 
-Discussion: Learning Prolog
----------------------------
+### Discussion Session 3
+**Analogy** \
+_Richard White_ \
+Department of AI, University of Edinburgh, Scotland \
+_Tom Ormerod_ \
+Department of Psychology, University of Warwick, UK
 
-Pat Fung _Information Technology and Education, The Open University, UK_
+### Discussion Session 4
+**Matching General Purpose Languages for Expressing Solutions** \
+_Marian Petre_ \
+Department of Computer Science, University College London, UK
 
-*   **Becoming an Expert: The Process of Acquiring Expertise Among Novice Computer Scientists** Laura Leventhal (with Keith Instone)
-*   **The Legacy of TPM** Mike Brayshaw _HCRL, The Open University, UK_
+### Paper 3
+**Program Authorship: A Significant Factor in Debugging Performance?** \
+_Ray Waddington_ \
+Department of Computer Science, Queen Mary College, UK
 
-Discussion: Analogy
--------------------
+### Paper 4
+**Software Engineering: A Technological or Psychological Problem?** \
+_Barbara Kitchenham_ \
+NCC, Manchester, UK
 
-Richard White _Department of AI, University of Edinburgh, Scotland_ Tom Ormerod _Department of Psychology, University of Warwick, UK_
+### Discussion Session 5
+**Methodology** \
+_Tom Ormerod_ \
+Department of Psychology, University of Warwick, UK \
+_David Gilmore_ \
+Department of Psychology, University of Nottingham, UK
 
-Discussion: Matching General Purpose Languages for Expressing Solutions
------------------------------------------------------------------------
+### Discussion Session 6
 
-Marian Petre _Department of Computer Science, University College London, UK_
+**End-User Programming** \
+_Nick Rousseau_ \
+Human Sciences Department, Loughborough University of Technology, UK
 
-*   **Program Authorship: A Significant Factor in Debugging Performance?** Ray Waddington _Department of Computer Science, Queen Mary College, UK_
-*   **Software Engineering: A Technological or Psychological Problem?** Barbara Kitchenham _NCC, Manchester, UK_
+### Paper 5
+**Computation and Cognition** \
+_Meurig Beynon_ \
+Department of Computer Science, University of Warwick, UK
 
-Discussion: Methodology
------------------------
+### Paper 6
+**An Integrated Environment for Building Large Software Systems** \
+_Bill Curtis (video ad_dress) \
+MCC, Austin, Texas, USA
 
-Tom Ormerod _Department of Psychology, University of Warwick, UK_ David Gilmore _Department of Psychology, University of Nottingham, UK_
+### Closing address
+_Thomas Green_ \
+MRC APU, Camnbridge, UK
 
-Discussion: End-User Programming
---------------------------------
+### Discussion Session 7
+**Practioners** \
+_Roland Carn_ \
+Reliability Consultants Ltd, UK
 
-Nick Rousseau _Human Sciences Department, Loughborough University of Technology, UK_
-
-*   **Computation and Cognition** Meurig Beynon _Department of Computer Science, University of Warwick, UK_
-*   **An Integrated Environment for Building Large Software Systems** Bill Curtis (video address) _MCC, Austin, Texas, USA_
-
-Closing address
----------------
-
-Thomas Green _MRC APU, Camnbridge, UK_
-
-Discussion: Practioners
------------------------
-
-Roland Carn _Reliability Consultants Ltd, UK_
-
-Discussion: A Theory of Software Engineering
---------------------------------------------
-
-Roland Carn and Laura Leventhal
+### General Discussion
+**A Theory of Software Engineering** \
+Notes: _Roland Carn and Laura Leventhal_

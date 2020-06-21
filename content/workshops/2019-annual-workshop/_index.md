@@ -5,8 +5,8 @@ startdate: "2019-08-28"
 location: "Newcastle University, UK"
 workshop: "ppig-2019"
 
-menuTitle: "Next workshop"
-menu:
-  main:
-    weight: 25
+# menuTitle: "Next workshop"
+# menu:
+#   main:
+#     weight: 25
 ---

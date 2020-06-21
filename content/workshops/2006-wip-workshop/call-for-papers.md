@@ -1,15 +1,8 @@
 ---
 title: "Call for papers"
 workshop: "ppig-wip-2006"
-weight: 0
+weight: 10
 ---
-
-
-## PPIG Workshop: Work in Progress
-
-
-January 12-13 2006  
-Coventry School of Art and Design, Coventry University, UK
 
 PPIG aims to bring together people working in a variety of disciplines and to break down cross-disciplinary barriers.
 
@@ -34,7 +27,7 @@ The extended abstract should be submitted one month before the workshop to allow
 Technical Committee
 -------------------
 
-Maria Kutar, University of Salford  
-Thomas Green, University of Leeds  
-Marian Petre, Open University  
+Maria Kutar, University of Salford \
+Thomas Green, University of Leeds \
+Marian Petre, Open University \
 Andree Woodcock, Coventry University

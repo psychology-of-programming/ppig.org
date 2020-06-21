@@ -1,19 +1,12 @@
 ---
 title: "Report"
 workshop: "ppig-2002"
-weight: 1
+weight: 30
 ---
 
-PPIG 2002 Report #1
-===================
+**By Chris Douce**
 
-
-
-
-14th PPIG Workshop at Brunel University, London
------------------------------------------------
-
-The [14th Annual Psychology of Programming Interest Group Workshop](/node/108) was held at Brunel University in West London between 18-21 June 2002 within the Department of Information Systems and Computing (DISC).
+The [14th Annual Psychology of Programming Interest Group Workshop](/workshops/2002-annual-workshop) was held at Brunel University in West London between 18-21 June 2002 within the Department of Information Systems and Computing (DISC).
 
 Brunel University is named after Isambard Kingdom Brunel, the famous engineer.
 

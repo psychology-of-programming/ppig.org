@@ -1,25 +1,20 @@
 ---
 title: "Call for papers"
 workshop: "ppig-wip-2004"
-weight: 0
+weight: 10
 ---
-
-
-## PPIG Workshop: 
-
-
 
 Unroll Your Ideas: a work-in-progress meeting of the Psychology of Programming Interest Group
 ---------------------------------------------------------------------------------------------
 
-16-17 December 2004  
+16-17 December 2004 \
 University of Nottingham, UK
 
 PPIG aims to bring together people working in a variety of disciplines and to break down cross-disciplinary barriers.
 
 Despite its name PPIG entertains a broad spectrum of research approaches, from theoretical perspectives drawing on psychological theory to empirical perspectives grounded in real-world experience, and is equally concerned with all aspects of programming and software engineering, from the design of programming languages to communication issues in software teams, and from computing education to high-performance professional practice.
 
-Besides an annual workshop series, PPIG also organises occasional meetings such as [this one](/node/237).
+Besides an annual workshop series, PPIG also organises occasional meetings such as this one.
 
 ### Objectives
 
@@ -35,11 +30,11 @@ The extended abstract should be submitted by 1 November to allow time for review
 
 ### Technical Committee
 
-Maria Kutar, University of Salford  
-Thomas Green, University of Leeds  
+Maria Kutar, University of Salford \
+Thomas Green, University of Leeds \
 Marian Petre, Open University
 
 ### Organising Committee
 
-Marjahan Begum (workshop chair)  
+Marjahan Begum (workshop chair) \
 Thomas Green

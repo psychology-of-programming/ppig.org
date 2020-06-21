@@ -1,5 +1,5 @@
 ---
-title: "Programme" 
+title: "Programme"
 workshop: "ppig-wip-1996"
 weight: 1
 ---
@@ -7,95 +7,121 @@ weight: 1
 PPIG WIP 1996 Programme
 =======================
 
-Welcome Address
----------------
+# Fri, 27 Sep
 
-**Pioneering a New Opportunity** Ray Dawson
+### Welcome Address
 
-Keynote
--------
+* **Pioneering a New Opportunity** \
+_Ray Dawson_
 
-*   **Automated software understanding and its application to tutoring novices**  
-    Dr Diana Bental
+### Keynote
+*Chair: Ray Dawson*
 
-Programming Environments
-------------------------
+* **Automated software understanding and its application to tutoring novices** \
+_Dr Diana Bental_
 
-*   **Which way up is your editor?**  
-    Gada Kadoda
-*   **Cognitive Dimensions of NOPS: An Environment for Object-Oriented Learning**  
-    Mark Ireland
 
-Graphics and Cognition
-----------------------
+### Programming Environments
+*Chair: Ray Dawson*
 
-*   **Chasing the Intuition of an Industry: Can Pictures Really Help Us Think?**  
-    Alan Blackwell
-*   **Pictorial Aids in Computer Use**  
-    Raquel Navarro
-*   **Hidden Contexts in Object-Oriented Diagrams: Does familiarity breed contempt?**  
-    Ron Newsham
+* **Which way up is your editor?** \
+_Gada Kadoda_
 
-Keynote
--------
+* **Cognitive Dimensions of NOPS: An Environment for Object-Oriented Learning** \
+_Mark Ireland_
 
-*   **Sex and Violence**  
-    Tony Clarke
+Dinner
 
-Empirical Studies
------------------
+# Sat, 28 Sep
 
-*   **Teaching C Pointers to Novice Programmers using an ITS: An Empirical Study**  
-    Bunny J. Tjaden
+### Graphics and Cognition
+*Chair: Diana Bental*
+
+* **Chasing the Intuition of an Industry: Can Pictures Really Help Us Think?** \
+_Alan Blackwell_
+
+* **Pictorial Aids in Computer Use** \
+_Raquel Navarro_
+
+* **Hidden Contexts in Object-Oriented Diagrams: Does familiarity breed contempt?** \
+_Ron Newsham_
+
+Refreshments
+
+### Keynote
+*Chair: Ron Newsham*
+
+* **Sex and Violence** \
+_Tony Clarke_
+
+
+### Empirical Studies
+
+* **Teaching C Pointers to Novice Programmers using an ITS: An Empirical Study** \
+_Bunny J. Tjaden_
+
+Lunch
 
 Sightseeing Trip
 
-Programming Paradigms
----------------------
+### Programming Paradigms
+*Chair: Pat Fung*
 
-*   **Spreadsheets and Programming**  
-    Dominic Gehring
-*   **Design Strategies in Concurrent Programming**  
-    Charles W. Kann
-*   **Languages and Paradigms - Some Topics to Discuss**  
-    Andreas Harnack
+* **Spreadsheets and Programming** \
+_Dominic Gehring_
 
-Keynote
--------
+* **Design Strategies in Concurrent Programming** \
+_Charles W. Kann_
 
-*   **Student modelling: some issues, some answers, but even more questions**  
-    Dr Pat Fung
+* **Languages and Paradigms - Some Topics to Discuss** \
+_Andreas Harnack_
 
-Industrial Psychology of Programming Issues
--------------------------------------------
+Dinner
 
-*   **Gaining Acceptance of Software Whole Life Cost by IT Staff**  
-    Malcolm Bradley
+# Sun, 29 Sep
 
-Invited Tutorial
-----------------
+### Keynote
+*Chair: Charles W. Kann*
 
-**Experience a typical hour in the life of a professional programmer**  
-Alan Blackwell & Helen Arnold
+* **Student modelling: some issues, some answers, but even more questions** \
+_Dr Pat Fung_
 
-Visualisation 1
----------------
 
-*   **Non-Visual Visual Programming: Graphical Programming for Blind Programmers**  
-    David Bennett
-*   **Building Program Metaphors**  
-    Damien Ploix
+### Industrial Psychology of Programming Issues
+*Chair: Charles W. Kann*
 
-Visualisation 2
----------------
+* **Gaining Acceptance of Software Whole Life Cost by IT Staff** \
+_Malcolm Bradley_
 
-*   **The Visualization of Genetic Algorithms - Design Survey**  
-    Trevor Collins
 
-Software Design Processes
--------------------------
+### Invited Tutorial
 
-*   **A Pragmatic View of Software Design Activities and the Implications for Tool Support**  
-    Georgios P. Iliadis
+* **Eperience a typical hour in the life of a professional programmer** \
+_Alan Blackwell & Helen Arnold_
+
+### Visualisation 1
+*Chair: Bunny J. Tjaden*
+
+
+* **Non-Visual Visual Programming: Graphical Programming for Blind Programmers** \
+_David Bennett_
+
+* **Building Program Metaphors** \
+_Damien Ploix_
+
+
+### Visualisation 2
+*Chair: Gada Kadoda*
+
+* **The Visualization of Genetic Algorithms - Design Survey** \
+_Trevor Collins_
+
+
+### Software Design Processes
+*Chair: Gada Kadoda*
+
+* **A Pragmatic View of Software Design Activities and the Implications for Tool Support** \
+_Georgios P. Iliadis_
+
 
 PPIG Business

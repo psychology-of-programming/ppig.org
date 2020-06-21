@@ -1,17 +1,10 @@
 ---
 title: "Report"
 workshop: "ppig-2003"
-weight: 10
+weight: 20
 ---
 
-
-
-## 15th Annual PPIG Workshop: 
-
-
-_8-10 April 2003, University of Keele, UK._
-
-[PPIG 2003](/node/109) was co-located with EASE this year in the very pleasant surroundings of Keele University. The papers ranged from keynote talks through full technical papers, to 'work-in-progress' papers that described an exciting array of current work.
+PPIG 2003 was co-located with EASE this year in the very pleasant surroundings of Keele University. The papers ranged from keynote talks through full technical papers, to 'work-in-progress' papers that described an exciting array of current work.
 
 _Chris Hundhausen_ gave the first keynote speech of the workshop. He described his work on ALVIS: an ALgorithm VIsualization Storyboarder, and the empirical studies that underpinned its development.
 
@@ -31,4 +24,5 @@ Also notable were \[Tucker\]'s description of the problems students have when le
 
 All in all, PPIG this year was a very worthwhile experience, with interesting talks, interesting people and really good food. In fact, the after-dinner drinks weren't bad either! Many thanks must go to _Marian Petre_, and the programme committee for organizing such a successful event.
 
-**Jim Buckley** University of Limerick, Ireland.
+**Jim Buckley** \
+University of Limerick, Ireland.

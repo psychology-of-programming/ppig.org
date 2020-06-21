@@ -1,16 +1,12 @@
 ---
 title: "Report"
 workshop: "ppig-2005"
-weight: 0
+weight: 20
 ---
-PPIG 2005 Report
-================
-
-
 
 **by Edgar Chaparro**
 
-The [17th Annual Workshop of Psychology of Programming](/node/111) took place in Brighton, a lovely city in the south-east of England. The papers ranged from keynote talks through technical papers, to 'work in progress' papers that described a great range of exciting projects
+The [17th Annual Workshop of Psychology of Programming](/workshops/2005-workshop) took place in Brighton, a lovely city in the south-east of England. The papers ranged from keynote talks through technical papers, to 'work in progress' papers that described a great range of exciting projects
 
 Ken Kahn was the first keynote. He gave a very interactive talk, which discussed the trade-offs of concretising computational abstractions in children's programming environments.
 

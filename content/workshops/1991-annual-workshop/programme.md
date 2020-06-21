@@ -1,23 +1,35 @@
 ---
-title: "Papers" 
+title: "Programme"
 workshop: "ppig-1991"
 weight: 1
 ---
 
+<br>
 
-PPIG 1991 Programme
-===================
+**From Visual Programming to Visual Debugging** \
+_Henry Lierberman_ \
+Media Lab, MIT, USA
 
-**From Visual Programming to Visual Debugging** Henry Lierberman _Media Lab, MIT, USA_
+**Text vs Graphics in the Visualisation of Prolog** \
+_Ben du Boulay_ \
+University of Sussex, UK
 
-**Text vs Graphics in the Visualisation of Prolog** Ben du Boulay _University of Sussex, UK_
+**Formal Derivation Made Easy** \
+_Maurice Naftalin_ \
+University of Stirling, Scotland
 
-**Formal Derivation Made Easy** Maurice Naftalin _University of Stirling, Scotland_
+**Interactive Contrete Models: Mapping from Code to Execution** \
+_Ray Waddington_ \
+University of Guelph, Canada
 
-**Interactive Contrete Models: Mapping from Code to Execution** Ray Waddington _University of Guelph, Canada_
+**Visbility - A New Dimension?** \
+_David Gilmore_ \
+Department of Psychology, University of Nottingham, UK
 
-**Visbility - A New Dimension?** David Gilmore _Department of Psychology, University of Nottingham, UK_
+**What Really Determines the Success of Novices Learning to Program?** \
+_Tom Ormerod_ \
+Loughborough University of Technology, UK
 
-**What Really Determines the Success of Novices Learning to Program?** Tom Ormerod _Loughborough University of Technology, UK_
-
-**Shifts in Reasoning about Software and Hardware Systems: Must Operational Models Underpin Declarative Ones?** Marian Petre _The Open University, UK_
+**Shifts in Reasoning about Software and Hardware Systems: Must Operational Models Underpin Declarative Ones?** \
+_Marian Petre_ \
+The Open University, UK

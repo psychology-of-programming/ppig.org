@@ -1,7 +1,8 @@
 ---
-title: "PPIG 1991 - Tool Evaluation Workshop"
+title: "Tool Evaluation Workshop"
+subtitle: "The Evaluation of Software Development Tools"
 dates: "15 March 1991"
 startdate: "1991-03-15"
 location: "Rank Xerox EuroPARC, Cambridge, UK"
-workshop: "ppig-toole-evaluation-1991"
+workshop: "tool-evaluation-workshop-1991"
 ---

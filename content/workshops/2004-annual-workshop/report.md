@@ -1,20 +1,15 @@
 ---
 title: "Report"
 workshop: "ppig-2004"
-weight: 1
+weight: 30
 ---
 
-
-
-## PPIG Workshop 2004 Report
-
-
-
-**By Chris Douce** Feedback Instruments, UK.
+**By Chris Douce** \
+Feedback Instruments, UK.
 
 _5-7 April 2004, Institute of Technology, Carlow, Ireland._
 
-The [16th annual workshop of the Psychology of Programming Interest group](/node/110) took place in the southern Irish town of Carlow, the first time the workshop had been held in Ireland. The workshop was well attended and comprised of a mixture of old timers (if you excuse the expression), new faces, and faces that were kindly recalled from earlier workshops (however, there were some people who _were_ missed - you know who you are!)
+The [16th annual workshop of the Psychology of Programming Interest group](/workshops/2004-annual-workshop) took place in the southern Irish town of Carlow, the first time the workshop had been held in Ireland. The workshop was well attended and comprised of a mixture of old timers (if you excuse the expression), new faces, and faces that were kindly recalled from earlier workshops (however, there were some people who _were_ missed - you know who you are!)
 
 PPIG 04 comprised of six sessions, where a total of nineteen papers were presented, covering topic areas including computer science education (which was the topic of a talk given by our invited speaker, Sally Fincher), approaches to programming research methodologies and tools (many thanks go our Finnish colleagues who gave an artful performance), and program comprehension.
 
