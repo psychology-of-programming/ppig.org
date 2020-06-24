@@ -26,11 +26,11 @@
           {{ end }}
         </ul>
       {{ else }}
-        <li class="site-nav__link {{ if or ($currentPage.IsMenuCurrent "main" .) (and (hasPrefix $currentPage.URL .URL) (not .Page.IsHome)) }}site-nav__link--selected{{ end }}">
+        <li class="site-nav__link {{ if or ($currentPage.IsMenuCurrent "main" .) (and (hasPrefix $currentPage.RelPermalink .URL) (not .Page.IsHome)) }}site-nav__link--selected{{ end }}">
           <a href="{{ .URL }}">
             {{ if .Page.Params.menuTitle }} {{ .Page.Params.menuTitle }}{{ else }}{{ .Name }}{{ end }}
           </a>
-          {{ if and (hasPrefix $currentPage.URL .URL) (not .Page.IsHome)}}
+          {{ if and (hasPrefix $currentPage.RelPermalink .URL) (not .Page.IsHome)}}
           <ul class="site-nav__sub-menu visible">
             {{ template "breadcrumbnav" (dict "currentPage" $currentPage "parentPage" $currentPage "menuPage" .Page) }}
           </ul>
