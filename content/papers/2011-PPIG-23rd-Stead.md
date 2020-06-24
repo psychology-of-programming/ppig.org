@@ -9,5 +9,5 @@ find that musical and non-musical users both react positively to the system, wit
 between the two groups."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Stead.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Stead.pdf"
 ---

@@ -18,5 +18,5 @@ These results are discussed in relation to the accessibility of programming to
 learners with low spatial ability."
 publishedAt: "ppig-2007"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Jones.pdf"
+url_pdf: "/files/2007-PPIG-19th-Jones.pdf"
 ---

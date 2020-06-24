@@ -13,5 +13,5 @@ the individual observable human-to-human utterances and human-to-computer activi
 during pair programming."
 publishedAt: "ppig-2008"
 year: 2008
-url_pdf: "files/2008-PPIG-20th-salinger.pdf"
+url_pdf: "/files/2008-PPIG-20th-salinger.pdf"
 ---

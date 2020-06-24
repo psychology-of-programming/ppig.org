@@ -10,5 +10,5 @@ debugging tool: when the suggestions are not useful or not expected they are see
 there is an error in the program."
 publishedAt: "ppig-2015"
 year: 2015
-url_pdf: "files/2015-PPIG-26th-Marasoiu.pdf"
+url_pdf: "/files/2015-PPIG-26th-Marasoiu.pdf"
 ---

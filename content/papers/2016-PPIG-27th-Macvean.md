@@ -7,5 +7,5 @@ challenges: resource allocation, empirically-grounded guidelines, communicating 
 API evolution over time, usable auth, and usable client libraries at scale."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Macvean.pdf"
+url_pdf: "/files/2016-PPIG-27th-Macvean.pdf"
 ---

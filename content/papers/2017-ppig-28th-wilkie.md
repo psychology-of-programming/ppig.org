@@ -6,5 +6,5 @@ abstract: "This paper describes Tica, an environment designed to explore the dif
 Once implemented, an initial pilot study was carried out with 14 adults. Although participants using the screen-based interface completed problems more quickly than those using the tangible interface, participants using the tangible interface reported a higher level of enjoyment. Next steps include a more extensive study with the target population as well as some refinements to the Tica environment."
 publishedAt: "ppig-2017"
 year: 2017
-url_pdf: "files/2017-PPIG-28th-wilkie.pdf"
+url_pdf: "/files/2017-PPIG-28th-wilkie.pdf"
 ---

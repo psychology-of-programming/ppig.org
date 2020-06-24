@@ -1,8 +1,7 @@
-baseURL = "https://psychology-of-programming.appspot.com/"
-# baseURL = "https://www.cl.cam.ac.uk/~mcm79/ppig/"
 languageCode = "en-gb"
 title = "Psychology of Programming Interest Group"
-canonifyURLs = true
+canonifyURLs = false
+relativeURLs = true
 
 ignoreFiles = [ "Icon?" ]
 

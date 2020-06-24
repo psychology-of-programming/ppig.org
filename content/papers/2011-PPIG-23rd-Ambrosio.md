@@ -10,5 +10,5 @@ inventory, a generic behaviour test for higher education, to introductory progra
 Brazil and in Portugal."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Ambrosio.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Ambrosio.pdf"
 ---

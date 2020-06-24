@@ -14,5 +14,5 @@ programmers must work at when undertaking them. Thus, they suggest the nature of
 should be offered to maintenance programmers involved in these tasks."
 publishedAt: "ppig-2009"
 year: 2009
-url_pdf: "files/2009-PPIG-21st-kelly.pdf"
+url_pdf: "/files/2009-PPIG-21st-kelly.pdf"
 ---

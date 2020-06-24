@@ -10,5 +10,5 @@ describes an experiment to investigate the impact of range names on the debuggin
 novice spreadsheet users."
 publishedAt: "ppig-2009"
 year: 2009
-url_pdf: "files/2009-PPIG-21st-mckeever.pdf"
+url_pdf: "/files/2009-PPIG-21st-mckeever.pdf"
 ---

@@ -7,5 +7,5 @@ different kinds of users engaged in different tasks at different times, and allo
 access to the same artefacts which are presented to each in a notation appropriate for them."
 publishedAt: "ppig-2015"
 year: 2015
-url_pdf: "files/2015-PPIG-26th-Basman.pdf"
+url_pdf: "/files/2015-PPIG-26th-Basman.pdf"
 ---

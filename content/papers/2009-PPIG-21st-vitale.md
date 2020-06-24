@@ -26,5 +26,5 @@ developed in Experiments 1&2 may provide the basis for similar techniques to tes
 comparative relations in individuals who approach this field for the first time (e.g. students)."
 publishedAt: "ppig-2009"
 year: 2009
-url_pdf: "files/2009-PPIG-21st-vitale.pdf"
+url_pdf: "/files/2009-PPIG-21st-vitale.pdf"
 ---

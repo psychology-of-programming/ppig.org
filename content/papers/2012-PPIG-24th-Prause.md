@@ -12,5 +12,5 @@ interviews. Although the gamification had less effect than we had hoped, our exp
 valuable lessons about social effects and informs the future design of similar systems."
 publishedAt: "ppig-2012"
 year: 2012
-url_pdf: "files/2012-PPIG-24th-Prause.pdf"
+url_pdf: "/files/2012-PPIG-24th-Prause.pdf"
 ---

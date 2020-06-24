@@ -51,7 +51,7 @@ For my talk I continued my story from PPIG'06 and talked about where my research
 
 Sadly, due to time considerations I had to cut myself and the following discussion a bit short. However, I learned that most people find feedback devices and active build monitors in the workplace (especially [Nabaztag rabbits](http://www.nabaztag.com/)) quite interesting. I also noted the common reservations people have about lumping research under an 'agile' banner.
 
-![A photograph of a Nabaztag rabbit](img/1nabaztag.jpg)
+![A photograph of a Nabaztag rabbit](/img/1nabaztag.jpg)
 A photograph of a Nabaztag rabbit
 
 The workshop itself was wonderful, interesting and beautifully organised. I have much to go away and think about now, not just from my talk but also the other talks and from the good session run by Thomas Green, Judith Segal and Marian Petre on Critical Thinking in Research.
@@ -60,7 +60,7 @@ Best of all I won a prize (in fact, two).
 
 Firstly, I won the Rose Elliot Prize for Time Control (photo attached), after successfully editing my talk down to 15 minutes. This prize made me inordinately happy as, well, er, I have never, ever, been known for my time-keeping skills.
 
-![A photograph of my time keeping prize](img/2ppigwip.jpg)
+![A photograph of my time keeping prize](/img/2ppigwip.jpg)
 A photograph of my time keeping prize
 
 Secondly, my name was drawn to receive funding from PPIG to go to Finland for PPIG'07. This was brilliant for me, as I had not been sure I could afford to attend. This may not be so good for everyone else as it means I shall try to continue telling people my research story (and people may become bored of this after a while!) I just hope that everyone else from the workshop at Salford will be able to join me there.

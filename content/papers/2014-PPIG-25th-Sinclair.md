@@ -9,5 +9,5 @@ interaction style with each environment were measured and the results indicate t
 facilitates a greater level of user experimentation and concept retention."
 publishedAt: "ppig-2014"
 year: 2014
-url_pdf: "files/2014-PPIG-25th-Sinclair.pdf"
+url_pdf: "/files/2014-PPIG-25th-Sinclair.pdf"
 ---

@@ -22,5 +22,5 @@ company. We also analyzed the effect of confirmation bias during software testin
 showed that there is a direct correlation between confirmation bias and defect proneness of the code."
 publishedAt: "ppig-2010"
 year: 2010
-url_pdf: "files/2010-PPIG-22nd-Calikli.pdf"
+url_pdf: "/files/2010-PPIG-22nd-Calikli.pdf"
 ---

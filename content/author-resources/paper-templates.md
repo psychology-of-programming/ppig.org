@@ -7,7 +7,7 @@ menu:
 
 Please use one of the templates we have provided in the zip file when submitting papers to PPIG workshops.
 
-Download the [zip file with PPIG templates](PPIG-submission-templates.zip).
+Download the [zip file with PPIG templates](/PPIG-submission-templates.zip).
 
 ### Contents
 

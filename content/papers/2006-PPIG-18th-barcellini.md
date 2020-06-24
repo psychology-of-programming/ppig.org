@@ -17,5 +17,5 @@ interactions spaces; and there are some cross participants between users and
 developers communities which may reveal boundary spanners roles."
 publishedAt: "ppig-2006"
 year: 2006
-url_pdf: "files/2006-PPIG-18th-barcellini.pdf"
+url_pdf: "/files/2006-PPIG-18th-barcellini.pdf"
 ---

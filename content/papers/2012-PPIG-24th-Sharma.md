@@ -11,5 +11,5 @@ code and moments where it diverges. Moments of convergence are accompanied by mo
 of the code and less transitions among identifiers and expressions."
 publishedAt: "ppig-2012"
 year: 2012
-url_pdf: "files/2012-PPIG-24th-Sharma.pdf"
+url_pdf: "/files/2012-PPIG-24th-Sharma.pdf"
 ---

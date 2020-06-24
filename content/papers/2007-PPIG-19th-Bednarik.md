@@ -25,5 +25,5 @@ the quantitative eye-tracking data. As part of future research we propose
 to investigate the symmetries of representation switching behavior."
 publishedAt: "ppig-2007"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Bednarik.pdf"
+url_pdf: "/files/2007-PPIG-19th-Bednarik.pdf"
 ---

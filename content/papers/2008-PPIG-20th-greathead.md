@@ -17,5 +17,5 @@ of the other three MBTI preferences yielded a significant result. This is discus
 previous research."
 publishedAt: "ppig-2008"
 year: 2008
-url_pdf: "files/2008-PPIG-20th-greathead.pdf"
+url_pdf: "/files/2008-PPIG-20th-greathead.pdf"
 ---

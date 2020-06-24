@@ -11,5 +11,5 @@ habits of communication. I conclude with learning objectives for students that a
 of difficulty."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Miller.pdf"
+url_pdf: "/files/2016-PPIG-27th-Miller.pdf"
 ---

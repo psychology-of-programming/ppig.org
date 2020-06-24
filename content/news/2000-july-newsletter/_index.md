@@ -97,4 +97,4 @@ p.m.hornsby@lboro.ac.uk
 ### Abstract
 Producing software from predefined components can lead to significant cost savings, together with increases in the reliability of the software. During the software development process, the developers understanding of the nature of the problem changes as possible solutions are explored. As a result, the way in which components are described needs to encompass information from both the problem and the solution domains. The paper describes an approach to component based programming which uses information already generated during the design process to describe components for retrieval. This approach has been implemented in a tool called DesignMatcher, which is being used to explore the validity of the approach.
 
-[read the full paper...](news/2000-july-newsletter/2000-july-newsletter-paper/)
+[read the full paper...](/news/2000-july-newsletter/2000-july-newsletter-paper/)

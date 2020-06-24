@@ -11,5 +11,5 @@ comprehension as well as the set-up of an infrastructure to empirically evaluate
 tools in supporting software comprehension activities."
 publishedAt: "ppig-2008"
 year: 2008
-url_pdf: "files/2008-PPIG-20th-carneiro.pdf"
+url_pdf: "/files/2008-PPIG-20th-carneiro.pdf"
 ---

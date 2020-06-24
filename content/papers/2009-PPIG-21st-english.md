@@ -14,5 +14,5 @@ Java systems and that information hiding principles are applied only to a limite
 development of OO software."
 publishedAt: "ppig-2009"
 year: 2009
-url_pdf: "files/2009-PPIG-21st-english.pdf"
+url_pdf: "/files/2009-PPIG-21st-english.pdf"
 ---

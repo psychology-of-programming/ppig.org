@@ -5,5 +5,5 @@ abstract: "Extreme programming (XP) is a software development methodology which 
 publicationType: "Doctoral Consortium"
 publishedAt: "ppig-2004"
 year: 2004
-url_pdf: "files/2004-PPIG-16th-DC-bryant.pdf"
+url_pdf: "/files/2004-PPIG-16th-DC-bryant.pdf"
 ---

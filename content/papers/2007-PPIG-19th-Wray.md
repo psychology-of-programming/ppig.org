@@ -12,5 +12,5 @@ test [3] and a self-rank test could not be used to successfully predict programm
 ability."
 publishedAt: "ppig-2007"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Wray.pdf"
+url_pdf: "/files/2007-PPIG-19th-Wray.pdf"
 ---

@@ -17,5 +17,5 @@ be introduced. The alternative approach is also compared with the ACM
 Computing Curricula."
 publishedAt: "ppig-2006"
 year: 2006
-url_pdf: "files/2006-PPIG-18th-sajaniemi.pdf"
+url_pdf: "/files/2006-PPIG-18th-sajaniemi.pdf"
 ---

@@ -14,5 +14,5 @@ generation. The resulting approach can automatically generate test cases with im
 with the overall objective of reducing the effort for developers to understand these test cases."
 publishedAt: "ppig-2015"
 year: 2015
-url_pdf: "files/2015-PPIG-26th-Daka.pdf"
+url_pdf: "/files/2015-PPIG-26th-Daka.pdf"
 ---

@@ -4,7 +4,7 @@ workshop: "ppig-wip-2008"
 weight: 20
 ---
 
-The [fourth PPIG work in progress meeting](workshops/2008-wip-workshop/) was hosted (and skilfully organised) by Johanna Hunt, from the Department of Informatics of the University of Sussex between the 21st and 22nd February.
+The [fourth PPIG work in progress meeting](/workshops/2008-wip-workshop/) was hosted (and skilfully organised) by Johanna Hunt, from the Department of Informatics of the University of Sussex between the 21st and 22nd February.
 
 The aim of the workshop was to provide an informal forum to foster discussion of new and on-going projects within the area of the psychology of programming. As with all PPIG events, the interdisciplinary nature of the 'organisation' was highlighted with an introductory presentation by Thomas Green.
 

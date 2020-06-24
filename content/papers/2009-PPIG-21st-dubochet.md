@@ -12,5 +12,5 @@ experiment, using an eye-tracking device, that measures the performance of code 
 The hypotheses are tested by varying the degree of reference to common grounds."
 publishedAt: "ppig-2009"
 year: 2009
-url_pdf: "files/2009-PPIG-21st-dubochet.pdf"
+url_pdf: "/files/2009-PPIG-21st-dubochet.pdf"
 ---

@@ -14,5 +14,5 @@ scheme turned out to be best for some target type but the interaction
 was statistically only almost significant."
 publishedAt: "ppig-2006"
 year: 2006
-url_pdf: "files/2006-PPIG-18th-hakala.pdf"
+url_pdf: "/files/2006-PPIG-18th-hakala.pdf"
 ---

@@ -9,5 +9,5 @@ PPIG has a very broad coverage of a wide range of topics. We
 characterise trends in these and go on to discuss missing topics and areas for future work."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Church.pdf"
+url_pdf: "/files/2016-PPIG-27th-Church.pdf"
 ---

@@ -6,5 +6,5 @@ abstract: "Several studies have suggested that the mental structures of programm
 This paper reports an experiment that tries to characterise the nature of the mental models that programmers build when comprehending Prolog code by finding out which of several structural models, Programming Plans among them, are most relevant for the case of this programming language. The results suggest that Prolog Schemas, a construct related to data structure relationships, is of central importance to Prolog programmers. This result contrasts with those obtained for procedural languages, where Programming Plans, a concept related to functional information, seems to be the dominant model."
 publishedAt: "ppig-1999"
 year: 1999
-url_pdf: "files/1999-PPIG-11th-romero.pdf"
+url_pdf: "/files/1999-PPIG-11th-romero.pdf"
 ---

@@ -13,5 +13,5 @@ described, and implications of expert reasoning about intractable problems are d
 publishedAt: "ppig-2007"
 paperType: "Doctoral Consortium"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Petre.pdf"
+url_pdf: "/files/2007-PPIG-19th-Petre.pdf"
 ---

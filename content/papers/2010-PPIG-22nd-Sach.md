@@ -17,5 +17,5 @@ there is still some understanding to be gained about personality in software eng
 not by any means know the exact breakdown of types present within the industry."
 publishedAt: "ppig-2010"
 year: 2010
-url_pdf: "files/2010-PPIG-22nd-Sach.pdf"
+url_pdf: "/files/2010-PPIG-22nd-Sach.pdf"
 ---

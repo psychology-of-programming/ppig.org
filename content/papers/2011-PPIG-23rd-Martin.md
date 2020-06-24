@@ -10,5 +10,5 @@ by the research questions it seeks to address and a description of the methodolo
 these questions. Result are presented and discussed before purposing future work."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Martin.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Martin.pdf"
 ---

@@ -11,5 +11,5 @@ Environment (IDE) which uses a dynamic, expressive, and human-centric cards and 
 publishedAt: "ppig-2017"
 publicationType: "Doctoral Consortium"
 year: 2017
-url_pdf: "files/2017-PPIG-28th-DC-nelson.pdf"
+url_pdf: "/files/2017-PPIG-28th-DC-nelson.pdf"
 ---

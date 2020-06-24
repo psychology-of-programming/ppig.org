@@ -11,5 +11,5 @@ should take account of the visual, spatial and linguistic abilities of developer
 weaknesses of this model are discussed and further research directions presented."
 publishedAt: "ppig-2008"
 year: 2008
-url_pdf: "files/2008-PPIG-20th-douce.pdf"
+url_pdf: "/files/2008-PPIG-20th-douce.pdf"
 ---

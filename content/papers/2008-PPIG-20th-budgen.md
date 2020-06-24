@@ -21,5 +21,5 @@ of primary studies, and argue for identifying some ’empirical grand challenges
 focus for the community."
 publishedAt: "ppig-2008"
 year: 2008
-url_pdf: "files/2008-PPIG-20th-budgen.pdf"
+url_pdf: "/files/2008-PPIG-20th-budgen.pdf"
 ---

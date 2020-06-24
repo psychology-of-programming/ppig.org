@@ -6,5 +6,5 @@ abstract: "In this article, we report on an investigation into how educators des
 Almost all participants in our investigation used concurrency as a part of their description. No one seemed to think that this was difficult. In addition, we observed that the educators frequently thought in terms of objects. These results suggest that any authoring environment targeted at teaching should include support for concurrency and objects."
 publishedAt: "ppig-2002"
 year: 2002
-url_pdf: "files/2002-PPIG-14th-mostrom.pdf"
+url_pdf: "/files/2002-PPIG-14th-mostrom.pdf"
 ---

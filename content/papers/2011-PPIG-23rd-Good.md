@@ -15,5 +15,5 @@ emotional regulation, and the opportunities that the Subtle Stone provides for b
 regulation."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Good.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Good.pdf"
 ---

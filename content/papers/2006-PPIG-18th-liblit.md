@@ -11,5 +11,5 @@ names to carry semantic cues that aid in program understanding and support the
 larger software development process."
 publishedAt: "ppig-2006"
 year: 2006
-url_pdf: "files/2006-PPIG-18th-liblit.pdf"
+url_pdf: "/files/2006-PPIG-18th-liblit.pdf"
 ---

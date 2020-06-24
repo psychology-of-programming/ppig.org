@@ -8,5 +8,5 @@ The paper presents a study of three distinct visualisation tools Jeliot(Moreno, 
 The results presented in this paper show the characteristics in the visualisation tools and the students’ preferences in using them. The students evaluated the following eight characteristics: tool availability, error explanation, expression evaluation, the interface, programming languages the tool supports, animation, class hierarchy and save the execution history."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Alhammad.pdf"
+url_pdf: "/files/2016-PPIG-27th-Alhammad.pdf"
 ---

@@ -13,5 +13,5 @@ emphasises transience, ambiguity and creative flow rather than the conventional 
 professional software engineering contexts."
 publishedAt: "ppig-2012"
 year: 2012
-url_pdf: "files/2012-PPIG-24th-Church.pdf"
+url_pdf: "/files/2012-PPIG-24th-Church.pdf"
 ---

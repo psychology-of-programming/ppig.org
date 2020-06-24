@@ -13,5 +13,5 @@ reasons for this were derived. Consequently, this document outlines the resultan
 for an approach to inhibit architectural drift, primarily by identifying it as, or before, it is introduced."
 publishedAt: "ppig-2009"
 year: 2009
-url_pdf: "files/2009-PPIG-21st-rosik.pdf"
+url_pdf: "/files/2009-PPIG-21st-rosik.pdf"
 ---

@@ -14,5 +14,5 @@ this work, we demonstrate the validity of the evaluation tool and raise question
 value developers place on information about an API and its intended use."
 publishedAt: "ppig-2010"
 year: 2010
-url_pdf: "files/2010-PPIG-22nd-Daughtry.pdf"
+url_pdf: "/files/2010-PPIG-22nd-Daughtry.pdf"
 ---

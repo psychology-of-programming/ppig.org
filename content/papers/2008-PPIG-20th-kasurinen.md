@@ -20,5 +20,5 @@ and project assignments from the motivational point of view, and present future 
 and observations based on the results of the development project and course outcome."
 publishedAt: "ppig-2008"
 year: 2008
-url_pdf: "files/2008-PPIG-20th-kasurinen.pdf"
+url_pdf: "/files/2008-PPIG-20th-kasurinen.pdf"
 ---

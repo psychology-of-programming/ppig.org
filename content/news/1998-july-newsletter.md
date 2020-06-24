@@ -284,4 +284,4 @@ Notification with reviews will be by August 31 and the revised version will be d
 
 # PPIG '99 Workshop
 
-Conference website here: [workshops/1999-annual-workshop](workshops/1999-annual-workshop)
+Conference website here: [workshops/1999-annual-workshop](/workshops/1999-annual-workshop)

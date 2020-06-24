@@ -10,5 +10,5 @@ calculated. The results suggest that the use of RAM diagrams improves programmin
 and programming skills."
 publishedAt: "ppig-2010"
 year: 2010
-url_pdf: "files/2010-PPIG-22nd-Mselle.pdf"
+url_pdf: "/files/2010-PPIG-22nd-Mselle.pdf"
 ---

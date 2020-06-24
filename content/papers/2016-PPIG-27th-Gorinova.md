@@ -13,5 +13,5 @@ end-users to interact with the content of a customisable information system, thr
 as an approachable analytic tool."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Gorinova.pdf"
+url_pdf: "/files/2016-PPIG-27th-Gorinova.pdf"
 ---

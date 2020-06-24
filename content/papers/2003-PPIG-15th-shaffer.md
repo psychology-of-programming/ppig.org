@@ -6,5 +6,5 @@ abstract: "Cognitive Load Theory provides a theoretical basis for understanding 
 This paper describes Cognitive Load Theory, discusses its application in a number of areas, and explores its potential uses in understanding and improving novice programming and computer science education. A number of research directions are suggested."
 publishedAt: "ppig-2003"
 year: 2003
-url_pdf: "files/2003-PPIG-15th-shaffer.pdf"
+url_pdf: "/files/2003-PPIG-15th-shaffer.pdf"
 ---

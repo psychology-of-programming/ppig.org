@@ -18,5 +18,5 @@ effectively identify and develop the core cognitive processes of programming, er
 Computational Thinking."
 publishedAt: "ppig-2014"
 year: 2014
-url_pdf: "files/2014-PPIG-25th-Ambrosio.pdf"
+url_pdf: "/files/2014-PPIG-25th-Ambrosio.pdf"
 ---

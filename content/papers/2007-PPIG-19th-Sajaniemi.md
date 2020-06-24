@@ -22,5 +22,5 @@ our claims. Finally, we present a research agenda intended to improve the
 understanding of OO programming and OO programming education."
 publishedAt: "ppig-2007"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Sajaniemi.pdf"
+url_pdf: "/files/2007-PPIG-19th-Sajaniemi.pdf"
 ---

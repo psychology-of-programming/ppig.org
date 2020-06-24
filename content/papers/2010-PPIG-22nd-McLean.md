@@ -11,5 +11,5 @@ related, underpinned by theories of cognitive metaphor and computational creativ
 with consideration of the bricolage programmer's relation to time."
 publishedAt: "ppig-2010"
 year: 2010
-url_pdf: "files/2010-PPIG-22nd-McLean.pdf"
+url_pdf: "/files/2010-PPIG-22nd-McLean.pdf"
 ---

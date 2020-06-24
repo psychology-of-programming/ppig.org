@@ -7,5 +7,5 @@ for galleries and museums. This paper reports preliminary findings from a qualit
 the responses of CHPs to the Quando environment."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Stratton.pdf"
+url_pdf: "/files/2016-PPIG-27th-Stratton.pdf"
 ---

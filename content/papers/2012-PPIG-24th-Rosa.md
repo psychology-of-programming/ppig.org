@@ -21,5 +21,5 @@ stages of the study and the analysis of the diffculties and progress observed. S
 future work are included."
 publishedAt: "ppig-2012"
 year: 2012
-url_pdf: "files/2012-PPIG-24th-Rosa.pdf"
+url_pdf: "/files/2012-PPIG-24th-Rosa.pdf"
 ---

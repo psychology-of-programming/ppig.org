@@ -26,5 +26,5 @@ linked to cognitive characteristics of the programmer such as level of
 programming skill and display modality preference."
 publishedAt: "ppig-2003"
 year: 2003
-url_pdf: "files/2003-PPIG-15th-romero.pdf"
+url_pdf: "/files/2003-PPIG-15th-romero.pdf"
 ---

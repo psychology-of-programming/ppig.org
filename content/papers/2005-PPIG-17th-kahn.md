@@ -8,5 +8,5 @@ Children, in some cases on their own, have learned to build ToonTalk programs be
 Despite ten years of usage by children, many questions remain. Even if the concrete analogs preserve all the expressive power of the computational abstractions they have replaced, has something been lost? Do abstractions enable a kind of thinking that the corresponding concretisations don’t?"
 publishedAt: "ppig-2005"
 year: 2005
-url_pdf: "files/2005-PPIG-17th-kahn.pdf"
+url_pdf: "/files/2005-PPIG-17th-kahn.pdf"
 ---

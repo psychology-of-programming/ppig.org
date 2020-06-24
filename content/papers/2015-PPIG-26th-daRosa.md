@@ -12,5 +12,5 @@ focusing on the passage from conceptual knowledge (intra-inter stages) to formal
 (trans stage)."
 publishedAt: "ppig-2015"
 year: 2015
-url_pdf: "files/2015-PPIG-26th-daRosa.pdf"
+url_pdf: "/files/2015-PPIG-26th-daRosa.pdf"
 ---

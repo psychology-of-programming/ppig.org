@@ -4,5 +4,5 @@ authors: [Judith Good, Paul Brna]
 abstract: ""
 publishedAt: "ppig-1999"
 year: 1999
-url_pdf: "files/1999-PPIG-11th-good.pdf"
+url_pdf: "/files/1999-PPIG-11th-good.pdf"
 ---

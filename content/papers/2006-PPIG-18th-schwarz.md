@@ -13,5 +13,5 @@ effort turned out to be more important than the appropriateness of the tool for
 achieving the goal."
 publishedAt: "ppig-2006"
 year: 2006
-url_pdf: "files/2006-PPIG-18th-schwarz.pdf"
+url_pdf: "/files/2006-PPIG-18th-schwarz.pdf"
 ---

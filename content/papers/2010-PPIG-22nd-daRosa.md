@@ -12,5 +12,5 @@ and in the analysis of the gathered information. Selected excerpts from students
 included."
 publishedAt: "ppig-2010"
 year: 2010
-url_pdf: "files/2010-PPIG-22nd-daRosa.pdf"
+url_pdf: "/files/2010-PPIG-22nd-daRosa.pdf"
 ---

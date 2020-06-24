@@ -17,5 +17,5 @@ directions for the future and provides a basis for further discussions of
 variable-oriented, roles-based programming."
 publishedAt: "ppig-2007"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Sorva.pdf"
+url_pdf: "/files/2007-PPIG-19th-Sorva.pdf"
 ---

@@ -11,5 +11,5 @@ basis in cognitive theory. We compare our approach to related work through an
 experiment and present our conclusions."
 publishedAt: "ppig-2007"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Cleary.pdf"
+url_pdf: "/files/2007-PPIG-19th-Cleary.pdf"
 ---

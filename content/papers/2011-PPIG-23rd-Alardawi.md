@@ -6,5 +6,5 @@ abstract: "We report on a research that aims to investigate the effect of class 
 Some findings of these three sets of studies are put together and reported, in particular the overall results indicate that Class based programs were more understandable, readable, and accessible than the corresponding Non-Class based programs. Our findings align with and support those works that claim the cognitive benefits of the OO paradigm. Limitations and directions for future research are highlighted."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Alardawi.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Alardawi.pdf"
 ---

@@ -19,5 +19,5 @@ in modern neural architectures. In the future, we plan to explore the potential 
 neural models to solve tasks involving generation of computer programs."
 publishedAt: "ppig-2018"
 year: 2018
-url_pdf: "files/2018-PPIG-29th-perticas.pdf"
+url_pdf: "/files/2018-PPIG-29th-perticas.pdf"
 ---

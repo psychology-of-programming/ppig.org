@@ -12,5 +12,5 @@ promote the workmanship of risk, turn from correctness to truthfulness, and cons
 rather than at most a couple of years."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Basman2.pdf"
+url_pdf: "/files/2016-PPIG-27th-Basman2.pdf"
 ---

@@ -9,5 +9,5 @@ explore the kinds of feedback loop present in musical systems, what such systems
 the analytical description of programming languages, and vice versa."
 publishedAt: "ppig-2010"
 year: 2010
-url_pdf: "files/2010-PPIG-22nd-Church.pdf"
+url_pdf: "/files/2010-PPIG-22nd-Church.pdf"
 ---

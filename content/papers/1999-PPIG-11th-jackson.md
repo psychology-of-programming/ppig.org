@@ -6,5 +6,5 @@ abstract: "Universities currently take some steps towards preparing their studen
 While a sandwich year experience is undoubtedly worth while, it cannot be an excuse for the universities to omit any teaching of people skills. The paper identifies that there is clearly a need for universities to put a greater emphasis on people handling skills in computer science and other courses. Students need to learn firstly, how to recognise the types of people problem they encounter, secondly, how to assess the risks of their actions in dealing with these people problems, and thirdly, have strategies for handling the problems and risks they encounter."
 publishedAt: "ppig-1999"
 year: 1999
-url_pdf: "files/1999-PPIG-11th-jackson.pdf"
+url_pdf: "/files/1999-PPIG-11th-jackson.pdf"
 ---

@@ -64,10 +64,10 @@ The strangest item of clothing worn while presenting a paper (the actual clothin
 A walk on the Moor
 ------------------
 
-![](img/ppig-1997/9th-1.jpg)
+![](/img/ppig-1997/9th-1.jpg)
 
-![](img/ppig-1997/9th-2.jpg)
+![](/img/ppig-1997/9th-2.jpg)
 
-![](img/ppig-1997/9th-3.jpg)
+![](/img/ppig-1997/9th-3.jpg)
 
 *Prepared by Paola Kathuria*

@@ -51,7 +51,7 @@ A tool has been developed to explore the practical possibilities of this approac
 During the development process, DM reads the design file, and uses this to evaluate existing designs against the developing design. DM can then ‘score’ existing designs and return these scores, together with information about the nature of the match found, to the developer who may then choose to examine the matches in greater detail. In this way the effort required from the developer is minimised, while at the same time aiming to provide the developer with as much useful information about existing components as possible. DM currently operates using Java (code) and Rational Rose (UML design) files as the primary data sources. It is designed to operate in the background of the development process, alerting the developer only when a significant probability of a component match has been found.
 
 
-{{< figure src="img/2000-july-newsletter-architecture.gif" caption="Figure 1: DesignMatcher architecture" class="tc">}}
+{{< figure src="/img/2000-july-newsletter-architecture.gif" caption="Figure 1: DesignMatcher architecture" class="tc">}}
 
 The architecture of the DM system is illustrated in Figure 1. DM identifies when a file update takes place, and sends a copy of the file to the DM pre-processor. This translates the UML file into a standard format which is passed to the DM matching utility. This applies a series of matching algorithms to the design, which compare it to designs held in the design store. Matching within DM is string based. This is currently the most effective technique since the majority of the useful descriptive information about a component is stored in textual format. For elements such as class names, which are typically written using camel notation, the element is split up into the individual words, so ‘HelloWorld’ becomes ‘Hello World’. This enables more accurate matching to occur as the descriptive terms for the element are identified. Investigations are currently under way to examine the viability of matching routines based on structure, so for example sequence diagrams can be compared to obtain more contextual information about components. The long-term benefits of this are likely to be more accurate identification of similar designs or code, but this will become a more serious issue when the number of designs held in DM rank in the hundreds rather than the tens.
 
@@ -65,12 +65,12 @@ This case study describes part of a retrieval process in the context of an exist
 Once a statement of requirements has been produced, the developer uses a UML modelling tool such as Rational Rose to flesh out the analysis and design of the problem. Initially, actors and use cases are defined, together with a short description. This identifies the basic functionality of the system and the entities with which the system will interact.
 
 
-{{< figure src="img/2000-july-newsletter-usecase.jpg" caption="Figure 2: Use case diagram for library management system" class="tc">}}
+{{< figure src="/img/2000-july-newsletter-usecase.jpg" caption="Figure 2: Use case diagram for library management system" class="tc">}}
 
 Figure 2 illustrates use cases and actors associated with the design of a library management system. This is the design upon which DM will perform the analysis. The user has told DM the name of the operating file, which is read whenever its timestamp is updated. This is then sent to a holding area on the DM server. A DM process running on the server identifies that a new or updated file has been added, and performs evaluation processing on the file. This translates the file into a standard format, and performs matching routines which compare the current design to designs already stored in the DM database. If the results score past a user-defined threshold, the user is alerted that a match has been found.
 
 
-{{< figure src="img/2000-july-newsletter-interface.jpg" caption="Figure 3: Sample DM interface dialogue results" class="tc">}}
+{{< figure src="/img/2000-july-newsletter-interface.jpg" caption="Figure 3: Sample DM interface dialogue results" class="tc">}}
 
 Once analysis has been performed by DM, the results are returned to the developer. More detailed information can then be obtained about nature of the match, and, if desired, the relevant file retrieved. The developer can also be informed whether or not there is a code implementation of the component. Depending on the similarity of the match, the developer may choose to retrieve and modify an existing system rather than generate one from scratch. In this way, significant development effort can be saved by reusing significant portions of existing systems.
 

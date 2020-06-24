@@ -8,5 +8,5 @@ This paper has two main objectives; the first objective is an investigation on f
 This paper reports on 90 experiments using data from all five previous studies, examining 126 possible factors. The work successfully identified 16 factors that when used in combination with the original PreSS factors either produced significant increases in prediction accuracy or exhibited noteworthy findings. Some of the 16 factors produced substantial gains in accuracy (in some cases in excess of 8%) or when integrated into the PreSS model, revealed interesting substitutions of factors."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Quille.pdf"
+url_pdf: "/files/2016-PPIG-27th-Quille.pdf"
 ---

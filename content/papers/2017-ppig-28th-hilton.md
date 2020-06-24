@@ -8,5 +8,5 @@ Although few teams write their own coding standards, let alone naming guidelines
 This paper examines various sources of naming guidelines, in the context of the first author’s twenty years’ experience as a professional programmer. This paper then presents a consolidated set of naming guidelines that professional programmers can apply to the code they write."
 publishedAt: "ppig-2017"
 year: 2017
-url_pdf: "files/2017-PPIG-28th-hilton.pdf"
+url_pdf: "/files/2017-PPIG-28th-hilton.pdf"
 ---

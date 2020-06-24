@@ -17,5 +17,5 @@ about session goals and missing awareness. <i>Limitations</i>: The validity of t
 number of participants and their particular cultural backgrounds."
 publishedAt: "ppig-2010"
 year: 2010
-url_pdf: "files/2010-PPIG-22nd-Rosen.pdf"
+url_pdf: "/files/2010-PPIG-22nd-Rosen.pdf"
 ---

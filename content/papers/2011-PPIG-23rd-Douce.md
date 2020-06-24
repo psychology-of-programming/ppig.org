@@ -9,5 +9,5 @@ small number of metrics are described, followed by a description of two differen
 are continuing to be designed."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Douce.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Douce.pdf"
 ---

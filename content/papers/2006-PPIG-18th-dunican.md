@@ -15,5 +15,5 @@ to other qualitative methods and it is hoped that these may be helpful for prosp
 qualitative researchers embarking on similar types of projects."
 publishedAt: "ppig-2006"
 year: 2006
-url_pdf: "files/2006-PPIG-18th-dunican.pdf"
+url_pdf: "/files/2006-PPIG-18th-dunican.pdf"
 ---

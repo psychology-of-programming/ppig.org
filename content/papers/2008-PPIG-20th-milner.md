@@ -10,5 +10,5 @@ mental spaces, and that loop statements represent compressions. The implications
 discussed, and future work is outlined."
 publishedAt: "ppig-2008"
 year: 2008
-url_pdf: "files/2008-PPIG-20th-milner.pdf"
+url_pdf: "/files/2008-PPIG-20th-milner.pdf"
 ---

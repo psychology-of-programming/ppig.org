@@ -8,5 +8,5 @@ study. We observe that syntax highlighting significantly improves task completio
 this effect becomes weaker with an increase in programming experience."
 publishedAt: "ppig-2015"
 year: 2015
-url_pdf: "files/2015-PPIG-26th-Sarkar1.pdf"
+url_pdf: "/files/2015-PPIG-26th-Sarkar1.pdf"
 ---

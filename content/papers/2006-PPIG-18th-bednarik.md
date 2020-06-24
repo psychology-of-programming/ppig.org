@@ -25,5 +25,5 @@ can help to partially predict the mental model that is built during comprehensio
 We discuss limitations and future directions of this research."
 publishedAt: "ppig-2006"
 year: 2006
-url_pdf: "files/2006-PPIG-18th-bednarik.pdf"
+url_pdf: "/files/2006-PPIG-18th-bednarik.pdf"
 ---

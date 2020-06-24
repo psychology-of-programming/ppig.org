@@ -9,5 +9,5 @@ expertise acquisition, and attention investment. Users fall on a spectrum of int
 learning. We close with a few reflections on how features might be designed with adoption in mind."
 publishedAt: "ppig-2018"
 year: 2018
-url_pdf: "files/2018-PPIG-29th-sarkar.pdf"
+url_pdf: "/files/2018-PPIG-29th-sarkar.pdf"
 ---

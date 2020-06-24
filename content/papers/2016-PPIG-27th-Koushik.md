@@ -10,5 +10,5 @@ interface for the language, similar to that of Noodle, and compare it with other
 accessibility for blocks languages."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Koushik.pdf"
+url_pdf: "/files/2016-PPIG-27th-Koushik.pdf"
 ---

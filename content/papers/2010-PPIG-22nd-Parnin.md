@@ -10,5 +10,5 @@ and examine the impacts on our theories of how programmers work and the design o
 programming environments."
 publishedAt: "ppig-2010"
 year: 2010
-url_pdf: "files/2010-PPIG-22nd-Parnin.pdf"
+url_pdf: "/files/2010-PPIG-22nd-Parnin.pdf"
 ---

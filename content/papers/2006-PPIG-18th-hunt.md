@@ -10,5 +10,5 @@ the first case-study for a broader comparative investigation into how stories
 are used and told across software development methodologies."
 publishedAt: "ppig-2006"
 year: 2006
-url_pdf: "files/2006-PPIG-18th-hunt.pdf"
+url_pdf: "/files/2006-PPIG-18th-hunt.pdf"
 ---

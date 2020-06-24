@@ -6,5 +6,5 @@ abstract: "This paper presents an analysis schema for talk-aloud protocols, whic
 The schema is placed in the context of other talk-aloud analysis schemas. It is described in detail, allowing other researchers replicate the protocol and assess the generality of its findings. A brief description of an experiment, which uses this schema, is also included."
 publishedAt: "ppig-2001"
 year: 2001
-url_pdf: "files/2001-PPIG-13th-obrien.pdf"
+url_pdf: "/files/2001-PPIG-13th-obrien.pdf"
 ---

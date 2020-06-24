@@ -10,5 +10,5 @@ problems and pitfalls that can occur when introducing XP. They are explained in 
 and possible solutions are suggested."
 publishedAt: "ppig-2008"
 year: 2008
-url_pdf: "files/2008-PPIG-20th-lechner.pdf"
+url_pdf: "/files/2008-PPIG-20th-lechner.pdf"
 ---

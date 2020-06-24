@@ -14,5 +14,5 @@ questions and answers, and considers how technology might be developed in the fu
 support the needs of these students."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Rimmer.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Rimmer.pdf"
 ---

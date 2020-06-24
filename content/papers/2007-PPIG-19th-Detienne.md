@@ -21,5 +21,5 @@ and role balance, constituting this way “enabling environments” (Falzon, 200
 publishedAt: "ppig-2007"
 paperType: "Keynote"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Detienne.pdf"
+url_pdf: "/files/2007-PPIG-19th-Detienne.pdf"
 ---

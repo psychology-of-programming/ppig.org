@@ -13,5 +13,5 @@ improve the quality of the generated test data. Empirical studies are proposed t
 this incorporation of knowledge can reduce the overall testing costs."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Afshan.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Afshan.pdf"
 ---

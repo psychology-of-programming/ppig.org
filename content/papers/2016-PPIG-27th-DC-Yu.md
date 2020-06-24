@@ -5,5 +5,5 @@ abstract: "Interaction with programming notations happens over time. We are expl
 publishedAt: "ppig-2016"
 publicationType: "Doctoral Consortium"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-DC-Yu.pdf"
+url_pdf: "/files/2016-PPIG-27th-DC-Yu.pdf"
 ---

@@ -10,5 +10,5 @@ of how students performed about 10 weeks later, in their final programming exam.
 results in terms of our neo-Piagetian theory of how novices learn to program."
 publishedAt: "ppig-2014"
 year: 2014
-url_pdf: "files/2014-PPIG-25th-Ahadi.pdf"
+url_pdf: "/files/2014-PPIG-25th-Ahadi.pdf"
 ---

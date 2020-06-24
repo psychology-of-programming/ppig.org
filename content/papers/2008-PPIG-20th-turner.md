@@ -13,5 +13,5 @@ abstract: "
 <b>Conclusions</b>: The preliminary results are positive, both for the use of pair programming in introductory undergraduate programming courses and for the use of the SLR process for master’s level project students. The evidence from the SLR is that pair programming can significantly improve the success and retention rates on programming modules, as well as student’s confidence in their work. In terms of the process, this study has demonstrated that it is possible for a student to follow guidelines for conducting SLRs and, with only minor modifications, deliver a valuable project report."
 publishedAt: "ppig-2008"
 year: 2008
-url_pdf: "files/2008-PPIG-20th-turner.pdf"
+url_pdf: "/files/2008-PPIG-20th-turner.pdf"
 ---

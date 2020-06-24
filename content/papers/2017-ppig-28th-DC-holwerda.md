@@ -7,5 +7,5 @@ We intend to research the design-space for block-based language interfaces with 
 publishedAt: "ppig-2017"
 year: 2017
 publicationType: "Doctoral Consortium"
-url_pdf: "files/2017-PPIG-28th-DC-holwerda.pdf"
+url_pdf: "/files/2017-PPIG-28th-DC-holwerda.pdf"
 ---

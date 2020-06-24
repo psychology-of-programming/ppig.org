@@ -8,5 +8,5 @@ describe some problems arising when scientists and software engineers come toget
 scientific software and discuss how these problems may be ascribed to their two different cultures."
 publishedAt: "ppig-2008"
 year: 2008
-url_pdf: "files/2008-PPIG-20th-segal.pdf"
+url_pdf: "/files/2008-PPIG-20th-segal.pdf"
 ---

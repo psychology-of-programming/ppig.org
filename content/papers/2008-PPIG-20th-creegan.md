@@ -10,5 +10,5 @@ This paper attempts to re-examine this subject. It is hoped, that the methodolog
 The study found that while such a signature was present, it was most likely due to seasonal effects. The depth of inheritance of associated code could not be correlated with this signature to any significant degree. A functional relationship between the number of file revisions and their distribution within the repository was also observed. This along with the previous results is presented and discussed."
 publishedAt: "ppig-2008"
 year: 2008
-url_pdf: "files/2008-PPIG-20th-creegan.pdf"
+url_pdf: "/files/2008-PPIG-20th-creegan.pdf"
 ---

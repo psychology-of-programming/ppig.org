@@ -13,5 +13,5 @@ dificulties reported by the participants to suggest that human computer interact
 be evaluated using mental effort and familiarity data retrieved by an affordable EEG headset."
 publishedAt: "ppig-2015"
 year: 2015
-url_pdf: "files/2015-PPIG-26th-Rostami.pdf"
+url_pdf: "/files/2015-PPIG-26th-Rostami.pdf"
 ---

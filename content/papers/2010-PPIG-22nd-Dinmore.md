@@ -13,5 +13,5 @@ idea that users attempt to minimize the degrees of freedom associated with a com
 and used."
 publishedAt: "ppig-2010"
 year: 2010
-url_pdf: "files/2010-PPIG-22nd-Dinmore.pdf"
+url_pdf: "/files/2010-PPIG-22nd-Dinmore.pdf"
 ---

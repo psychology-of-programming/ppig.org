@@ -95,7 +95,7 @@ The study reported is concerned with the human factors that can influence the ef
 
 Keywords: Formal Specification, Z, Human Factors
 
-[View PDF version of the paper](pdf/1999-summer-newsletter-roast.pdf)
+[View PDF version of the paper](/pdf/1999-summer-newsletter-roast.pdf)
 
 ---
 

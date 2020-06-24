@@ -18,5 +18,5 @@ sults, this paper suggests six student groups the teacher should recognize
 when organizing basic programming courses."
 publishedAt: "ppig-2007"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Lahtinen.pdf"
+url_pdf: "/files/2007-PPIG-19th-Lahtinen.pdf"
 ---

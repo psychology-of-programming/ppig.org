@@ -8,5 +8,5 @@ MSP-ML, the method of evaluation, the results of evaluation and comparison of th
 results achieved with other methods using VML quality criteria."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Bobkowska.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Bobkowska.pdf"
 ---

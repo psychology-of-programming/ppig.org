@@ -11,5 +11,5 @@ highlight some of the problems with using spreadsheets in this way. We believe t
 be due to the increased cognitive load placed on users who try to use spreadsheets in a mobile context."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Flood.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Flood.pdf"
 ---

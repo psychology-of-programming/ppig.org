@@ -17,5 +17,5 @@ computers. Secondly, this paper looks at how this enumeration gives theoretical 
 uses of unique identifiers in programming languages, such as Semprola."
 publishedAt: "ppig-2018"
 year: 2018
-url_pdf: "files/2018-PPIG-29th-sharpe.pdf"
+url_pdf: "/files/2018-PPIG-29th-sharpe.pdf"
 ---

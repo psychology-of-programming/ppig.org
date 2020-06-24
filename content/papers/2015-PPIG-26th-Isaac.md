@@ -11,5 +11,5 @@ on a screen. The resulting principles are used to inform design of the user inte
 language editor for spoken mathematics."
 publishedAt: "ppig-2015"
 year: 2015
-url_pdf: "files/2015-PPIG-26th-Isaac.pdf"
+url_pdf: "/files/2015-PPIG-26th-Isaac.pdf"
 ---

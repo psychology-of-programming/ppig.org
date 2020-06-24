@@ -11,5 +11,5 @@ are balanced regarding speech distribution within the pairs, whereas some studen
 unbalanced. For the driver distributions, no typical pattern could be found for both groups."
 publishedAt: "ppig-2008"
 year: 2008
-url_pdf: "files/2008-PPIG-20th-plonka.pdf"
+url_pdf: "/files/2008-PPIG-20th-plonka.pdf"
 ---

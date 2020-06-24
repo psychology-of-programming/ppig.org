@@ -15,5 +15,5 @@ when the principles and roles of each notation are obvious and well understood,
 and when there is strong support from the environment."
 publishedAt: "ppig-2007"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Razali.pdf"
+url_pdf: "/files/2007-PPIG-19th-Razali.pdf"
 ---

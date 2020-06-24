@@ -8,7 +8,7 @@ weight: 20
 
 In _Flemish_ and English. Reproduced with permission.
 
-{{< figure src="img/ppig-1996/8th-reception.jpg" caption="Ghent City Hall reception" class="tl">}}
+{{< figure src="/img/ppig-1996/8th-reception.jpg" caption="Ghent City Hall reception" class="tl">}}
 
 _Ontwerp van toespraak door de heer Guy Serraes, Schepen van Personeelsbeleid en Informatica, ter gelegenheid van de begroeting van de deelnemers aan de workshop "Psychology of Programmers Interest", op 10 april in het Stadhuis._
 

@@ -10,5 +10,5 @@ used to develop Noodle could be applied to increase the accessibility of other v
 systems for learners with disabilities."
 publishedAt: "ppig-2014"
 year: 2014
-url_pdf: "files/2014-PPIG-25th-Lewis.pdf"
+url_pdf: "/files/2014-PPIG-25th-Lewis.pdf"
 ---

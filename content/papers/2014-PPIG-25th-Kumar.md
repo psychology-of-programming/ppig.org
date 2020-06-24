@@ -20,5 +20,5 @@ found between the two disciplinary groups on prior-preparedness. This may allude
 perceived self-efficacy of the two groups towards learning from software tutors."
 publishedAt: "ppig-2014"
 year: 2014
-url_pdf: "files/2014-PPIG-25th-Kumar.pdf"
+url_pdf: "/files/2014-PPIG-25th-Kumar.pdf"
 ---

@@ -6,5 +6,5 @@ abstract: "Programming is traditionally considered to be an activity which aims 
 Furthermore some environments allow program operation to be manipulated at run-time; we propose that these systems also operate as external representations and that programming language statements and their run-time environments can thereby be utilised as reasoning systems to promote the exploration and discovery of new understandings. In this context we consider NetLogo as a framework for reasoning about complex and emergent systems, evaluating its suitability from a representational perspective."
 publishedAt: "ppig-2014"
 year: 2014
-url_pdf: "files/2014-PPIG-25th-Lynch.pdf"
+url_pdf: "/files/2014-PPIG-25th-Lynch.pdf"
 ---

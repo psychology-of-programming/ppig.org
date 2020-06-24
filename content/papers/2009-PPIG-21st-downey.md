@@ -11,5 +11,5 @@ much project focussed as product and market focussed. This discovery suggests th
 interviews on projects rather than on products is inappropriate for architects."
 publishedAt: "ppig-2009"
 year: 2009
-url_pdf: "files/2009-PPIG-21st-downey.pdf"
+url_pdf: "/files/2009-PPIG-21st-downey.pdf"
 ---

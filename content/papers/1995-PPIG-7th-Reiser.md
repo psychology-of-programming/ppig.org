@@ -4,5 +4,5 @@ authors: [Brian J. Reiser]
 abstract: ""
 publishedAt: "ppig-1995"
 year: 1995
-url_pdf: "files/1995-PPIG-7th-Reiser.pdf"
+url_pdf: "/files/1995-PPIG-7th-Reiser.pdf"
 ---

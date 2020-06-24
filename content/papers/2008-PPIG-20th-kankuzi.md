@@ -12,5 +12,5 @@ one logical area at a time. We identify logical areas in spreadsheets by using t
 Clustering) algorithm on the underlying spreadsheet data-flow graph."
 publishedAt: "ppig-2008"
 year: 2008
-url_pdf: "files/2008-PPIG-20th-kankuzi.pdf"
+url_pdf: "/files/2008-PPIG-20th-kankuzi.pdf"
 ---

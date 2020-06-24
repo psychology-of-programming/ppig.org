@@ -6,5 +6,5 @@ abstract: "This paper investigates the question of how programmers exploit and i
 The experimental results suggest that graphical representations seemed to promote a more efficient use of the available visualisations and were therefore associated with a relatively low level of interaction. This paper discusses these results and their implications for programming instruction."
 publishedAt: "ppig-2005"
 year: 2005
-url_pdf: "files/2005-PPIG-17th-romero.pdf"
+url_pdf: "/files/2005-PPIG-17th-romero.pdf"
 ---

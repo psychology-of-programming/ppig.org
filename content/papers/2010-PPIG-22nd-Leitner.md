@@ -10,5 +10,5 @@ to the programmer’s goals and therefore are more likely to be accepted. We dra
 basis of the study’s results and experiences using agile usability methods in practise."
 publishedAt: "ppig-2010"
 year: 2010
-url_pdf: "files/2010-PPIG-22nd-Leitner.pdf"
+url_pdf: "/files/2010-PPIG-22nd-Leitner.pdf"
 ---

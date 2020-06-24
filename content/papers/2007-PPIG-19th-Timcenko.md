@@ -13,5 +13,5 @@ Results are encouraging and could be generalized to other programming
 languages but RoboLab."
 publishedAt: "ppig-2007"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Timcenko.pdf"
+url_pdf: "/files/2007-PPIG-19th-Timcenko.pdf"
 ---

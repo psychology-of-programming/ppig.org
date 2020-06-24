@@ -20,5 +20,5 @@ groups, we consider fourteen sub‐skills which we see as important to the succe
 teaching of abstraction. As such, they allow us to begin to design a ‘curriculum for abstraction’."
 publishedAt: "ppig-2009"
 year: 2009
-url_pdf: "files/2009-PPIG-21st-nicholson.pdf"
+url_pdf: "/files/2009-PPIG-21st-nicholson.pdf"
 ---

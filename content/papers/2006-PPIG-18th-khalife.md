@@ -13,5 +13,5 @@ findings suggest that the adoption of the model succeeded significantly in impro
 students’ academic achievement and perception of computer programming."
 publishedAt: "ppig-2006"
 year: 2006
-url_pdf: "files/2006-PPIG-18th-khalife.pdf"
+url_pdf: "/files/2006-PPIG-18th-khalife.pdf"
 ---

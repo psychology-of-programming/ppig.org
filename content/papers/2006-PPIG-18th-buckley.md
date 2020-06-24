@@ -15,5 +15,5 @@ The study, its results and its impact on the information-seeking model are discu
 in this paper."
 publishedAt: "ppig-2006"
 year: 2006
-url_pdf: "files/2006-PPIG-18th-buckley.pdf"
+url_pdf: "/files/2006-PPIG-18th-buckley.pdf"
 ---

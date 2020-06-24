@@ -9,5 +9,5 @@ educational implications. In this paper we describe activities carried out to in
 preconceptions about how a program is executed by a computer."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-daRosa.pdf"
+url_pdf: "/files/2016-PPIG-27th-daRosa.pdf"
 ---

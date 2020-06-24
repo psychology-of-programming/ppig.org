@@ -17,5 +17,5 @@ how the LSC approach supports programming that requires less work in the solutio
 can be applicable in areas such as novice and end-user programming."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Alexandron.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Alexandron.pdf"
 ---

@@ -10,5 +10,5 @@ with their gaze as they were using a mouse, and furthermore, that the gaze-direc
 greater inspection of the key regions of the graphs."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Chander.pdf"
+url_pdf: "/files/2016-PPIG-27th-Chander.pdf"
 ---

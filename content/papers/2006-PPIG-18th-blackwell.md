@@ -14,5 +14,5 @@ entities that act as proxies for their developers. This may have significant
 implications for the design of new programming languages and environments."
 publishedAt: "ppig-2006"
 year: 2006
-url_pdf: "files/2006-PPIG-18th-blackwell.pdf"
+url_pdf: "/files/2006-PPIG-18th-blackwell.pdf"
 ---

@@ -14,5 +14,5 @@ under development to support programming learning, focusing in problem
 solving activities."
 publishedAt: "ppig-2007"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Gomes.pdf"
+url_pdf: "/files/2007-PPIG-19th-Gomes.pdf"
 ---

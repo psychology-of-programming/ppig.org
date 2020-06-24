@@ -8,5 +8,5 @@ Interacting with other people not only forms the core of human social and psycho
 How does the Psychology of Programming fit into this? Right now, it doesn’t: but it should. I believe that PPIG has much to offer the Social Software community, and vice versa. In this talk, I will outline four ways in which a symbiotic PP/SS relationship could grow."
 publishedAt: "ppig-2005"
 year: 2005
-url_pdf: "files/2005-PPIG-17th-eisenstadt.pdf"
+url_pdf: "/files/2005-PPIG-17th-eisenstadt.pdf"
 ---

@@ -13,5 +13,5 @@ communication process between designers and programmers, and also aims to invest
 possibilities of enhancing this communication."
 publishedAt: "ppig-2012"
 year: 2012
-url_pdf: "files/2012-PPIG-24th-Afonso.pdf"
+url_pdf: "/files/2012-PPIG-24th-Afonso.pdf"
 ---

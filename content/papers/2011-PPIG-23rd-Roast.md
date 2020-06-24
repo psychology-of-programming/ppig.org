@@ -11,5 +11,5 @@ the effectiveness of the tool and its interfaces prior to its widespread adoptio
 conclusions from this analysis are illustrated and discussed."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Roast.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Roast.pdf"
 ---

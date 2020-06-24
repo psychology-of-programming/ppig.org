@@ -11,5 +11,5 @@ suggests a hierarchy. But, in spite of these findings, we have also noted that p
 student can correct or debug a program does not seem to depend on their success in these other areas."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Allen.pdf"
+url_pdf: "/files/2016-PPIG-27th-Allen.pdf"
 ---

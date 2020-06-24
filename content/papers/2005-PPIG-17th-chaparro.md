@@ -6,5 +6,5 @@ abstract: "This paper reports the findings of a study conducted on postgraduate 
 We employed a combination of data gathering techniques and triangulated them to analyze the data. We observed, recorded and interviewed students who pair programmed. They also completed questionnaires. There was evidence that matching by skill level and the task in hand are the main factors in the success of a pair programming session."
 publishedAt: "ppig-2005"
 year: 2005
-url_pdf: "files/2005-PPIG-17th-chaparro.pdf"
+url_pdf: "/files/2005-PPIG-17th-chaparro.pdf"
 ---

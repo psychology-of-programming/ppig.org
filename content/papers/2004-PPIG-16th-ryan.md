@@ -6,5 +6,5 @@ abstract: "Middlewares provide the fundamental technology needed to create distr
 This paper describes CORBAview, a visualisation tool that gathers and displays the network communication and inner workings of the objects in a CORBA-based distributed application."
 publishedAt: "ppig-2004"
 year: 2004
-url_pdf: "files/2004-PPIG-16th-ryan.pdf"
+url_pdf: "/files/2004-PPIG-16th-ryan.pdf"
 ---

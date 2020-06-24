@@ -6,5 +6,5 @@ abstract: "Improving the efficiency and effectiveness of developing software sys
 This paper reports case study findings examining the social-dynamic factors that affect the software development process. It proposes that a systems development environment must be understood as a dynamic system which intricately interconnects personal, interpersonal and intra-group factors. These factors can be observed using a framework of six interdependent, orthogonal polarities of intra-group dynamics. Interventions in the system can be assessed according to how they affect the balance between polarities."
 publishedAt: "ppig-2005"
 year: 2005
-url_pdf: "files/2005-PPIG-17th-rosen.pdf"
+url_pdf: "/files/2005-PPIG-17th-rosen.pdf"
 ---

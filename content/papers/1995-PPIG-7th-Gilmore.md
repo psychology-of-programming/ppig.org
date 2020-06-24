@@ -16,5 +16,5 @@ maintain the motivational advantages of the present system, and yet improve the
 system's educational impact."
 publishedAt: "ppig-1995"
 year: 1995
-url_pdf: "files/1995-PPIG-7th-Gilmore.pdf"
+url_pdf: "/files/1995-PPIG-7th-Gilmore.pdf"
 ---

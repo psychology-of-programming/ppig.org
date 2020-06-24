@@ -10,5 +10,5 @@ host of other issues. From performing arts to security, politics to economics - 
 developed for studying programmers are finding applications, and being improved in the process."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Church.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Church.pdf"
 ---

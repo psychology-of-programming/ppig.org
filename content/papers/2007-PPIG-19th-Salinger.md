@@ -24,5 +24,5 @@ derived from our coding work and also present a few preliminary hypotheses
 regarding pair programming that we have stumbled across."
 publishedAt: "ppig-2007"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Salinger.pdf"
+url_pdf: "/files/2007-PPIG-19th-Salinger.pdf"
 ---

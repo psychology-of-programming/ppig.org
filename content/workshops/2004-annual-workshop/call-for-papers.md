@@ -4,7 +4,7 @@ workshop: "ppig-2004"
 weight: 0
 ---
 
-Enda Dunican from the Institute of Technology, Carlow, Ireland will be hosting the [16th Annual PPIG workshop](workshops/2004-annual-workshop) between Monday 5th April 2004 and Wednesday 7th April.
+Enda Dunican from the Institute of Technology, Carlow, Ireland will be hosting the [16th Annual PPIG workshop](/workshops/2004-annual-workshop) between Monday 5th April 2004 and Wednesday 7th April.
 
 A featured theme at PPIG 2004 will be research in the area of computer science education. The authors of selected papers submitted in this area will be invited to develop their papers for submission to a special issue of the Computer Science Education (CSE) journal to appear in 2005. Papers covering other topics of interest to the PPIG community (including work-in-progress papers) are also invited and welcomed.
 

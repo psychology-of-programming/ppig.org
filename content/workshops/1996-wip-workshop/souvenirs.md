@@ -6,45 +6,45 @@ weight: 10
 
 **By Mark Ireland**
 
-![](img/ppig-1996-wip/96s-17.jpg)
+![](/img/ppig-1996-wip/96s-17.jpg)
 
 The Workshop was held at Matlock Youth Hostel Training Centre.
 
-![](img/ppig-1996-wip/96s-19.jpg)
+![](/img/ppig-1996-wip/96s-19.jpg)
 
 Here we were, hard at work...
 
-![](img/ppig-1996-wip/96s-18.jpg)
+![](/img/ppig-1996-wip/96s-18.jpg)
 
 We took time out on Saturday afternoon to explore the caves at Matlock Bath, but first we had to brave...
 
-![](img/ppig-1996-wip/96s-16.jpg)
+![](/img/ppig-1996-wip/96s-16.jpg)
 
 the cable car!
 
-![](img/ppig-1996-wip/96s-06.jpg)
+![](/img/ppig-1996-wip/96s-06.jpg)
 
 We scrambled the rest of the way to the summit ... ...to get a view of the rainclouds which would soak us that evening...
 
-![](img/ppig-1996-wip/96s-08.jpg)
+![](/img/ppig-1996-wip/96s-08.jpg)
 
 ... and point (with intent to embarrass) at the poor workshop organiser!
 
-![](img/ppig-1996-wip/96s-caves.jpg)
+![](/img/ppig-1996-wip/96s-caves.jpg)
 
 We finally made it to the caves ...
 
-![](img/ppig-1996-wip/96s-14.jpg)
+![](/img/ppig-1996-wip/96s-14.jpg)
 
 ... but those unfortunate enough to make it out again became victims of the mad snapper!
 
-![](img/ppig-1996-wip/96s-11.jpg)
+![](/img/ppig-1996-wip/96s-11.jpg)
 
-![](img/ppig-1996-wip/96s-12.jpg)
+![](/img/ppig-1996-wip/96s-12.jpg)
 
-![](img/ppig-1996-wip/96s-15.jpg)
+![](/img/ppig-1996-wip/96s-15.jpg)
 
-![](img/ppig-1996-wip/96s-13.jpg)
+![](/img/ppig-1996-wip/96s-13.jpg)
 
 
 A final word from the organiser...

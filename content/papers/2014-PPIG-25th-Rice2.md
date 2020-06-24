@@ -10,5 +10,5 @@ phases will incorporate reading and comprehension. In this paper we discuss an e
 looking at how years of programming experience might influence identifier formation."
 publishedAt: "ppig-2014"
 year: 2014
-url_pdf: "files/2014-PPIG-25th-Rice2.pdf"
+url_pdf: "/files/2014-PPIG-25th-Rice2.pdf"
 ---

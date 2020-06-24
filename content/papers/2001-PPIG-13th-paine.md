@@ -10,5 +10,5 @@ The existence of this collection of recordings provides a great deal of informat
 Field trials of the Coach with students are currently underway to evaluate both the usability and usefulness of the tool and this paper discusses the nature of the trials and emergent issues."
 publishedAt: "ppig-2001"
 year: 2001
-url_pdf: "files/2001-PPIG-13th-paine.pdf"
+url_pdf: "/files/2001-PPIG-13th-paine.pdf"
 ---

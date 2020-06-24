@@ -7,5 +7,5 @@ this experience is formed. We consider its impact on the adoption of such tools 
 engineering and suggest future lines of research."
 publishedAt: "ppig-2014"
 year: 2014
-url_pdf: "files/2014-PPIG-25th-Church.pdf"
+url_pdf: "/files/2014-PPIG-25th-Church.pdf"
 ---

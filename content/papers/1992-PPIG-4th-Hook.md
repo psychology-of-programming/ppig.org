@@ -6,5 +6,5 @@ abstract: "We argue for the need of a study on how experienced users make use of
 Three changes to the Byrd Box trace are suggested in order to enhance the understanding of unification and help experts to find unification bugs quicker. The first change, is to use some techniques from abstract interpretation to make recursive calls condensed into a few lines in the trace. The second idea, is to allow for conditional skipping, where the expert can ask to see a goal before or after a certain goal has unified or failed ( can also be seen in the TPM [Eisenstadt and Brayshaw 88]). The third idea, is to allow the expert to only see calls that affects a certain datastructure that is being built or decomposed. The last change to the tracer might possibly allow the expert to find some of her conceptual bugs as well."
 publishedAt: "ppig-1992"
 year: 1992
-url_pdf: "files/1992-PPIG-4th-Hook.pdf"
+url_pdf: "/files/1992-PPIG-4th-Hook.pdf"
 ---

@@ -7,5 +7,5 @@ understanding of the forms of identifier name created by software developers and
 techniques for analysing names that can also be applied to improve software engineering tools."
 publishedAt: "ppig-2015"
 year: 2015
-url_pdf: "files/2015-PPIG-26th-Butler.pdf"
+url_pdf: "/files/2015-PPIG-26th-Butler.pdf"
 ---

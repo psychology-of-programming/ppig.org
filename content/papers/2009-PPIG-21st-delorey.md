@@ -18,5 +18,5 @@ data storage schema for the Java programming language, and 3) presenting an init
 an example linguistic corpus based on version 1.5 of the Java Developers Kit."
 publishedAt: "ppig-2009"
 year: 2009
-url_pdf: "files/2009-PPIG-21st-delorey.pdf"
+url_pdf: "/files/2009-PPIG-21st-delorey.pdf"
 ---

@@ -15,5 +15,5 @@ interface of their systems. We relate our analysis to other studies in related d
 end-user programming, natural programming, and teaching."
 publishedAt: "ppig-2010"
 year: 2010
-url_pdf: "files/2010-PPIG-22nd-Letondal.pdf"
+url_pdf: "/files/2010-PPIG-22nd-Letondal.pdf"
 ---

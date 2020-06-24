@@ -6,5 +6,5 @@ abstract: "One of the main problems associated with empirical studies of program
 The research currently being carried out at the University of Limerick aims to address this difficult ecological-validity issue, specifically in the context of software comprehension studies. We intend to observe programmers performing their job in their working environment and to see the tasks they perform. Subsequently, we intend to identify the knowledge they bring to these tasks and how they use it. Our intention is to perform one-subject studies and to form partnerships with other researchers allowing them to replicate the studies with a high degree of confidence in different contexts. This will allow the community to assess the generality of the findings."
 publishedAt: "ppig-2003"
 year: 2003
-url_pdf: "files/2003-PPIG-15th-buckley.pdf"
+url_pdf: "/files/2003-PPIG-15th-buckley.pdf"
 ---

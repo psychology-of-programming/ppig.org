@@ -11,5 +11,5 @@ explain the desirability of minimising it. We survey some existing systems throu
 speculate how future systems could improve on them."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Basman1.pdf"
+url_pdf: "/files/2016-PPIG-27th-Basman1.pdf"
 ---

@@ -14,5 +14,5 @@ been inspired by Lanier's ideas, and consider how further work may contribute to
 things'."
 publishedAt: "ppig-2018"
 year: 2018
-url_pdf: "files/2018-PPIG-29th-lewis.pdf"
+url_pdf: "/files/2018-PPIG-29th-lewis.pdf"
 ---

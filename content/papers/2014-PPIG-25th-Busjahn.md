@@ -8,5 +8,5 @@ a quantitative approach to find those episodes in the eye movements that yield t
 analysis. Subsequently, qualitative methods can be used on this subset."
 publishedAt: "ppig-2014"
 year: 2014
-url_pdf: "files/2014-PPIG-25th-Busjahn.pdf"
+url_pdf: "/files/2014-PPIG-25th-Busjahn.pdf"
 ---

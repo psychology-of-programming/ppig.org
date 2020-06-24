@@ -14,5 +14,5 @@ via the Grounded Theory method and are described conceptually in terms of the ty
 of which they consist. All concepts used in these descriptions are grounded in actual observations."
 publishedAt: "ppig-2009"
 year: 2009
-url_pdf: "files/2009-PPIG-21st-prechelt.pdf"
+url_pdf: "/files/2009-PPIG-21st-prechelt.pdf"
 ---

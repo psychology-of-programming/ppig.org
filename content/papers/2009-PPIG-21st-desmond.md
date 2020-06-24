@@ -18,5 +18,5 @@ evaluate the effectiveness of the technique at reducing the level of disorientat
 programmers during source code exploration activities."
 publishedAt: "ppig-2009"
 year: 2009
-url_pdf: "files/2009-PPIG-21st-desmond.pdf"
+url_pdf: "/files/2009-PPIG-21st-desmond.pdf"
 ---

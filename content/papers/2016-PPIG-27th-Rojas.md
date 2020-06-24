@@ -12,5 +12,5 @@ and with more inclination to apply thorough testing. In this work-in-progress pa
 experiences with Code Defenders, as well as open challenges on the way to making testing education fun."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Rojas.pdf"
+url_pdf: "/files/2016-PPIG-27th-Rojas.pdf"
 ---

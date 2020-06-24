@@ -11,5 +11,5 @@ and they should get recognition through the presence and integration of these mo
 engineering process research."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Gren.pdf"
+url_pdf: "/files/2016-PPIG-27th-Gren.pdf"
 ---

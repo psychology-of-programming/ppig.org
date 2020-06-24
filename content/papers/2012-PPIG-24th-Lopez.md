@@ -10,5 +10,5 @@ emerged in analysis are discussed: thrashing, tolerating and compromising. Final
 implications for future research are given."
 publishedAt: "ppig-2012"
 year: 2012
-url_pdf: "files/2012-PPIG-24th-Lopez.pdf"
+url_pdf: "/files/2012-PPIG-24th-Lopez.pdf"
 ---

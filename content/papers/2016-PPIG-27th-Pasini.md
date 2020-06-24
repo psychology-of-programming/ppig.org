@@ -14,5 +14,5 @@ This finding supports the relevance of intervention programs promoting efficient
 and a positive emotional climate during learning of programming."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Pasini.pdf"
+url_pdf: "/files/2016-PPIG-27th-Pasini.pdf"
 ---

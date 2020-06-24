@@ -12,5 +12,5 @@ the algorithmic classification may be expanded. End-of-course results are not ye
 test subjects, so statistical associations have not yet been explored."
 publishedAt: "ppig-2012"
 year: 2012
-url_pdf: "files/2012-PPIG-24th-Bornat.pdf"
+url_pdf: "/files/2012-PPIG-24th-Bornat.pdf"
 ---

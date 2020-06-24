@@ -9,5 +9,5 @@ outcome: impact on the productivity of fellow programmers. The findings are now 
 experimental new framework for professional development."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Ollis.pdf"
+url_pdf: "/files/2016-PPIG-27th-Ollis.pdf"
 ---

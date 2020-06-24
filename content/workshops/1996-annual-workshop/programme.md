@@ -46,7 +46,7 @@ _Francoise Detienne, Jean-Marie Burkhardt & Susan Wiedenbeck_
 
 Evening activities:
 
-*   Surprise [official welcome](workshops/1996-annual-workshop/welcome-speech/) & reception in the Town Hall
+*   Surprise [official welcome](/workshops/1996-annual-workshop/welcome-speech/) & reception in the Town Hall
 *   Sight-seeing boat-trip on the 'Leie' and the 'Lieve'
 *   Dinner in the 'Patershol' in Restaurant 'Virus'
 

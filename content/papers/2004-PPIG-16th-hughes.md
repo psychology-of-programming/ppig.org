@@ -6,5 +6,5 @@ abstract: "For over 15 years visualization tools have attempted to present the c
 This paper proposes an evaluation method for determining programmers’ comprehension of concurrent systems. It is based on a review of current algorithm animation tools and on existing measures of comprehension. The resulting method proposes a framework within which creators of algorithm animation tools (and of other tools that support the understanding of concurrent systems) can evaluate their products."
 publishedAt: "ppig-2004"
 year: 2004
-url_pdf: "files/2004-PPIG-16th-hughes.pdf"
+url_pdf: "/files/2004-PPIG-16th-hughes.pdf"
 ---

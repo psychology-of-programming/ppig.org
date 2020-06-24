@@ -6,5 +6,5 @@ effects of the activation of background knowledge on the understanding of indire
 code compared to reading Java source code with local variables and qualified expressions."
 publishedAt: "ppig-2014"
 year: 2014
-url_pdf: "files/2014-PPIG-25th-Lohmeier.pdf"
+url_pdf: "/files/2014-PPIG-25th-Lohmeier.pdf"
 ---

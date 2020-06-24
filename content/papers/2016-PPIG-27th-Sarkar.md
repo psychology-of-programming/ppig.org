@@ -10,5 +10,5 @@ for scripting the tool be? How can time be represented? Each issue is considered
 previous work in live music coding, end-user programming, and the current SheetMusic implementation."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Sarkar.pdf"
+url_pdf: "/files/2016-PPIG-27th-Sarkar.pdf"
 ---

@@ -11,5 +11,5 @@ a means of illustrating the conflict that often exists between in-vivo empirical
 studies and the experimental paradigm."
 publishedAt: "ppig-2007"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Exton.pdf"
+url_pdf: "/files/2007-PPIG-19th-Exton.pdf"
 ---

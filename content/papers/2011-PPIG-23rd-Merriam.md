@@ -7,5 +7,5 @@ been studied with any rigour. Rather than a report of proven results, this is a 
 and contributions to potential, future investigation of the phenomena involved."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Merriam.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Merriam.pdf"
 ---

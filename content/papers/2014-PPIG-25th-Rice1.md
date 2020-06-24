@@ -13,5 +13,5 @@ differences have been identified by computational means, traditional critical an
 then be applied for further analysis."
 publishedAt: "ppig-2014"
 year: 2014
-url_pdf: "files/2014-PPIG-25th-Rice1.pdf"
+url_pdf: "/files/2014-PPIG-25th-Rice1.pdf"
 ---

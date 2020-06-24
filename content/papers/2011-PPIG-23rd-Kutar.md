@@ -12,5 +12,5 @@ the changes, together with a summary of changes made, and discuss the potential 
 adapting the questionnaire in this way."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Kutar.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Kutar.pdf"
 ---

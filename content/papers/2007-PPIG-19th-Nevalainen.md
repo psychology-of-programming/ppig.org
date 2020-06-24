@@ -21,5 +21,5 @@ viewing. The participants performing task D also benefited most from the tool, a
 least regarding programming knowledge."
 publishedAt: "ppig-2007"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Nevalainen.pdf"
+url_pdf: "/files/2007-PPIG-19th-Nevalainen.pdf"
 ---

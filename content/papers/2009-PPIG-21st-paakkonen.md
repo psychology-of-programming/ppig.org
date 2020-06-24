@@ -19,5 +19,5 @@ Implementation of these improvements is still underway, but the findings and sug
 insight into psychology of testing."
 publishedAt: "ppig-2009"
 year: 2009
-url_pdf: "files/2009-PPIG-21st-paakkonen.pdf"
+url_pdf: "/files/2009-PPIG-21st-paakkonen.pdf"
 ---

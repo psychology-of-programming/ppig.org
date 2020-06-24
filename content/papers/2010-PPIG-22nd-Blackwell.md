@@ -14,5 +14,5 @@ recommendations about the design of tools for end-user programmers, extrapolatin
 observation of one particular product."
 publishedAt: "ppig-2010"
 year: 2010
-url_pdf: "files/2010-PPIG-22nd-Blackwell.pdf"
+url_pdf: "/files/2010-PPIG-22nd-Blackwell.pdf"
 ---

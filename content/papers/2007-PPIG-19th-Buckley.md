@@ -13,5 +13,5 @@ ESCAPE meta-modeling principles. Finally, it suggests several areas where
 ESCAPE meta-modeling could be beneficially applied in software engineering."
 publishedAt: "ppig-2007"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Buckley.pdf"
+url_pdf: "/files/2007-PPIG-19th-Buckley.pdf"
 ---

@@ -14,4 +14,4 @@ The group, which at present numbers approximately 300 world-wide, includes cogni
 
 PPIG aims to provide a forum for the rapid dissemination of results, ideas, and language or paradigm tool development, circumventing the long time lag of conferences and journals.
 
-PPIG doesn't have membership as such, but the community gathers around our two [mailing lists](mailing-lists) - one for announcements and one for discussion, and our annual international [workshops](workshops) and other work-in-progress or topic-focused workshops as and when required.
+PPIG doesn't have membership as such, but the community gathers around our two [mailing lists](/mailing-lists) - one for announcements and one for discussion, and our annual international [workshops](/workshops) and other work-in-progress or topic-focused workshops as and when required.

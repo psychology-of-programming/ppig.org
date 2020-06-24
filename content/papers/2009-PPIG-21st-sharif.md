@@ -16,5 +16,5 @@ observations are made about the information these programmers seek, the likeliho
 receive responses and the number of responses they are likely to get."
 publishedAt: "ppig-2009"
 year: 2009
-url_pdf: "files/2009-PPIG-21st-sharif.pdf"
+url_pdf: "/files/2009-PPIG-21st-sharif.pdf"
 ---

@@ -13,5 +13,5 @@ discuss the collaborative view on Psychology of Programming (PoP), which extends
 of Software Engineering (PoSE) and we then outline the future directions of our research."
 publishedAt: "ppig-2009"
 year: 2009
-url_pdf: "files/2009-PPIG-21st-pietinen.pdf"
+url_pdf: "/files/2009-PPIG-21st-pietinen.pdf"
 ---

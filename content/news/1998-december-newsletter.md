@@ -323,4 +323,4 @@ Stan Rifkin, Board Member
 
 # PPIG '99 Workshop
 
-Conference website here: [workshops/1999-annual-workshop](workshops/1999-annual-workshop)
+Conference website here: [workshops/1999-annual-workshop](/workshops/1999-annual-workshop)

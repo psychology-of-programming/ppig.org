@@ -7,5 +7,5 @@ inferred world. It is unclear how this dialogue should be structured, especially
 of a potential solution: metamodels of machine cognition."
 publishedAt: "ppig-2015"
 year: 2015
-url_pdf: "files/2015-PPIG-26th-Sarkar2.pdf"
+url_pdf: "/files/2015-PPIG-26th-Sarkar2.pdf"
 ---

@@ -15,5 +15,5 @@ students claimed that they had broadened their repertoire of algorithmic ideas l
 efficient and elegant solutions."
 publishedAt: "ppig-2009"
 year: 2009
-url_pdf: "files/2009-PPIG-21st-muller.pdf"
+url_pdf: "/files/2009-PPIG-21st-muller.pdf"
 ---

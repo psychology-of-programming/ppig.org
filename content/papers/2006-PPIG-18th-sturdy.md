@@ -26,5 +26,5 @@ of abstraction than lines and characters, investigating first their design, and 
 moving on to empirical research to find their usefulness and effects."
 publishedAt: "ppig-2006"
 year: 2006
-url_pdf: "files/2006-PPIG-18th-sturdy.pdf"
+url_pdf: "/files/2006-PPIG-18th-sturdy.pdf"
 ---

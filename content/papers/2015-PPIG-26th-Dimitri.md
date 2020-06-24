@@ -13,5 +13,5 @@ with the increasing of programming experience, while this decreasing trend is no
 the case of an increasing musical experience."
 publishedAt: "ppig-2015"
 year: 2015
-url_pdf: "files/2015-PPIG-26th-Dimitri.pdf"
+url_pdf: "/files/2015-PPIG-26th-Dimitri.pdf"
 ---

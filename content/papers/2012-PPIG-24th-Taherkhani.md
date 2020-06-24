@@ -14,5 +14,5 @@ are detected correctly and the estimated accuracy of the classiffcation measured
 cross-validation technique is 97.3%."
 publishedAt: "ppig-2012"
 year: 2012
-url_pdf: "files/2012-PPIG-24th-Taherkhani.pdf"
+url_pdf: "/files/2012-PPIG-24th-Taherkhani.pdf"
 ---

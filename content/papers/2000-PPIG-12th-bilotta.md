@@ -9,5 +9,5 @@ In this paper, we analyse some of these problems. In particular:
 - some educational remarks."
 publishedAt: "ppig-2000"
 year: 2000
-url_pdf: "files/2000-PPIG-12th-bilotta.pdf"
+url_pdf: "/files/2000-PPIG-12th-bilotta.pdf"
 ---

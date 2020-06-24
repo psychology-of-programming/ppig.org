@@ -10,5 +10,5 @@ should be presented instead. Both models lay the foundation for indirect anaphor
 edit-time and that shorten source code in cases when comprehensibility is expected to be maintained."
 publishedAt: "ppig-2016"
 year: 2016
-url_pdf: "files/2016-PPIG-27th-Lohmeier.pdf"
+url_pdf: "/files/2016-PPIG-27th-Lohmeier.pdf"
 ---

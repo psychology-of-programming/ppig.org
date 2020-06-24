@@ -17,5 +17,5 @@ discover and communicate with other teams’ leaders in order to collaborate
 on widely distributed, time-critical projects."
 publishedAt: "ppig-2006"
 year: 2006
-url_pdf: "files/2006-PPIG-18th-scaffidi.pdf"
+url_pdf: "/files/2006-PPIG-18th-scaffidi.pdf"
 ---

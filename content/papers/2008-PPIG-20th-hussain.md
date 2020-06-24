@@ -17,5 +17,5 @@ agile development technique facilitates to be user-oriented and at the same time
 values of the development team."
 publishedAt: "ppig-2008"
 year: 2008
-url_pdf: "files/2008-PPIG-20th-hussain.pdf"
+url_pdf: "/files/2008-PPIG-20th-hussain.pdf"
 ---

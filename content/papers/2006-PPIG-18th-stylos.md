@@ -14,5 +14,5 @@ on whether or not to require constructor parameters, and present our current
 and planned work to study more API design choices."
 publishedAt: "ppig-2006"
 year: 2006
-url_pdf: "files/2006-PPIG-18th-stylos.pdf"
+url_pdf: "/files/2006-PPIG-18th-stylos.pdf"
 ---

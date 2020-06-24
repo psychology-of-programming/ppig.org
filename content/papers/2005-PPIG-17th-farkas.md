@@ -6,5 +6,5 @@ abstract: "In order to investigate reasons contributing to the decline in enroll
 The results indicated that after statistically significant decreases in positive attitudes toward computers through the first 3 measures (2/3 of the course), there was a statistically non-significant rise at the end of the course once the programming part of the course was completed. The conclusion is that initial enthusiasm for computers, which may come from familiarity with using computers for recreational activities, drops rapidly as the work of learning computing concepts and skills begins."
 publishedAt: "ppig-2005"
 year: 2005
-url_pdf: "files/2005-PPIG-17th-farkas.pdf"
+url_pdf: "/files/2005-PPIG-17th-farkas.pdf"
 ---

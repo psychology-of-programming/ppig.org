@@ -14,5 +14,5 @@ and to an alternative conceptual framework for computing, afforded by Empirical 
 can be directly related to a Jamesian philosophical stance."
 publishedAt: "ppig-2008"
 year: 2008
-url_pdf: "files/2008-PPIG-20th-beynon.pdf"
+url_pdf: "/files/2008-PPIG-20th-beynon.pdf"
 ---

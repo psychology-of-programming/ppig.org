@@ -16,5 +16,5 @@ trialed in at least one experiment, and we hope that by the time of the conferen
 will be able to describe the results."
 publishedAt: "ppig-2006"
 year: 2006
-url_pdf: "files/2006-PPIG-18th-dehnadi.pdf"
+url_pdf: "/files/2006-PPIG-18th-dehnadi.pdf"
 ---

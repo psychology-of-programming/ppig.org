@@ -8,5 +8,5 @@ that MTL can be plugged into current materials for teaching programming. Registe
 (RTL) combined with high level languages are used as bedrocks on which MTL is formalized."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Mselle.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Mselle.pdf"
 ---

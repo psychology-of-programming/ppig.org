@@ -12,5 +12,5 @@ from think aloud sessions that contrast the behaviour of preoperational and conc
 they attempt to reason about code."
 publishedAt: "ppig-2014"
 year: 2014
-url_pdf: "files/2014-PPIG-25th-Lister.pdf"
+url_pdf: "/files/2014-PPIG-25th-Lister.pdf"
 ---

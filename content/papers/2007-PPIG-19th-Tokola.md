@@ -18,5 +18,5 @@ and to spend appropriate effort in evaluating the need for and the quality of au
 systems instead of adopting them without reservations."
 publishedAt: "ppig-2007"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Tokola.pdf"
+url_pdf: "/files/2007-PPIG-19th-Tokola.pdf"
 ---

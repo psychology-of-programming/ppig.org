@@ -19,5 +19,5 @@ is to introduce and expand upon a vocabulary for discussing Source and
 Configuration Management tools in a Vygotskyian context."
 publishedAt: "ppig-2006"
 year: 2006
-url_pdf: "files/2006-PPIG-18th-delaney.pdf"
+url_pdf: "/files/2006-PPIG-18th-delaney.pdf"
 ---

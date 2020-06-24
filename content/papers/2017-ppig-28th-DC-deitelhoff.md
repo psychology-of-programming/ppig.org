@@ -5,5 +5,5 @@ abstract: "Simplex is a simplified language with a reduced set of keywords and a
 publishedAt: "ppig-2017"
 year: 2017
 publicationType: "Doctoral Consortium"
-url_pdf: "files/2017-PPIG-28th-DC-deitelhoff.pdf"
+url_pdf: "/files/2017-PPIG-28th-DC-deitelhoff.pdf"
 ---

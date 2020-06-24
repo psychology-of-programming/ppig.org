@@ -12,7 +12,7 @@ University of Nottingham, UK
 
 **Review by Eileen Doyle**
 
-The [first workshop for **Unroll Your Ideas**](workshops/2004-wip-workshop) took place in the University of Nottingham. The workshop comprised four sessions, during which fifteen research ideas were presented, covering areas such as extreme programming, empirical modelling and teaching and learning computer science.
+The [first workshop for **Unroll Your Ideas**](/workshops/2004-wip-workshop) took place in the University of Nottingham. The workshop comprised four sessions, during which fifteen research ideas were presented, covering areas such as extreme programming, empirical modelling and teaching and learning computer science.
 
 The workshop commenced with a keynote speech on teaching debugging by Eric Roberts. Eric supplied us with interesting references like Robert Pirsig's Zen and the art of motorcycle maintenance to emphasise the psychological and cognitive aspects of debugging.
 

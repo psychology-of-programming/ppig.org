@@ -8,5 +8,5 @@ Twenty six undergraduate second year Software Engineering students and ten postg
 The statistical results suggest that despite the formal representation increasing the awareness of the characteristics of a given specification problem, the notation appears to be detrimental in the consideration of good quality generic solutions. The different solution types that were used in the study are presented. A comparison to the data for the Z formalism is made and the implications for the choice of simple solutions are discussed."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Khazaei.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Khazaei.pdf"
 ---

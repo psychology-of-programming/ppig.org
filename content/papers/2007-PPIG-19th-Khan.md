@@ -13,5 +13,5 @@ mood dimension. These results seem to suggest that the programmer’s ability to
 find and correct errors in program code depends on their level of arousal."
 publishedAt: "ppig-2007"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Khan.pdf"
+url_pdf: "/files/2007-PPIG-19th-Khan.pdf"
 ---

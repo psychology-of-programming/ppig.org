@@ -11,5 +11,5 @@ rubric in teaching may very well confront students with unnoticed misconceptions
 eliminate these. Is this a reasonable assumption? How can we test it?"
 publishedAt: "ppig-2015"
 year: 2015
-url_pdf: "files/2015-PPIG-26th-Stegeman.pdf"
+url_pdf: "/files/2015-PPIG-26th-Stegeman.pdf"
 ---

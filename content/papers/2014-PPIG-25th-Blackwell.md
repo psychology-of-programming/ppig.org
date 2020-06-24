@@ -11,5 +11,5 @@ Throughout the project, data was collected to record the experiences of the arti
 self-efficacy questionnaires, reflective diaries, workshop evaluations, and focus group discussion."
 publishedAt: "ppig-2014"
 year: 2014
-url_pdf: "files/2014-PPIG-25th-Blackwell.pdf"
+url_pdf: "/files/2014-PPIG-25th-Blackwell.pdf"
 ---

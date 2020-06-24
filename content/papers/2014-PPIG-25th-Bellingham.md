@@ -16,5 +16,5 @@ instances, although there are some tools (such as error-checking and auto-comple
 ameliorate the main problems."
 publishedAt: "ppig-2014"
 year: 2014
-url_pdf: "files/2014-PPIG-25th-Bellingham.pdf"
+url_pdf: "/files/2014-PPIG-25th-Bellingham.pdf"
 ---

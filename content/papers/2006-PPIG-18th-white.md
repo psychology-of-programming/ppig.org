@@ -17,5 +17,5 @@ two terminologies has created a basis for building a development decision
 support tool."
 publishedAt: "ppig-2006"
 year: 2006
-url_pdf: "files/2006-PPIG-18th-white.pdf"
+url_pdf: "/files/2006-PPIG-18th-white.pdf"
 ---

@@ -9,5 +9,5 @@ conventional text syntax. This research investigates text syntax use as a specif
 competence, and evaluates the use of DrawBridge to scaffold text syntax acquisition."
 publishedAt: "ppig-2014"
 year: 2014
-url_pdf: "files/2014-PPIG-25th-Stead.pdf"
+url_pdf: "/files/2014-PPIG-25th-Stead.pdf"
 ---

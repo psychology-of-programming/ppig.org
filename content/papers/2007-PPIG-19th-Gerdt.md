@@ -10,5 +10,5 @@ program comprehension, and present an example implementation
 in the context of automatic analysis of roles of variables."
 publishedAt: "ppig-2007"
 year: 2007
-url_pdf: "files/2007-PPIG-19th-Gerdt.pdf"
+url_pdf: "/files/2007-PPIG-19th-Gerdt.pdf"
 ---

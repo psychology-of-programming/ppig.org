@@ -16,5 +16,5 @@ the effects of the role concept in strategic programming knowledge among expert 
 publicationType: "Doctoral Consortium"
 publishedAt: "ppig-2004"
 year: 2004
-url_pdf: "files/2004-PPIG-16th-DC-byckling.pdf"
+url_pdf: "/files/2004-PPIG-16th-DC-byckling.pdf"
 ---

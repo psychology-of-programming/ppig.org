@@ -300,7 +300,7 @@ It should be noted that these views are just an outline and many more exist that
 
 **2.2 Description**
 
-{{< figure src="img/2003-aug-newsletter-abstractions.jpg" caption="Figure 1: SV abstractions" class="tc">}}
+{{< figure src="/img/2003-aug-newsletter-abstractions.jpg" caption="Figure 1: SV abstractions" class="tc">}}
 
 From Figure 1, a software system (source code files shown on the left) can be examined at many levels of abstraction. For instance, the highest abstraction is the software architecture overview, next is the system in execution in realtime, further down the abstractions is the data flow view and control flow views.
 

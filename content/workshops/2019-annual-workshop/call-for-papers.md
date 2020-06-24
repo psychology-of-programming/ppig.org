@@ -20,7 +20,7 @@ As usual, we welcome the following categories of submissions:
 - System demonstrations and reflections: an abstract, video, or artwork outlining what you will present. Crashes are desirable. Up to 2.5 days long.
 - Doctoral consortium submissions: Up to 2 pages long.
 
-**Please use [our templates](author-resources/paper-templates) for papers. Submissions for the workshop should be uploaded to [EasyChair](https://easychair.org/conferences/?conf=ppig2019).**
+**Please use [our templates](/author-resources/paper-templates) for papers. Submissions for the workshop should be uploaded to [EasyChair](https://easychair.org/conferences/?conf=ppig2019).**
 
 ## Important dates:
 

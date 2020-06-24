@@ -17,5 +17,5 @@ implementations. By identifying the algorithm-specific code from the given progr
 detection method improves our previous method for automatic algorithm recognition."
 publishedAt: "ppig-2011"
 year: 2011
-url_pdf: "files/2011-PPIG-23rd-Taherkhani.pdf"
+url_pdf: "/files/2011-PPIG-23rd-Taherkhani.pdf"
 ---

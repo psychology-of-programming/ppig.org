@@ -8,5 +8,5 @@ different paradigms. We are interested in the communication between these practi
 refer to the same concepts when they use the same words? We designed an experiment to assess this."
 publishedAt: "ppig-2014"
 year: 2014
-url_pdf: "files/2014-PPIG-25th-Benvenuti.pdf"
+url_pdf: "/files/2014-PPIG-25th-Benvenuti.pdf"
 ---

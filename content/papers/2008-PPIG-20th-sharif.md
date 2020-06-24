@@ -15,5 +15,5 @@ rely somewhat on documentation, that many of their information seeking activitie
 orientated and that their information seeking goals change over time."
 publishedAt: "ppig-2008"
 year: 2008
-url_pdf: "files/2008-PPIG-20th-sharif.pdf"
+url_pdf: "/files/2008-PPIG-20th-sharif.pdf"
 ---
