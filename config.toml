@@ -1,7 +1,7 @@
 languageCode = "en-gb"
 title = "Psychology of Programming Interest Group"
 canonifyURLs = false
-relativeURLs = true
+relativeURLs = false
 
 ignoreFiles = [ "Icon?" ]
 
