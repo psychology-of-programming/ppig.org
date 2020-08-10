@@ -4,7 +4,7 @@ workshop: "ppig-2020"
 weight: 7
 ---
 
-## Icebreaker game: "Only Some"
+## Icebreaker game: "not no-one, not everyone"
 
 It's never all-or-none, quite the opposite! The goal of this game is to get to know each other by finding things we have in common.
 
