@@ -8,8 +8,6 @@ PPIG 2020 will take place as two one-week-long virtual events in August (17th to
 
 Below is the programme for the Summer session. We’ll be meeting each day starting at 4pm UK / 11am Eastern / 8am Pacific for about 2 hours of scheduled content, followed by up to one extra hour of social activities. There will be about 5-10 minute breaks between each hour of scheduled content. You can find here a [Google Calendar](https://calendar.google.com/calendar/embed?src=v3ls355gbssl9kfsdm8dc9h4ok%40group.calendar.google.com&ctz=Europe%2FLondon) you can subscribe to.
 
-Authors are encouraged to be timely with their paper presentations, aiming for more time for discussion. Our presentation slots are about 20 mins, for which we recommend a ~12 min presentation and 5-8 minutes of discussion with the audience.
-
 It's free to attend, and you will need to register via [Eventbrite]( https://www.eventbrite.com/e/ppig-2020-tickets-112513984356) so we can share the virtual meeting links and invite you to the Discord channel we’ll be using for keeping in touch throughout the event.
 
 
