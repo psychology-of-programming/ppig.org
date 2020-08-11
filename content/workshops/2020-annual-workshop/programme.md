@@ -51,7 +51,7 @@ td em {
 |               | **Parallel Program Comprehension** <br> Eric Aubanel |
 |               | **What the Mouse Said: How mouse movements can relate to student stress and success** <br> Natalie Culligan and Kevin Casey |
 |               | **Designing an Open Visual Workflow Environment** <br> Charles Boisvert, Chris Roast and Elizabeth Uruchurtu |
-| 17:00 - 18:00 | **Postcards** |
+| 17:00 - 18:00 | **Roundtable: Reflections on Programming Otherwise** |
 | 18:00 - 19:00 | **Musical Soirée** (or **Matinée**, depending on your location!) |
 
 
