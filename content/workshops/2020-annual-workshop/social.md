@@ -17,6 +17,17 @@ weight: 7
 Feel free to think about this in advance, or if you're feeling brave, come up with one on the spot!
 
 
+## Telephone game
+
+**What**: A multimedia asynchonous game run from a spreadsheet!
+
+**When**: Asynchronously throughout the conference
+
+**Where**: In a spreadsheet, specifics will be provided after registration.
+
+**How**: This is a virtual, asynchronous and multimedia version of the telephone game. In this game, a player contributes a sentence, a second player tries to find an image that best describes that sentence, a third player finds a video that describes the image, and a final fourth player writes a short sentence describing the video. You can start your own thread as the author of an original sentence, or participate in someone else's thread. When play has ended, the umpires will reveal the original sentences and compare them to the final ones.
+
+
 ## StreetView Tour
 
 **What**: An online tour of parts of Toronto, and/or other places, led by Colin Clark and Philip Tchernavskij
