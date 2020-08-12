@@ -16,7 +16,7 @@ Mariana, Clayton, Philip, Ben, Luke and Colin
 
 # Programme
 
-(timings are given in BST)
+(timings are given in British Summer Time, which is UTC+1 at the moment)
 
 <style>
 .workshop-content table th:first-of-type {
@@ -33,7 +33,7 @@ td em {
 | ------------- | ----------------- |
 | 16:00 - 16:30 | **Welcome to PPIG!** |
 | 16:30 - 18:00 | **Icebreaker & getting to know each other** |
-|               | It's not all-or-none... See the [games/icebreaker](../games#icebreaker-game-not-no-one-not-everyone) page for instructions |
+|               | It's not all-or-none... See the [social & games](../social#icebreaker-game-not-no-one-not-everyone) page for instructions |
 
 
 ## Tuesday, 18 August
