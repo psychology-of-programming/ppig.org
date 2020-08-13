@@ -60,7 +60,7 @@ td em {
 | ------------- | --------- |
 | 16:00 - 17:00 | Paper presentations |
 |               | **Assessing Preferences for Software Development Role Using the MBTI** <br> Daniel Varona and Luiz Fernando Capretz |
-|               | **On personality tesing and software engineering** <br> Clayton Lewis |
+|               | **On personality testing and software engineering** <br> Clayton Lewis |
 | 17:00 - 18:00 | Panel discussion: |
 |               | **Friendly editors** |
 | 18:00 - 19:00 | **Conference reception** - make and bring your own dish! |
