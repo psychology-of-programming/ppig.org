@@ -1,7 +1,7 @@
 ---
-title: "Programme"
+title: "Programme - Summer edition"
 workshop: "ppig-2020"
-weight: 5
+weight: 6
 ---
 
 PPIG 2020 will take place as two one-week-long virtual events in August (17th to 21st) and November (16th to 20th). During each of the two weeks, we'll meet for two to three hours a day for presentations, discussions, panels and social activities.
