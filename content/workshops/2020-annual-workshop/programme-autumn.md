@@ -4,6 +4,19 @@ workshop: "ppig-2020"
 weight: 5
 ---
 
+*Update:*
+
+**Registration is now open for the** ~~16-20 November session~~ **30 November - 4 December session!**
+
+You can register for free via [Eventbrite](https://www.eventbrite.com/e/ppig-2020-tickets-125206129905) so we can share the virtual meeting links and invite you to the Discord channel we’ll be using for keeping in touch throughout the event.
+
+
+*Update 2:*
+
+By a series of unfortunate coincidences our initial dates for the autumn session overlap with a lot of things, including SPLASH and some other workshops. The new dates are **30 November - 4 December** - we hope you can make it!
+
+---
+
 Thanks to all who attended and made PPIG 2020 Summer edition such a success!
 
 The autumn session which will take place 16th to 20th November, and we’ll be continuing with the threads started in August. If you have any thoughts inspired by the discussions so far, any reflections or early ideas that you’d like to explore and discuss further in November, we’re still accepting submissions.
