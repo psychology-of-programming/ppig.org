@@ -35,37 +35,38 @@ td em {
 
 |               |                   |
 | ------------- | ----------------- |
-| 16:00 - 16:20 | **Welcome to PPIG!** |
-| 16:20 - 17:20 | Paper presentations: CSEd |
+| 16:00 - 16:30 | **Welcome to PPIG!** |
+| 16:30 - 17:30 | Paper presentations: CSEd |
 |               | **An Analysis of Student Preferences for Inverted vs Traditional Lecture** <br> Brian Harrington, Mohamed Moustafa, Jingyiran Li, Marzieh Ahmadzadeh and Nick Cheng |
 |               | **Exploring the Coding Behavior of Successful Students in Programming by Employing Neo-Piagetian Theory** <br> Natalie Culligan and Kevin Casey |
 |               | **Developing Testing-First Labs For a Less Intimidating Introductory CS Experience** <br> Brian Harrington and Angela Zavaleta Bernuy |
-| 17:20 - 18:00 | Paper presentations: Broader Horizons |
-|               | **Integrating a Live Programming Role into Games** <br> Steve Tanimoto and Krish Jain |
-|               | **Update on the Boxer Reconstruction Project** <br> Steven Githens
-| 18:00 - 19:00 | **Virtual Guided Tour** |
+| 17:30 - 18:30 | **Virtual Guided Tour** |
 |
 
 
 ## Wednesday, 2nd December
+
 |               |           |
 | ------------- | --------- |
-| 16:00 - 17:00 | Doctoral Consortium presentations |
+| 16:00 - 16:40 | Doctoral Consortium presentations |
 |               | **Programming "systems" deserve a theory too** <br> Joel Jakubovic |
 |               | **A principled approach to the development of drum improvisation skills through interaction with a conversational agent** <br> Noam Lederman |
+| 16:40 - 17:00 | **Update on the Boxer Reconstruction Project** <br> Steven Githens
 | 17:00 - 18:00 | Panel discussion |
 | 18:00 - 19:00 | **Musical Soirée** (or **Matinée**, depending on your location!) |
 |
 
 
 ## Thursday, 3rd December
+
 |               |           |
 | ------------- | --------- |
 | 16:00 - 17:00 | Paper presentations: Software Engineering |
 |               | **Cognition, Distributed Cognition and Knowledge Management in Software Engineering Research-An Exploratory Literature Review** <br> Marjahan Begum |
 |               | **Understanding the Problem of API Usability and Correctness Misalignment** <br> Tao Dong |
+|               | **Integrating a Live Programming Role into Games** <br> Steve Tanimoto and Krish Jain |
+| 17:00 - 18:00 | Board game play session |
 |               | **Undecided? - A board game to study intertemporal choices in software project management** <br> Christoph Becker, Tara Tsang, Rachel Booth, Enning Zhang and Fabian Fagerholm |
-| 17:00 - 18:00 | Undecided? - board game play session |
 | 18:00 - onwards | (optional: continued game play) |
 
 
@@ -74,6 +75,6 @@ td em {
 |               |           |
 | ------------- | --------- |
 | 16:00 - 16:40 | Paper discussion |
-|               | **Undecided? - Discussion on studying intertemporal choices using a board game** <br> Christoph Becker, Tara Tsang, Rachel Booth, Enning Zhang and Fabian Fagerholm |
+|               | **Undecided? - A board game to study intertemporal choices in software project management** <br> Christoph Becker, Tara Tsang, Rachel Booth, Enning Zhang and Fabian Fagerholm |
 | 16:40 - 17:40 | Panel discussion: **On computing and communities** |
 | 17:40 - 18:00 | PPIG Prizes & Close |
