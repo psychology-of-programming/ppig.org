@@ -11,28 +11,69 @@ weight: 5
 You can register for free via [Eventbrite](https://www.eventbrite.com/e/ppig-2020-tickets-125206129905) so we can share the virtual meeting links and invite you to the Discord channel we’ll be using for keeping in touch throughout the event.
 
 
-*Update 2:*
+# Programme
 
-By a series of unfortunate coincidences our initial dates for the autumn session overlap with a lot of things, including SPLASH and some other workshops. The new dates are **30 November - 4 December** - we hope you can make it!
+(timings are given in GMT / UTC)
 
----
+<style>
+.workshop-content table th:first-of-type {
+  min-width: 100px;
+}
+td em {
+  padding-left: 6px;
+}
+</style>
 
-Thanks to all who attended and made PPIG 2020 Summer edition such a success!
+## Monday, 30th November
 
-The autumn session which will take place 16th to 20th November, and we’ll be continuing with the threads started in August. If you have any thoughts inspired by the discussions so far, any reflections or early ideas that you’d like to explore and discuss further in November, we’re still accepting submissions.
+|               |                   |
+| ------------- | ----------------- |
+| 16:00 - 18:00 | **Hold for Doctoral Consortium private session** |
+|
 
-Your contributions can be in the form of papers (full or work in progress), short doctoral consortium submissions, postcards, artwork, system demonstration, or any form you think would best suit.
+## Tuesday, 1st December
 
-The timeline for submissions is **1st of October** for just the title and abstract of your contribution, and **8th of October** for the full submission. The [unified EasyChair instance for PPIG 2020](https://easychair.org/conferences/?conf=ppig2020) is open for the Autumn edition as well, and please aim to use our [paper templates](https://ppig.org/author-resources/paper-templates/). For postcards, please use the following address:
+|               |                   |
+| ------------- | ----------------- |
+| 16:00 - 16:20 | **Welcome to PPIG!** |
+| 16:20 - 17:20 | Paper presentations: CSEd |
+|               | **An Analysis of Student Preferences for Inverted vs Traditional Lecture** <br> Brian Harrington, Mohamed Moustafa, Jingyiran Li, Marzieh Ahmadzadeh and Nick Cheng |
+|               | **Exploring the Coding Behavior of Successful Students in Programming by Employing Neo-Piagetian Theory** <br> Natalie Culligan and Kevin Casey |
+|               | **Developing Testing-First Labs For a Less Intimidating Introductory CS Experience** <br> Brian Harrington and Angela Zavaleta Bernuy |
+| 17:20 - 18:00 | Paper presentations: Broader Horizons |
+|               | **Integrating a Live Programming Role into Games** <br> Steve Tanimoto and Krish Jain |
+|               | **Update on the Boxer Reconstruction Project** <br> Steven Githens
+| 18:00 - 19:00 | **Virtual Guided Tour** |
+|
 
-Luke Church \
-Department of Computer Science and Technology, University of Cambridge \
-15 JJ Thomson Avenue \
-Cambridge \
-CB3 0FD \
-UK
 
-More information will be shared here as we're getting closer to the event.
+## Wednesday, 2nd December
+|               |           |
+| ------------- | --------- |
+| 16:00 - 17:00 | Doctoral Consortium presentations |
+|               | **Programming "systems" deserve a theory too** <br> Joel Jakubovic |
+|               | **A principled approach to the development of drum improvisation skills through interaction with a conversational agent** <br> Noam Lederman |
+| 17:00 - 18:00 | Panel discussion |
+| 18:00 - 19:00 | **Musical Soirée** (or **Matinée**, depending on your location!) |
+|
 
-Looking forwards to seeing you (again) soon! \
-Mariana, Colin, Philip, Ben, Clayton, Luke
+
+## Thursday, 3rd December
+|               |           |
+| ------------- | --------- |
+| 16:00 - 17:00 | Paper presentations: Software Engineering |
+|               | **Cognition, Distributed Cognition and Knowledge Management in Software Engineering Research-An Exploratory Literature Review** <br> Marjahan Begum |
+|               | **Understanding the Problem of API Usability and Correctness Misalignment** <br> Tao Dong |
+|               | **Undecided? - A board game to study intertemporal choices in software project management** <br> Christoph Becker, Tara Tsang, Rachel Booth, Enning Zhang and Fabian Fagerholm |
+| 17:00 - 18:00 | Undecided? - board game play session |
+| 18:00 - onwards | (optional: continued game play) |
+
+
+## Friday, 4th December
+
+|               |           |
+| ------------- | --------- |
+| 16:00 - 16:40 | Paper discussion |
+|               | **Undecided? - Discussion on studying intertemporal choices using a board game** <br> Christoph Becker, Tara Tsang, Rachel Booth, Enning Zhang and Fabian Fagerholm |
+| 16:40 - 17:40 | Panel discussion: **On computing and communities** |
+| 17:40 - 18:00 | PPIG Prizes & Close |
