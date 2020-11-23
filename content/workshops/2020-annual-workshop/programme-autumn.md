@@ -40,7 +40,9 @@ td em {
 |               | **An Analysis of Student Preferences for Inverted vs Traditional Lecture** <br> Brian Harrington, Mohamed Moustafa, Jingyiran Li, Marzieh Ahmadzadeh and Nick Cheng |
 |               | **Exploring the Coding Behavior of Successful Students in Programming by Employing Neo-Piagetian Theory** <br> Natalie Culligan and Kevin Casey |
 |               | **Developing Testing-First Labs For a Less Intimidating Introductory CS Experience** <br> Brian Harrington and Angela Zavaleta Bernuy |
-| 17:30 - 18:30 | **Virtual Guided Tour** |
+| 17:30 - 17:50 | Doctoral Consortium presentation |
+|               | **A principled approach to the development of drum improvisation skills through interaction with a conversational agent** <br> Noam Lederman |
+| 18:00 - 19:00 | **Virtual Guided Tour** |
 |
 
 
@@ -48,11 +50,10 @@ td em {
 
 |               |           |
 | ------------- | --------- |
-| 16:00 - 16:40 | Doctoral Consortium presentations |
+| 16:00 - 16:20 | Doctoral Consortium presentation |
 |               | **Programming "systems" deserve a theory too** <br> Joel Jakubovic |
-|               | **A principled approach to the development of drum improvisation skills through interaction with a conversational agent** <br> Noam Lederman |
-| 16:40 - 17:00 | **Update on the Boxer Reconstruction Project** <br> Steven Githens
-| 17:00 - 18:00 | Panel discussion |
+| 16:20 - 16:40 | **Update on the Boxer Reconstruction Project** <br> Steven Githens
+| 16:40 - 18:00 | Panel discussion: **Digressions on expression** |
 | 18:00 - 19:00 | **Musical Soirée** (or **Matinée**, depending on your location!) |
 |
 
