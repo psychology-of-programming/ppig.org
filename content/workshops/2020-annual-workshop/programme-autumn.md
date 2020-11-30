@@ -1,7 +1,7 @@
 ---
 title: "Programme - Autumn edition"
 workshop: "ppig-2020"
-weight: 5
+weight: 2
 ---
 
 *Update:*
@@ -54,19 +54,17 @@ td em {
 |               | **Programming "systems" deserve a theory too** <br> Joel Jakubovic |
 | 16:20 - 16:40 | **Update on the Boxer Reconstruction Project** <br> Steven Githens
 | 16:40 - 18:00 | Panel discussion: **Digressions on expression** |
-| 18:00 - 19:00 | **Musical Soirée** (or **Matinée**, depending on your location!) |
-|
+| 18:00 - 19:00 | **Musical Soirée** (or **Matinée**, depending on your location!) <br> See [this page for more info](../social-autumn#ppig-music-session-wednesday-december-2-6pm-utc--1pm-eastern--10am-pacific)|
 
 
 ## Thursday, 3rd December
 
 |               |           |
 | ------------- | --------- |
-| 16:00 - 17:00 | Paper presentations: Software Engineering |
-|               | **Cognition, Distributed Cognition and Knowledge Management in Software Engineering Research-An Exploratory Literature Review** <br> Marjahan Begum |
+| 16:00 - 16:40 | Paper presentations: Software Engineering |
 |               | **Understanding the Problem of API Usability and Correctness Misalignment** <br> Tao Dong |
 |               | **Integrating a Live Programming Role into Games** <br> Steve Tanimoto and Krish Jain |
-| 17:00 - 18:00 | Board game play session |
+| 16:40 - 18:00 | Board game play session |
 |               | **Undecided? - A board game to study intertemporal choices in software project management** <br> Christoph Becker, Tara Tsang, Rachel Booth, Enning Zhang and Fabian Fagerholm |
 | 18:00 - onwards | (optional: continued game play) |
 
