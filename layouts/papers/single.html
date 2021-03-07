@@ -29,8 +29,10 @@
         </div>
 
         <div class="paper-info__abstract">
+          {{ with .Params.abstract }}
           <span class="paper-info__abstract-keyword">Abstract:</span>
-          <span class="paper-info__abstract-content">{{ .Params.abstract | safeHTML }}</span>
+          <span class="paper-info__abstract-content">{{ . | safeHTML }}</span>
+          {{ end }}
         </div>
 
         <div class="paper-info__links">

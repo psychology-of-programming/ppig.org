@@ -10,6 +10,7 @@
 
 .paper-info-page-title__paper-title {
   font-size: 24px;
+  text-align: left;
 }
 
 .paper-info__authors {
@@ -34,8 +35,13 @@
   padding-bottom: 16px;
 }
 
+.paper-library__paper-list {
+  padding-left: 0;
+}
+
 .paper-library__paper-title {
   font-size: 16px;
+  text-align: left;
 }
 
 .paper-library__paper-authors,

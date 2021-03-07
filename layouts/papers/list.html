@@ -34,7 +34,8 @@
             {{ $firstAuthorNames := split $firstAuthor " " }}
             {{ $firstAuthorLastNameIndex := sub (len $firstAuthorNames) 1}}
             {{ $firstAuthorLastName := index $firstAuthorNames $firstAuthorLastNameIndex }}
-            {{ $scratch.SetInMap "authorToPage" $firstAuthorLastName . }}
+            {{ $sortKey := printf "%02d %s %s $s" .Params.paper_number $firstAuthorLastName (delimit (first (sub (len $firstAuthorNames) 1) $firstAuthorNames) ' ') (delimit (last (sub (len .Params.authors) 1) .Params.authors) ' ') }}
+            {{ $scratch.SetInMap "authorToPage" $sortKey . }}
           {{ end }}
 
           {{ $sortedPages := $scratch.GetSortedMapValues "authorToPage" }}
