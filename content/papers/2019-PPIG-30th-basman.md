@@ -5,5 +5,5 @@ abstract: "Spreadsheets liberated individual end users to own their own data and
 publishedAt: "ppig-2019"
 year: 2019
 url_pdf: "/files/2019-PPIG-30th-basman.pdf"
-paper_number: 10
+paper_number: 9
 ---

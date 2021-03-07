@@ -5,5 +5,5 @@ abstract: "The availability, affordability, and portability of Eurorack format m
 publishedAt: "ppig-2019"
 year: 2019
 url_pdf: "/files/2019-PPIG-30th-noble.pdf"
-paper_number: 16
+paper_number: 15
 ---

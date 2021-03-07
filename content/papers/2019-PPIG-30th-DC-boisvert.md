@@ -5,6 +5,6 @@ abstract: "This submission presents our work on Open Piping1, a visual workflow 
 publishedAt: "ppig-2019"
 year: 2019
 url_pdf: "/files/2019-PPIG-30th-DC-boisvert.pdf"
-paper_number: 12
+paper_number: 11
 paperType: "Doctoral Consortium"
 ---

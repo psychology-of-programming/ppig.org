@@ -5,5 +5,5 @@ abstract: "We investigate the design of smart systems that drive the exploration
 publishedAt: "ppig-2019"
 year: 2019
 url_pdf: "/files/2019-PPIG-30th-bowman.pdf"
-paper_number: 14
+paper_number: 13
 ---

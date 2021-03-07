@@ -5,6 +5,6 @@ abstract: "Parallel programmers are frequently tasked with modifying, enhancing,
 publishedAt: "ppig-2019"
 year: 2019
 url_pdf: "/files/2019-PPIG-30th-DC-bidlake.pdf"
-paper_number: 13
+paper_number: 12
 paperType: "Doctoral Consortium"
 ---
