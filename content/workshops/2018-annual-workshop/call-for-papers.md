@@ -1,7 +1,7 @@
 ---
 title: "Call for papers"
 workshop: "ppig-2018"
-weight: 0
+weight: 10
 ---
 
 PPIG has always been founded on a dualism: we take as much interest in the psychology of the act of programming as in the computational aspects of psychology.

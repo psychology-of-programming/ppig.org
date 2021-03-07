@@ -1,7 +1,7 @@
 ---
 title: "Programme"
 workshop: "ppig-2018"
-weight: 1
+weight: 5
 ---
 
 <style>
