@@ -52,8 +52,7 @@ td em {
 | ------------- | --------- |
 | 16:00 - 16:20 | Doctoral Consortium presentation |
 |               | **Programming "systems" deserve a theory too** <br> Joel Jakubovic |
-| 16:20 - 16:40 | **Update on the Boxer Reconstruction Project** <br> Steven Githens
-| 16:40 - 18:00 | Panel discussion: **Digressions on expression** |
+| 16:20 - 18:00 | Panel discussion: **Digressions on expression** |
 | 18:00 - 19:00 | **Musical Soirée** (or **Matinée**, depending on your location!) <br> See [this page for more info](../social-autumn#ppig-music-session-wednesday-december-2-6pm-utc--1pm-eastern--10am-pacific)|
 
 
@@ -62,7 +61,7 @@ td em {
 |               |           |
 | ------------- | --------- |
 | 16:00 - 16:40 | Paper presentations: Software Engineering |
-|               | **Understanding the Problem of API Usability and Correctness Misalignment** <br> Tao Dong |
+|               | **Understanding the Problem of API Usability and Correctness Misalignment** <br> Tao Dong and Elizabeth Churchill |
 |               | **Integrating a Live Programming Role into Games** <br> Steve Tanimoto and Krish Jain |
 | 16:40 - 18:00 | Board game play session |
 |               | **Undecided? - A board game to study intertemporal choices in software project management** <br> Christoph Becker, Tara Tsang, Rachel Booth, Enning Zhang and Fabian Fagerholm |
