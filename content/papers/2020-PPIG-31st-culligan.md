@@ -1,0 +1,9 @@
+---
+title: "What the Mouse Said: How Mouse Movements Can Relate to Student Stress and Success"
+authors: [Natalie Culligan, Kevin Casey]
+abstract: "Stress in students may be a useful indication for when a student is struggling and in need of academic intervention. Investigating differences in student behaviour in stressful and comparatively less stressful environments could be helpful in understanding the processes involved in learning to code, and combatting the high levels of drop-out and failure in undergraduate computer science. In this paper we will discuss the mouse movement data gathered from Maynooth University Learning Environment (MULE), our in-house, browser-based pedagogical environment for novice programmers, during the time period February to May of 2019. This included 5 supervised, scheduled lab sessions and two inlab examinations. The data was used to examine 21 different measurements of student behaviour, for example, by measuring efficiency of the mouse path, or the time between mouse click-down and mouse click-up. These features were used to build a Deep Neural Net that classifies sequences of mouse movements as being either from a more stressful environment or a less stressful one by training the classifier on data from examination situations and regular weekly lab situations, with the goal of comparing how students behave in environments with different levels of student comfort. The classifiers had an average accuracy of 61.9% but was more successful with students who performed poorly in their lab examinations. To further examine this connection between mouse movement, stress and student outcome, a second classifier was built to classify students as being in the high or low 50% of lab-exam grades in the module, with an accuracy of 69%."
+publishedAt: "ppig-2020"
+year: 2020
+url_pdf: "/files/2020-PPIG-31st-culligan.pdf"
+paper_number: 2
+---
