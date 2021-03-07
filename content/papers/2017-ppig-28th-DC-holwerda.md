@@ -6,6 +6,6 @@ abstract: "Block-based languages should no longer be regarded solely as a steppi
 We intend to research the design-space for block-based language interfaces with these new users and usages in mind, focussing on web designers. An initial user-study, exposing design students to a block-based version of a programming language they already know, kicks off this research."
 publishedAt: "ppig-2017"
 year: 2017
-publicationType: "Doctoral Consortium"
+paperType: "Doctoral Consortium"
 url_pdf: "/files/2017-PPIG-28th-DC-holwerda.pdf"
 ---

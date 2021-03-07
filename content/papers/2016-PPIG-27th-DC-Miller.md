@@ -9,7 +9,7 @@ Human-Computer Interaction (Newell & Card, 1985). In summary there are three com
 need to work on good applied problems, using empirical studies to provide the basis for theories to
 aid programming language designers."
 publishedAt: "ppig-2016"
-publicationType: "Doctoral Consortium"
+paperType: "Doctoral Consortium"
 year: 2016
 url_pdf: "/files/2016-PPIG-27th-DC-Miller.pdf"
 ---

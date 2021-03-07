@@ -13,7 +13,7 @@ effects of the role concept in the emergence of strategic programming knowledge,
 in questions like \"how does the role concept effect in the progression of programming methods and
 comprehension strategies in programming at the novice level\". Another research question is to study
 the effects of the role concept in strategic programming knowledge among expert programmers."
-publicationType: "Doctoral Consortium"
+paperType: "Doctoral Consortium"
 publishedAt: "ppig-2004"
 year: 2004
 url_pdf: "/files/2004-PPIG-16th-DC-byckling.pdf"

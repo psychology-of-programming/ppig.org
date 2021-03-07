@@ -3,7 +3,7 @@ title: "Programming skills, visual layout design, and unjustifiably useful testi
 authors: [Steve Draper]
 abstract: ""
 publishedAt: "ppig-1996"
-publicationType: "Keynote"
+paperType: "Keynote"
 year: 1996
 url_pdf: ""
 paper_no: 17

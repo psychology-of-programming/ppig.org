@@ -3,7 +3,7 @@ title: "Programming for the rest of us: Lessons learned from programmers who do 
 authors: [Alexander Repenning]
 abstract: ""
 publishedAt: "ppig-1998"
-publicationType: "Keynote"
+paperType: "Keynote"
 year: 1998
 url_pdf: ""
 paper_no: 11

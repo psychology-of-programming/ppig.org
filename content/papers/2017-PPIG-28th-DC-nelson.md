@@ -9,7 +9,7 @@ However, modern development environments largely focus on the “writing code”
 To support all aspects of problem solving in programming, we propose a new Integrated Development
 Environment (IDE) which uses a dynamic, expressive, and human-centric cards and canvas paradigm."
 publishedAt: "ppig-2017"
-publicationType: "Doctoral Consortium"
+paperType: "Doctoral Consortium"
 year: 2017
 url_pdf: "/files/2017-PPIG-28th-DC-nelson.pdf"
 ---
