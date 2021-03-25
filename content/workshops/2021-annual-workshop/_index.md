@@ -5,8 +5,8 @@ startdate: "2021-06-21"
 location: "online"
 workshop: "ppig-2021"
 
-# menuTitle: "Next workshop"
-# menu:
-#   main:
-#     weight: 25
+menuTitle: "Next workshop"
+menu:
+  main:
+    weight: 25
 ---

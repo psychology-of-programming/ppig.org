@@ -11,3 +11,7 @@ The Psychology of Programming Interest Group (PPIG) was established in 1987 in o
 On this website you can find information about the community, past workshops and an archive of previous news and other content.
 
 (Please note that a website redesign is in progress - more content will be added soon, and if you find something that doesn't work properly, please [let us know](/contact)!)
+
+<br>
+
+Our next meeting is scheduled for 21-25 June 2021, and will be happening online. For more information, please check [the workshop page](/workshops/2021-annual-workshop).
