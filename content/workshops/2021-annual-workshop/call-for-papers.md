@@ -42,17 +42,22 @@ Note: We are also reintroducing the category of short Work-In-Progress papers. T
 
 ## Important dates:
 
-**Full papers and Work-in-Progress papers**:
+*Full papers and Work-in-Progress papers:*
 * Abstract: as soon as possible, please
 * Paper submission deadline: ~~May 17~~ **May 31, 2021**
 
-**Doctoral Consortium** and **demos**:
+*Doctoral Consortium* and *demos:*
 * Abstract submission deadline: ~~May 10~~ **May 31, 2021**
 
-Authors will be notified: asap, at latest June 14, 2021
+*Authors will be notified:* asap, at latest June 14, 2021
 
-**Conference**: **21-25 June, 2021**
+*Conference*: **21-25 June, 2021**
 
+*Post-proceedings:*
+* PPIG uses a post-proceedings process, so that authors can incorporate the conference discussion into their final paper.
+* Camera-ready submission deadline will be announced at the conference, and has usually been ~1 month after the last day of the conference.
+
+<br>
 
 The conference will be virtually co-hosted by the Universities of York, UK, and Boulder, Colorado, USA.
 
