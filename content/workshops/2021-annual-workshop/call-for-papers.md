@@ -29,27 +29,29 @@ PPIG was established in 1987 in order to bring together people from diverse comm
 - Music(al) programming
 - Liveness and interactivity in programming
 
-
 We welcome the following categories of submissions:
 
 - Papers: No explicit limit - as long as the reader’s interest is maintained, usually < 10 pages
+- Short Work-In-Progress papers: about 4 pages, but use more if needed
 - Doctoral consortium submissions: about 2 pages, but use more if needed
 - Reflections, artworks, and system demonstrations, typically 1 page abstract
+
+Note: We are also reintroducing the category of short Work-In-Progress papers. These are opportunities to present emerging ideas and receive constructive discussion. Please use the EasyChair submission route for standard papers, but include \[WIP\] at the end of your title.
 
 **Please use [our templates](/author-resources/paper-templates) for papers. Submissions for the workshop should be uploaded to [EasyChair](https://easychair.org/conferences/?conf=ppig2021).**
 
 ## Important dates:
 
-**Full papers**:
+**Full papers and Work-in-Progress papers**:
 * Abstract: as soon as possible, please
-* Paper submission deadline: May 17, 2021
+* Paper submission deadline: ~~May 17~~ **May 31, 2021**
 
 **Doctoral Consortium** and **demos**:
-* Abstract submission deadline: May 10, 2021
+* Abstract submission deadline: ~~May 10~~ **May 31, 2021**
 
-Authors will be notified: June 3, 2021
+Authors will be notified: asap, at latest June 14, 2021
 
-**Conference**: 21-25 June, 2021
+**Conference**: **21-25 June, 2021**
 
 
 The conference will be virtually co-hosted by the Universities of York, UK, and Boulder, Colorado, USA.
