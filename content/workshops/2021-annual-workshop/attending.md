@@ -10,6 +10,8 @@ weight: 0
 
 *Update*: There can't be a typical PPIG without games and fun, so this year's main [competition](/workshops/2021-annual-workshop/competition) invites you to submit comics, cartoons, short videos etc. reinterpreting your colleagues' presentations. Moreover, one of the social events consists of [game-making in small groups](/workshops/2021-annual-workshop/write-a-game-evening), followed by game-playing in one of the subsequent evenings. We look forwards to seeing your contributions!
 
+*Update*: Have you come across an arrogant error message recently? One that made you feel discouraged, and might even be considered a bit rude? Judith is collecting them, and you can share them [via this form](https://docs.google.com/forms/d/e/1FAIpQLScxmHx2D8VL1OYtKFilLNJ5Lr49piGlEDKg0M8FrRrduRaGXw/viewform). There may even be prizes (of some sort!)
+
 <br>
 
 Due to a larger number of submissions than we initially expected (a big thank you to the authors for their contributions!), and as we'd like to allow for sufficient time for discussion, we're extending the schedule to 3 hours per day, so **from 3:30pm to 6:30pm British Summer Time** (= UTC plus 1 hour). After 6:30pm there will be optional social events such as virtual tours and game creation, to which everyone is encouraged to join!

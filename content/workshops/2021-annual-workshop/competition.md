@@ -1,10 +1,12 @@
 ---
-title: "Main Competition"
+title: "Competitions"
 workshop: "ppig-2021"
 weight: 6
 ---
 
 <br>
+
+# PPIG 2021 Main Competition
 
 Everyone is invited to make a comic, a cartoon, a very short video, or a mashup of some kind. Points for humour,
 unexpectedness, topicality etc. The idea is to draw on the slides used in the presentations for the
@@ -35,6 +37,23 @@ JUDGING WILL PROBABLY BE LATE ON THURSDAY so please get your entry (-ies) in in 
 ## Judging
 Let’s have some public voting. Everyone is invited to view the entries in the second Google Drive folder and rate
 them. Please give points out of 10 for each entry you wish to judge (10 good, 0 less good) and email the
-list to Alan Blackwell afb21@cam.ac.uk **by Thursday lunchtime**, say 1:00pm BST.
+list to Alan Blackwell afb21@cam.ac.uk **by Thursday 2:00pm BST**.
+
 The prize committee (led by Alan Blackwell) will also view the entries and form their conclusions
 based on their own opinion and public voting.
+
+# Other competitions
+
+## Games we don't know we're playing
+
+Everyone is invited to nominate for announced and new prizes by filling in the form at https://forms.gle/gvknCKXeQvqZCU2K8:
+* Best background
+* Best cameo
+* Farthest (academic) distance
+* Other ...
+
+Please also aim to submit your nominations via the form by **by Thursday 2:00pm BST**.
+
+## World's most arrogant error messages
+
+Have you come across an **arrogant** error message recently? One that made you feel discouraged, and might even be considered a bit rude? Judith is collecting them, and you can share them [via this form](https://docs.google.com/forms/d/e/1FAIpQLScxmHx2D8VL1OYtKFilLNJ5Lr49piGlEDKg0M8FrRrduRaGXw/viewform). There may even be prizes (of some sort!)
