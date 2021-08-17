@@ -22,7 +22,8 @@
           {{ $currentWorkshopFilter := where $sitePages "Params.workshop" .Key }}
           {{ range $currentWorkshopFilter }}
             {{ if eq .Kind "section" }}
-            <h2>{{ .Title }}</h2>
+              {{ $titleHref := replace .Title " " "-" }}
+              <h2 id="{{ $titleHref }}"><a href="#{{ $titleHref }}">{{ .Title }}</a></h2>
             {{ end }}
           {{ end }}
         </div>

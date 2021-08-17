@@ -6,6 +6,8 @@ weight: 0
 
 <br>
 
+*Update*: The papers presented at the workshop are now [available online](/papers/#PPIG-2021---32nd-Annual-Workshop).
+
 *Update*: The full programme is now [available](/workshops/2021-annual-workshop/programme).
 
 *Update*: There can't be a typical PPIG without games and fun, so this year's main [competition](/workshops/2021-annual-workshop/competition) invites you to submit comics, cartoons, short videos etc. reinterpreting your colleagues' presentations. Moreover, one of the social events consists of [game-making in small groups](/workshops/2021-annual-workshop/write-a-game-evening), followed by game-playing in one of the subsequent evenings. We look forwards to seeing your contributions!
