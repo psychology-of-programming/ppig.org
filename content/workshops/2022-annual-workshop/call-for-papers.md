@@ -11,7 +11,7 @@ The 33nd Annual Meeting of the Psychology of Programming Interest Group (PPIG) w
 ## THEME:
 
 This year’s theme is  ‘Turing, Piaget, Radiohead: PPIG and the Muse’, considering insights and resonances between and across programming (broadly interpreted), psychology, and music.
-So, for example, papers might draw inspiration regarding: 
+So, for example, papers might draw inspiration regarding:
 * Creativity (including muses, metaphors, and inspiration)
 * Notations and annotations
 * Sensory-motor experience
@@ -19,7 +19,7 @@ So, for example, papers might draw inspiration regarding:
 * Evolution and adaptation of works
 * Liveness and interactivity
 
-The goal is to draw inspiration and metaphors from music and the arts to cast light on anything to do with programming in the PPIG context. Sources of inspiration could include any aspect of music, e.g.: listening to, playing, and composing music; music psychology;  music computing; ethnomusicology; musical communities and music economics; the future of music.  Similarly, inspiration from any other arts, or from sensory-motor skills and experiences more generally, would be very welcome. 
+The goal is to draw inspiration and metaphors from music and the arts to cast light on anything to do with programming in the PPIG context. Sources of inspiration could include any aspect of music, e.g.: listening to, playing, and composing music; music psychology;  music computing; ethnomusicology; musical communities and music economics; the future of music.  Similarly, inspiration from any other arts, or from sensory-motor skills and experiences more generally, would be very welcome.
 
 Of course, as ever, any PPIG-relevant papers will be welcomed.
 
@@ -66,7 +66,7 @@ We welcome the following categories of submissions:
 * Paper submission deadline: **1st July 2022**
 
 *Doctoral Consortium* and *demos:*
-* Abstract submission deadline: **14th July 2022**
+* Abstract submission deadline: ~~14th July 2022~~ extended to **15 August 2022**. If you have any questions, don't hesitate to email [Marian Petre](mailto:m.petre@open.ac.uk).
 
 *Authors will be notified:* asap, at latest **1st August 2022**
 
