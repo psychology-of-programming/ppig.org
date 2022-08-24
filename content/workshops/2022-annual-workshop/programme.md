@@ -14,6 +14,22 @@ weight: 5
 
 > Below is our current working plan for PPIG 2022. Some things might change slightly, but not significantly, and some things are still being confirmed and will be updated as soon as possible. Any questions, please get in touch with simon.holland AT open.ac.uk. Looking forward to seeing you all soon!
 
+## Sunday, 4th September
+
+### Doctoral Consortium (invite-only meeting)
+
+|               |                   |
+| ------------- | ----------------- |
+|13:30          | opening, introductions |
+|13:45 (15 + 10)| Julia Crossley - _Does the learning of mathematical proofs in continuous areas of Maths improve algorithmic thinking in CS students in HE_ |
+|14:10 (15 + 10)| Olli Kiljunen - _Tutorials Embedded in an IDE: A Feasible Way for CS Students to Learn Debugging? – A Study Design_ |
+|14:35          | break |
+|15:00 (15 + 10)| Jude Nzemeke - _An Investigation of Student Learning in Computing Education Research_ |
+|15:25 (15 + 10)| Andrea Bolzoni - _Sound-based music style modelling, for a free improvisation musical agent_ |
+|15:50          | AMA (ask me/us anything) – open discussion |
+|sometime around 16:30 | break for dinner |
+
+
 ## Monday, 5th September
 |               |                   |
 | ------------- | ----------------- |
@@ -98,5 +114,6 @@ weight: 5
 |               | *Doctoral Consortium presentations:* |
 |               | **Does the learning of mathematical proofs in continuous areas of Maths improve algorithmic thinking in CS students in HE** <br> Julia Crossley |
 |               | **Tutorials Embedded in an IDE: A Feasible Way for CS Students to Learn Debugging? – A Study Design** <br> Olli Kiljunen |
-|               | **TBC** <br> Andrea Bolzoni |
+|               | **_An Investigation of Student Learning in Computing Education Research** <br> Jude Nzemeke |
+|               | **Sound-based music style modelling, for a free improvisation musical agent** <br> Andrea Bolzoni |
 | 18:00 - 18:15 | *online* <br> PPIG Prizes and conference close |
