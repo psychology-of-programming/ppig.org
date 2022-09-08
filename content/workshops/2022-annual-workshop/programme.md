@@ -56,9 +56,11 @@ weight: 5
 |               |                   |
 | ------------- | ----------------- |
 |  9:30 - 10:00 | *Coffee and registration* |
-| 10:00 - 12:00 | *In-person* <br> Hands-on activities, details TBC |
+| 10:00 - 12:00 | *In-person* (Venables Building) |
+|               | Algorithmic Drum Circle with Alex McLean (GR Complexity Lab - 2nd Floor) |
+|               | Conversation with an expert drumming agent with Noam Lederman (Music Computing Lab - 1st Floor)
 | 12:00 - 12:45 | Lunch |
-| 12:45 - 15:30 | *In-person* <br> National Museum of Computing visit |
+| 12:45 - 15:15 | *In-person* <br> National Museum of Computing visit |
 | 16:00 - 17:00 | *Presentations session - hybrid* |
 |               | *Invited talk:* <br> **Live coding and the 'what-if' paradigm** <br> Alex McLean |
 |               | **Story-thinking, computational-thinking, programming and software engineering** <br> Austen Rainer and Catherine Menon |
@@ -69,7 +71,7 @@ weight: 5
 |               | **Would a Rose by any Other Name Smell as Sweet? Examining the Cost of Similarity in Identifier Naming** <br> Naser Al Madi and Matianyu Zang |
 |               | **Experimental Pair Programming Study Design (Work in Progress)** <br> Marcel Valový |
 | 18:30 - 18:40 | Break |
-| 18:40 - 19:00 | *Hybrid* <br> Demos & reflections, details TBC |
+| 18:40 - 19:00 | *Hybrid* <br> Demos & reflections <br> presentation of PPIG 2022 art challenge entries |
 
 ## Wednesday, 7th September
 |               |                   |
@@ -79,41 +81,42 @@ weight: 5
 | 13:00 (or flexible) | Free/travel home time |
 |               | NB: From this point onwards, the rest of the conference is online only. (although the conference room at the OU will continue to be available for communal online participation)
 | 16:00 - 17:00 | *Presentations session - online* |
+|               | Intro to today's session |
 |               | *Keynote:* <br> **The Psychology of Programming and the Psychology of Mathematics** <br> Henry Lieberman |
 |               | **A Tour Through Code: Helping Developers Become Familiar with Unfamiliar Code** <br> Grace Taylor and Steven Clarke |
-| 17:00 - 17:10 | Break |
-| 17:10 - 18:10 | *Presentations session - online* |
+| 17:10 - 17:20 | Break |
+| 17:20 - 18:30 | *Presentations session - online* |
 |               | **What is it like to program with artificial intelligence?** <br> Advait Sarkar, Carina Negreanu, Ben Zorn, Sruti Srinivasa Ragavan, Christian Poelitz and Andrew Gordon |
 |               | **POGIL-like learning and student’s impressions of software engineering topics: A qualitative study** <br> Bhuvana Gopal, Ryan Bockmon and Steve Cooper |
 |               | **On Writing Workshops for Programming** <br> Michael Nagle |
-| 18:10 - 18:30 | *online* <br> Demos & reflections, details TBC |
+| 18:30 - 18:50 | *online* <br> Demos & reflections <br> Get GPT-3 to say... |
 
 ## Thursday, 8th September
 |               |                   |
 | ------------- | ----------------- |
 | 16:00 - 17:00 | *Presentations session - online* |
+|               | Intro to today's session |
 |               | **Mastery Learning and Productive Failure: Examining Constructivist Approaches to teach CS1** <br> Cruz Izu, Daniel Ng and Amali Weerasinghe |
 |               | **The construction of knowledge about programs** <br> Sylvia Da Rosa and Federico Gómez |
 |               | **Evaluating and improving the Educational CPU Visual Simulator: a sustainable Open Pedagogy approach** <br> Renato Cortinovis and Ranjidha Rajan |
-| 17:00 - 17:10 | Break |
-| 17:10 - 17:50 | *Presentations session - online* |
+| 17:10 - 17:20 | Break |
+| 17:20 - 18:00 | *Presentations session - online* |
 |               | **A Grounded Theory of Cognitive Load Drivers in Novice Agile Software Development Teams** <br> Daniel Helgesson, Daniel Appelquist and Per Runeson |
 |               | **Livecode me: Live coding practice and multimodal experience** <br> Georgios Diapoulis |
-| 17:50 - 18:15 | *online* <br> Demos & reflections, details TBC |
+| 18:00 - 18:15 | *online* <br> Demos & reflections, details TBC |
 
 
 ## Friday, 9th September
 |               |                   |
 | ------------- | ----------------- |
 | 16:00 - 17:00 | *Presentations session - online* |
+|               | Intro to today's session |
 |               | *Keynote:* <br> **Making program analysis useful** <br> Emma Soderberg |
 |               | **Mental Models of Recursion: A Secondary Analysis of Novice Learners' Steps in Java Exercises** <br> Natalie Kiesler |
-| 17:00 - 17:10 | Break |
-| 17:10 - 18:00 | *Presentations session - online* |
+| 17:10 - 17:20 | Break |
+| 17:20 - 18:00 | *Presentations session - online* |
 |               | **The impact of POGIL-like learning on student understanding of software testing and DevOps: A qualitative study** <br> Bhuvana Gopal, Ryan Bockmon, Steve Cooper and Justin Olmanson |
 |               | *Doctoral Consortium presentations:* |
-|               | **Does the learning of mathematical proofs in continuous areas of Maths improve algorithmic thinking in CS students in HE** <br> Julia Crossley |
 |               | **Tutorials Embedded in an IDE: A Feasible Way for CS Students to Learn Debugging? – A Study Design** <br> Olli Kiljunen |
-|               | **_An Investigation of Student Learning in Computing Education Research** <br> Jude Nzemeke |
 |               | **Sound-based music style modelling, for a free improvisation musical agent** <br> Andrea Bolzoni |
 | 18:00 - 18:15 | *online* <br> PPIG Prizes and conference close |
