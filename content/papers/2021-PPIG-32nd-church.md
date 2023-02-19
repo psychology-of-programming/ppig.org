@@ -7,4 +7,5 @@ perspective, construct a work in progress analytical frame, and use it to talk a
 examples and draw implications for future work."
 publishedAt: ppig-2021
 year: 2021
+url_pdf: /files/2021-PPIG-32nd-church.pdf
 ---
