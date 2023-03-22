@@ -14,4 +14,4 @@ On this website you can find information about the community, past workshops and
 
 <br>
 
-Our next meeting is scheduled for 5-9 September 2022, and will be a hybrid virtual/physical meeting hosted by The Open University. For more information, please check [the workshop page](/workshops/2022-annual-workshop).
+Our next meeting is scheduled for 21-25 August 2023, and will be a hybrid virtual/physical meeting hosted by Lund University, Sweden. For more information, please check [the workshop page](/workshops/2023-annual-workshop).
