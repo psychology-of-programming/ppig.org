@@ -15,7 +15,7 @@ If you haven't booked yet, please do so as soon as possible. Thanks!
 ## Conference location
 The conference will be hosted by the Computer Science department at Lund University, Sweden. For directions, you can check the [department webpage](https://cs.lth.se/about/directions/) which has a map of its [location](https://cs.lth.se/fileadmin/cs/Maps/E-huset_intro_EN-suroundings.pdf).
 
-The main conference room for Monday, Tuesday, and Wednesday will be the M:Teknodromen, in the M-building [1]. For folks who want to stay on for Thursday and Friday's afternoon online sessions, we've booked the smaller E:2405 meeting room in the E-building [2]. The Doctoral Consortium on Monday will also take place in the E:2405 meeting room.
+The main conference room for Monday, Tuesday, and Wednesday will be the M:Teknodromen, in the M-building [1]. For folks who want to stay on for Thursday and Friday's afternoon online sessions, we've booked the smaller E:2405 meeting room in the E-building [2].
 
 On Monday and Tuesday evening, we'll have some social activities and experiences organised at the [Vattenhallen Science Center](https://www.vattenhallen.lu.se/english/) and [Museum of Sketches](https://skissernasmuseum.se/en/) respectively.
 
