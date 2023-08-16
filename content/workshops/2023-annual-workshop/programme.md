@@ -21,7 +21,7 @@ weight: 5
 | 09:00 - 13:30   | Doctoral Consortium (invite-only meeting) |
 |               |                   |
 | 13:30 - 14:00 | *Fika & registration* |
-| 14:00 - 16:00 | *In-person* <br> Hands-on activities, details TBC |
+| 14:00 - 16:00 | *In-person* <br> Demos & music <br> Bring your own instrument, cool tool or prototype! |
 | 16:00 - 18:30 | *Hybrid* <br> *Presentation session*  |
 |               | Keynote: **Socio-Technical Smells: How Technical Problems Cause Organizational Friction** <br> Adam Tornhill, CodeScene |
 |               | **A brief history of the human centric study of programming languages** <br> Luke Church and Alan Blackwell |
