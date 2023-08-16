@@ -58,10 +58,10 @@ This is a workshop in collaboration with AI Lund. For further details, please se
 |               | Interactive session - collaboratively build something creative with LLMs! |
 | 12:15 - 13:15 | *Lunch* |
 | 13:15 - 15:30 | *Hybrid* <br> *Afternoon session* |
-|               | **Back to the future: What do historical perspectives on programming language research tell us about LLMs?** <br> Tao Dong and Luke Church |
 |               | **Interactive Narrative Visualization for Learning Markov Decision Process** <br> B. Mbuu Mutua and Alan F. Blackwell |
 |               | **Participatory prompting: a user-centric research method for eliciting AI assistance opportunities in knowledge workflows** <br> Advait Sarkar, Ian Drosos, Rob Deline, Andrew D. Gordon, Carina Negreanu, Sean Rintel, Jack Williams and Benjamin Zorn |
 |               | **Prompt Programming for Large Language Models via Mixed Initiative Interaction in a GUI** <br> Tanya Morris and Alan Blackwell |
+|               | **Back to the future: What do historical perspectives on programming language research tell us about LLMs?** <br> Tao Dong and Luke Church |
 | 15:30 - 16:00 | *Fika & mingle* |
 
 
