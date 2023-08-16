@@ -38,7 +38,7 @@ weight: 5
 | 12:00 - 13:30 | Lunch |
 | 14:00 - 16:00 | *In-person* <br> Hands-on activities, details TBC |
 | 16:00 - 18:00 | *Hybrid* <br> *Presentations session* |
-|               | Keynote: *title TBC* <br> Linda Erlenhov, Chalmers University of Technology |
+|               | Keynote: **Bots in Software Engineering and their impact on development** <br> Linda Erlenhov, Chalmers University of Technology |
 |               | **How A Data Structure's Linearity Affects Programming and Code Comprehension: The Case of Recursion vs. Iteration** <br> Aviad Baron and Dror Feitelson |
 |               | **Exploring cognitive waste and cognitive load in software development - a grounded theory** <br> Daniel Helgesson |
 |               | **Directions in Computational Music** <br> Ian Clester |
