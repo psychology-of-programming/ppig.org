@@ -13,12 +13,14 @@ weight: 5
 <br>
 
 > Below is our current working plan for PPIG 2023. Some things might change slightly, but not significantly, and some things are still being confirmed and will be updated as soon as possible. Any questions, please get in touch at emma.soderberg@cs.lth.se. Looking forward to seeing you all soon!
+>
+> Note: All times are in CEST (UTC+2, Sweden's timezone)
 
 ## Monday, 21st August
 
 |               |                   |
 | ------------- | ----------------- |
-| 09:00 - 13:30   | Doctoral Consortium (invite-only meeting) |
+| 10:00 - 12:00   | Doctoral Consortium (invite-only meeting) |
 |               |                   |
 | 13:30 - 14:00 | *Fika & registration* |
 | 14:00 - 16:00 | *In-person* <br> Demos & music <br> Bring your own instrument, cool tool or prototype! |
@@ -70,7 +72,7 @@ This is a workshop in collaboration with AI Lund. For further details, please se
 ## Thursday, 24th August
 |               |                   |
 | ------------- | ----------------- |
-| 16:00 - 18:30 | *Online* <br> *Presentations session* |
+| 16:00 - 18:00 | *Online* <br> *Presentations session* |
 |               | **How Developers Extract Functions: An Experiment** <br> Alexey Braver and Dror Feitelson |
 |               | **Pronto: Prototyping a Prototyping Tool for Game Mechanic Prototyping** <br> Eva Krebs, Tom Beckmann, Leonard Geier, Stefan Ramson and Robert Hirschfeld |
 |               | **Integrating Traditional CS Class Activities with Computing for Social Good, Ethics, and Communication and Leadership Skills** <br> Renato Cortinovis, Devender Goyal and Luiz Fernando Capretz |
