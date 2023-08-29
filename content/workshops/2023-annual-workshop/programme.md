@@ -14,6 +14,8 @@ weight: 5
 
 > Below is our current working plan for PPIG 2023. Some things might change slightly, but not significantly, and some things are still being confirmed and will be updated as soon as possible. Any questions, please get in touch at emma.soderberg@cs.lth.se. Looking forward to seeing you all soon!
 >
+> Here is the [live schedule](https://calendar.google.com/calendar/embed?src=55692cba094e9a4ddacae0ef9ed32617c5b5fa81e59f283ceb3ceac5e8d1d814%40group.calendar.google.com&ctz=Europe%2FStockholm), or if you use Google you can add the PPIG 2023 schedule to your calendar [here](https://calendar.google.com/calendar/u/0?cid=NTU2OTJjYmEwOTRlOWE0ZGRhY2FlMGVmOWVkMzI2MTdjNWI1ZmE4MWU1OWYyODNjZWIzY2VhYzVlOGQxZDgxNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+>
 > Note: All times are in CEST (UTC+2, Sweden's timezone)
 
 ## Monday, 21st August
