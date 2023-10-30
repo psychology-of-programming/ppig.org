@@ -1,12 +1,7 @@
 ---
 title: "PPIG 2023 - 34th Annual Workshop"
-dates: "Upcoming session: 21 - 25 August"
+dates: "21 - 25 August 2023"
 startdate: "2023-08-21"
 location: "Lund University, Sweden & online"
 workshop: "ppig-2023"
-
-menuTitle: "Next workshop"
-menu:
-  main:
-    weight: 25
 ---

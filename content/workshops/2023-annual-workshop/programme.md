@@ -12,8 +12,7 @@ weight: 5
 
 <br>
 
-> Below is our current working plan for PPIG 2023. Some things might change slightly, but not significantly, and some things are still being confirmed and will be updated as soon as possible. Any questions, please get in touch at emma.soderberg@cs.lth.se. Looking forward to seeing you all soon!
->
+
 > Note: All times are in CEST (UTC+2, Sweden's timezone)
 
 ## Monday, 21st August
