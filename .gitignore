@@ -105,3 +105,4 @@ venv.bak/
 
 # hugo
 /public/
+.hugo_build.lock
