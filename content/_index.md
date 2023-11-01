@@ -10,8 +10,8 @@ The Psychology of Programming Interest Group (PPIG) was established in 1987 in o
 
 On this website you can find information about the community, past workshops and an archive of previous news and other content.
 
-(Please note that a website redesign is in progress - more content will be added soon, and if you find something that doesn't work properly, please [let us know](/contact)!)
-
 <br>
 
-Our next meeting is scheduled for 21-25 August 2023, and will be a hybrid virtual/physical meeting hosted by Lund University, Sweden. For more information, please check [the workshop page](/workshops/2023-annual-workshop).
+**We're very excited to announce that our 35th meeting, PPIG 2024, will be held in conjunction with VL/HCC 2024 at the University of Liverpool, UK, between 2-6 September!**
+
+For more information, please check [our workshop page](/workshops/2023-annual-workshop) as well as the [VL/HCC website](https://conf.researchr.org/home/vlhcc-2024). Submissions and attendance at both events is highly encouraged and we anticipate some exciting shared events!
