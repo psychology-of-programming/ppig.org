@@ -46,7 +46,7 @@ PPIG was established in 1987 in order to bring together people from diverse comm
 
 ## DOCTORAL CONSORTIUM
 
-This year’s PPIG DC will be held as a common meeting with the VL/HCC Graduate Consortium. Doctoral students are warmly invited to submit their work - the submission process will be announced in due course, both here and on the [VL/HCC website](https://conf.researchr.org/track/vlhcc-2024/vlhcc-2024-graduate-consortium).
+This year’s PPIG DC will be held as a common meeting with the VL/HCC Graduate Consortium. Doctoral students are warmly invited to submit their work - the submission process can be found on the [VL/HCC website](https://conf.researchr.org/track/vlhcc-2024/vlhcc-2024-graduate-consortium).
 
 Students who would benefit from financial support to attend the conference should get in touch with mariana.marasoiu@cst.cam.ac.uk.
 
