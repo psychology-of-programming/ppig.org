@@ -3,11 +3,23 @@
 */
 .workshop-page-title__title,
 .workshop-page-title__when-where {
-  display: block;
+  display: inline-block;
+}
+.workshop-page-title__subtitle {
+  display: inline-flex;
+  flex-direction: column;
+  float: right;
+}
+
+.workshop-page-title__title {
+  margin-bottom: 12px;
+}
+
+.workshop-page-title__subtitle {
+  font-size: 18px;
 }
 
 .workshop-page-title__when-where {
-  text-align: right;
   font-size: 18px;
 }
 
@@ -38,14 +50,14 @@
 .workshop-nav__link a,
 .workshop-nav__fill-end-border {
   padding: 8px;
-  border-bottom: 1px solid #DD9B64;
+  border-bottom: 1px solid #dd9b64;
   border-top: 3px solid #ffffff;
 }
 
 .workshop-nav__link--selected a {
-  border: 1px solid #DD9B64;
+  border: 1px solid #dd9b64;
   border-bottom: none;
-  border-top: 3px solid #DD9B64;
+  border-top: 3px solid #dd9b64;
 }
 
 /****************************

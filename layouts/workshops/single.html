@@ -9,7 +9,10 @@
   {{ range $currentWorkshopAllPages }}
   {{ if eq .Kind "section" }}
     <span class="workshop-page-title__title">{{ .Title }}</span>
-    <span class="workshop-page-title__when-where">{{ .Param "dates" }}, {{ .Param "location" }}</span>
+    <span class="workshop-page-title__subtitle">
+      <span class="workshop-page-title__when-where">{{ .Param "dates" }}, {{ .Param "location" }}</span>
+      <span class="workshop-page-title__when-where">{{ .Param "subtitle" | markdownify }}</span>
+    </span>
   {{ end }}
   {{ end }}
   </div>
