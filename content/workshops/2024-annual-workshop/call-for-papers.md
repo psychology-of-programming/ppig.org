@@ -4,7 +4,9 @@ workshop: "ppig-2024"
 weight: 10
 ---
 
-The 35th Annual Workshop of the Psychology of Programming Interest Group (PPIG) will take place on 5-6 September 2024 at the University of Liverpool, UK. We're very happy to announce that we will be co-located with [VL/HCC](https://conf.researchr.org/home/vlhcc-2024), so you can anticipate some exciting shared sessions and interesting discussions!
+The 35th Annual Workshop of the Psychology of Programming Interest Group (PPIG) will take place on 5-6 September 2024 at the University of Liverpool, UK.
+
+We're very happy to announce that we will be co-located with [VL/HCC](https://conf.researchr.org/home/vlhcc-2024), so you can anticipate some exciting shared sessions and interesting discussions!
 
 As in previous years, we will aim to make it worthwhile to join us in Liverpool, but you will also have the alternative of presenting and interacting with presentations remotely from your home, office, tent or boat, as well as taking part in integrated online activities.
 
