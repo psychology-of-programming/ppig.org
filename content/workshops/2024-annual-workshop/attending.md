@@ -6,10 +6,13 @@ weight: 0
 
 ## Registration
 
-Registration is handled through University of Liverpool, in conjunction with VL/HCC and is now open [here](https://conf.researchr.org/attending/vlhcc-2024/registration).
+Registration is now open! It is handled through University of Liverpool, in conjunction with VL/HCC.
 
-> NEW! Online registration for PPIG is now open!
-> Please [fill in your details here](https://docs.google.com/forms/d/e/1FAIpQLSe61ATjMZF4L1--q1-i5cV4NWtaf2ZxsMY8YANnnGHP-Czwcw/viewform?usp=sf_link) first, after which you will be redirected to the conference shop to purchase your only registration. Thank you!
+For **in-person registration**, please start by filling in the [registration form here](https://conf.researchr.org/attending/vlhcc-2024/registration), after which you will be redirected to the conference shop where you can register for PPIG and/or VL/HCC.
+
+For **online registration**, please [fill in your details here](https://docs.google.com/forms/d/e/1FAIpQLSe61ATjMZF4L1--q1-i5cV4NWtaf2ZxsMY8YANnnGHP-Czwcw/viewform?usp=sf_link) first, after which you will be redirected to the conference shop to purchase your online registration (about half way down the page).
+
+Thank you and looking forward to your participation at PPIG!
 
 <br>
 

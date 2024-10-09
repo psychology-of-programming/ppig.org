@@ -1,0 +1,13 @@
+---
+title: "Ethical Integration in Computer Science Education: Leveraging Open Educational Resources and Generative Artificial Intelligence for Enhanced Learning"
+authors: [Ranjidha Rajan, Renato Cortinovis]
+abstract: "In contemporary society, the extensive integration and dependence on computerized systems are evident across various aspects of everyday life. The training and education of the developers responsible for these systems should encompass more than just technical skills: a profound grasp of ethical considerations and the societal impact of their work is considered essential. This paper outlines an experimental approach utilizing adapted and newly developed Open Educational Resources (OER) to familiarize computer science students with the ACM Code of Ethics and Professional Conduct. These OERs, employing an underlying reusable pattern, propose assignments mandating the integration of ethical considerations into software development practices within an Inquiry-Based Learning (IBL) framework.
+<br>
+In the scope of these assignments, this study conducted a preliminary investigation into leveraging Generative Artificial Intelligence (gen-AI) to augment student learning and self-efficacy. This was achieved through the analysis of the data gathered from the assignments evaluation and a survey encompassing Likert scale ratings and open-ended inquiries. Factor analysis helped identifying the key themes ‘Use’, 'Tool Efficiency (TE)’, 'Concerns (C)’, 'Academic Integrity (AcI)’, and 'Tool Convenience (TC)’, which reflect various aspects of student engagement and perceptions of gen-AI tools. Structural Equation Modelling (SEM) further explored the relationships among these themes, suggesting that a combined 'TE' and 'TC' factor significantly enhanced user engagement with gen-AI tools. Conversely, the combined 'Concerns' and 'Academic Integrity' factors, i.e., concerns about reliability and academic dependency, did not significantly inhibit the willingness of the students to adopt gen-AI technologies.
+<br>
+Preliminary findings also indicate that gen-AI exhibits notable efficacy among students of moderate proficiency, albeit demonstrating underutilization among academically advanced students. Conversely, students categorized as lower-ranked tend to utilize gen-AI without exercising critical discernment. These results underscore the necessity to carefully tailor these OER to accommodate diverse student proficiency levels, thereby maximizing their educational efficacy."
+publishedAt: ppig-2024
+year: 2024
+url_pdf: /files/2024-PPIG-35th-rajan.pdf
+paper_number: 15
+---

@@ -1,0 +1,9 @@
+---
+title: "Craft Ethics - Aiming for Virtue in Programming with Generative AI"
+authors: [Martin Jonsson, Jakob Tholander]
+abstract: "This paper analyses some aspects of the profound shifts in programming practice and education about by the advent of generative AI (GenAI). As GenAI tools become increasingly integrated into programming environments, they offer an approach to programming that bypasses significant aspects of the meticu- lous syntax-focused processes inherent in traditional programming. Instead, these tools enable a more immediate transition from problem articulation to automated solution generation, reducing the need for traditional forms of iterative problem-solving and careful focus on coding details. This paradigm shift not only challenges the foundational skills taught in programming education but also raises ethical con- cerns regarding aspects such as interpretability, authorship and accountability of the produced code. This involves a reevaluation of programming education and practice, suggesting a need for a reorientation to emphasise ethical and interpretative skills in programming with GenAI. Based on a series of studies on GenAI-supported programming, this paper highlights aspects relating to control, agency, and design for ethical deliberation in the evolving practices of programming with GenAI. To move towards such practice, we propose a set of design challenges based on the concept of \"Craft Ethics,\" which emphasizes virtue, quality, and a thoughtful approach to programming and design. These challenges integrate traditional craftsmanship values into GenAI practices, ensuring that the ethical and qualitative aspects of programming are renewed and enhanced."
+publishedAt: ppig-2024
+year: 2024
+url_pdf: /files/2024-PPIG-35th-jonsson.pdf
+paper_number: 12
+---

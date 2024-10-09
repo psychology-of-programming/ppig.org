@@ -4,6 +4,4 @@ workshop: "ppig-2024"
 weight: 5
 ---
 
-> The programme is now (tentatively) published on the [VL/HCC website](https://conf.researchr.org/program/vlhcc-2024/program-vlhcc-2024/?date=Thu%205%20Sep%202024%2BFri%206%20Sep%202024)!
-
-We hope to soon add it here in the usual format as well.
+> The programme is available on the [VL/HCC website](https://conf.researchr.org/program/vlhcc-2024/program-vlhcc-2024/?date=Thu%205%20Sep%202024%2BFri%206%20Sep%202024)!
