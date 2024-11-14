@@ -7,6 +7,7 @@
         <div id="right-content">
             {{- partial "header.html" . -}}
             <main>
+                <div id="main-background" style="background-image: url('{{ .Params.backgroundImg }}')"></div>
                 <div id="main-content">
                     {{- block "main" . }}{{- end }}
                 </div>

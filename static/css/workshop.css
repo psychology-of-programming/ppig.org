@@ -51,7 +51,7 @@
 .workshop-nav__fill-end-border {
   padding: 8px;
   border-bottom: 1px solid #dd9b64;
-  border-top: 3px solid #ffffff;
+  border-top: 3px solid transparent;
 }
 
 .workshop-nav__link--selected a {

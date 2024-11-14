@@ -1,38 +1,37 @@
-{{ define "main" }}
+{{ define "main" }} {{ $workshopId := .Param "workshop" }} {{ $currentPageTitle
+:= .Title }} {{ $currentWorkshopAllPages := where .Site.Pages "Params.workshop"
+$workshopId }} {{ $currentWorkshopContentPages := where .Site.RegularPages
+"Params.workshop" $workshopId }} {{ $backgroundImg := .Param "backgroundImg" }}
 
-{{ $workshopId := .Param "workshop" }}
-{{ $currentPageTitle := .Title }}
-{{ $currentWorkshopAllPages := where .Site.Pages "Params.workshop" $workshopId }}
-{{ $currentWorkshopContentPages := where .Site.RegularPages "Params.workshop" $workshopId }}
+<div id="page-title" class="workshop-page-title">
+  {{ range $currentWorkshopAllPages }} {{ if eq .Kind "section" }}
+  <span class="workshop-page-title__title">{{ .Title }}</span>
+  <span class="workshop-page-title__subtitle">
+    <span class="workshop-page-title__when-where"
+      >{{ .Param "dates" }}, {{ .Param "location" }}</span
+    >
+    <span class="workshop-page-title__when-where"
+      >{{ .Param "subtitle" | markdownify }}</span
+    >
+  </span>
+  {{ end }} {{ end }}
+</div>
 
-  <div id="page-title" class="workshop-page-title">
-  {{ range $currentWorkshopAllPages }}
-  {{ if eq .Kind "section" }}
-    <span class="workshop-page-title__title">{{ .Title }}</span>
-    <span class="workshop-page-title__subtitle">
-      <span class="workshop-page-title__when-where">{{ .Param "dates" }}, {{ .Param "location" }}</span>
-      <span class="workshop-page-title__when-where">{{ .Param "subtitle" | markdownify }}</span>
-    </span>
-  {{ end }}
-  {{ end }}
-  </div>
-
-  <div id="page-content">
-
-    <nav class="workshop-nav">
-    {{ range sort $currentWorkshopContentPages "Params.weight" "asc" }}
-    {{ if eq .Title $currentPageTitle }}
-      <div class="workshop-nav__link workshop-nav__link--selected"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+<div id="page-content">
+  <nav class="workshop-nav">
+    {{ range sort $currentWorkshopContentPages "Params.weight" "asc" }} {{ if eq
+    .Title $currentPageTitle }}
+    <div class="workshop-nav__link workshop-nav__link--selected">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </div>
     {{ else }}
-      <div class="workshop-nav__link"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
-    {{ end }}
-    {{ end }}
-      <div class="workshop-nav__fill-end-border"></div>
-    </nav>
+    <div class="workshop-nav__link">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </div>
+    {{ end }} {{ end }}
+    <div class="workshop-nav__fill-end-border"></div>
+  </nav>
 
-    <article class="workshop-content">
-      {{ .Content }}
-    </article>
-
-  </div>
+  <article class="workshop-content">{{ .Content }}</article>
+</div>
 {{ end }}
