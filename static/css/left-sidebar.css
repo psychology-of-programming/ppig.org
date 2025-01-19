@@ -1,5 +1,5 @@
 .left-sidebar {
-  border-right: 1px solid #DD9B64;
+  border-right: 1px solid #dd9b64;
   background: white;
 }
 
@@ -32,7 +32,7 @@
 }
 
 .site-nav__link--selected a {
-  color: #DD9B64;
+  color: #dd9b64;
 }
 
 .site-nav__link .arrow {
@@ -49,4 +49,75 @@
 
 .site-nav__sub-menu.visible {
   max-height: 100px;
+}
+
+#drawer-toggle {
+  position: absolute;
+  opacity: 0;
+}
+
+#drawer-toggle-label {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  left: 0px;
+  height: 50px;
+  width: 50px;
+  display: block;
+  position: fixed;
+  background: rgba(255, 255, 255, 0);
+  z-index: 1;
+}
+
+@media (width <= 500px) {
+  /* adds our "hamburger" menu icon */
+
+  #drawer-toggle-label:before {
+    content: "";
+    display: block;
+    position: absolute;
+    height: 2px;
+    width: 24px;
+    background: #8d8d8d;
+    left: 13px;
+    top: 18px;
+    box-shadow: 0 6px 0 #8d8d8d, 0 12px 0 #8d8d8d;
+  }
+
+  #right-content {
+    margin-left: 0px;
+    width: 100%;
+  }
+
+  /* unchecked styles */
+
+  nav#left-sidebar {
+    left: -200px;
+    z-index: 1;
+  }
+
+  /* checked styles (menu open state) */
+
+  #drawer-toggle:checked ~ #drawer-toggle-label {
+    height: 100%;
+    width: calc(100% - 200px);
+    background: rgba(255, 255, 255, 0.8);
+  }
+
+  #drawer-toggle:checked ~ #drawer-toggle-label {
+    left: 200px;
+  }
+
+  #drawer-toggle:checked ~ nav#left-sidebar {
+    left: 0px;
+  }
+}
+
+@media (width > 500px) and (width <= 900px) {
+  #right-content {
+    width: calc(100% - 200px);
+  }
 }
