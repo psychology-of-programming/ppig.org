@@ -1,6 +1,6 @@
 ---
 title: "PPIG 2025 - 36th Annual Workshop"
-dates: "8 - 12 September 2025"
+dates: "8 - 10 September 2025"
 startdate: "2025-09-8"
 location: "Belgrade, Serbia & Online"
 workshop: "ppig-2025"

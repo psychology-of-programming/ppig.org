@@ -2,6 +2,7 @@
 title: "Call for papers"
 workshop: "ppig-2025"
 weight: 10
+backgroundImg: "/img/ppig-2025/Belgrade_Waterfront_aerial_image.jpg"
 ---
 
 The 36th Annual Workshop of the Psychology of Programming Interest Group (PPIG) will take place on **8-12 September**. This will be a hybrid virtual/physical meeting hosted by **JetBrains Research in Belgrade, Serbia**.
