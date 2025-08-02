@@ -73,7 +73,9 @@ Foreign visitors are required to register their residence with the local police 
 
 ## Local Currency and Payments
 
-The local currency is the Serbian Dinar (RSD). Common current exchange rates are:
+The local currency is the Serbian Dinar (RSD), but most restaurants and shops will also accept euros (EUR). Bringing mostly EUR in cash with some small amounts of RSD for public transport etc. should work well.
+
+Common current exchange rates for RSD are:
 
 - 1 EUR ≈ 117 RSD
 - 1 USD ≈ 100 RSD
