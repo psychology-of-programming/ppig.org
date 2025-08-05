@@ -31,34 +31,34 @@ Below you can find our working outline of the programme so you can roughly plan 
 
 ## Monday, 8 September
 
-|               |                          |             |
-| ------------- | ------------------------ | ----------- |
-| 12:30 - 13:30 | _Lunch & registration_   | _In person_ |
-| 13:30 - 14:00 | Welcome!                 | _Hybrid_    |
-| 14:00 - 15:00 | **Keynote**              | _Hybrid_    |
-| 15:00 - 15:30 | _Coffee break_           | _Hybrid_    |
-| 15:30 - 17:30 | **Presentation session** | _Hybrid_    |
-| 18:30 - late  | _PPIG Conference Dinner_ | _In person_ |
+|               |                                 |             |
+| ------------- | ------------------------------- | ----------- |
+| 12:30 - 13:30 | _Lunch & registration_          | _In person_ |
+| 13:30 - 14:00 | Welcome!                        | _Hybrid_    |
+| 14:00 - 15:00 | **Keynote** - Alberto Bacchelli | _Hybrid_    |
+| 15:00 - 15:30 | _Coffee break_                  | _Hybrid_    |
+| 15:30 - 17:30 | **Presentation session**        | _Hybrid_    |
+| 18:30 - late  | _PPIG Conference Dinner_        | _In person_ |
 
 ## Tuesday, 9 September
 
-|               |                          |             |
-| ------------- | ------------------------ | ----------- |
-| 10:00 - 11:00 | **Keynote**              | _Hybrid_    |
-| 11:00 - 11:30 | _Coffee break_           | _Hybrid_    |
-| 11:30 - 12:30 | **TBC**                  | _Hybrid_    |
-| 12:30 - 14:00 | _Lunch_                  | _In person_ |
-| 14:00 - 15:30 | **Presentation session** | _Hybrid_    |
-| 15:30 - 16:00 | _Coffee break_           | _Hybrid_    |
-| 16:00 - 17:30 | **Panel session**        | _Hybrid_    |
+|               |                                                            |             |
+| ------------- | ---------------------------------------------------------- | ----------- |
+| 10:00 - 11:00 | **Keynote** - Tomas Petricek                               | _Hybrid_    |
+| 11:00 - 11:30 | _Coffee break_                                             | _Hybrid_    |
+| 11:30 - 12:30 | **Workshop** - Role-playing games for software engineering | _Hybrid_    |
+| 12:30 - 14:00 | _Lunch_                                                    | _In person_ |
+| 14:00 - 15:30 | **Presentation session**                                   | _Hybrid_    |
+| 15:30 - 16:00 | _Coffee break_                                             | _Hybrid_    |
+| 16:00 - 17:30 | **Panel session**                                          | _Hybrid_    |
 
 ## Wednesday, 10 September
 
-|               |                                |             |
-| ------------- | ------------------------------ | ----------- |
-| 10:00 - 12:30 | **Belgrade graffiti art tour** | _In person_ |
-| 12:30 - 14:00 | _Lunch_                        | _In person_ |
-| 14:00 - 15:00 | **Keynote**                    | _Hybrid_    |
-| 15:00 - 15:30 | _Coffee break_                 | _Hybrid_    |
-| 15:30 - 17:00 | **Presentation session**       | _Hybrid_    |
-| 17:00 - 17:30 | _PPIG Prizes & close_          | _Hybrid_    |
+|               |                                         |             |
+| ------------- | --------------------------------------- | ----------- |
+| 10:00 - 12:30 | **Belgrade graffiti art tour**          | _In person_ |
+| 12:30 - 14:00 | _Lunch_                                 | _In person_ |
+| 14:00 - 15:00 | **Keynote** - Dusica Filipovic Durdevic | _Hybrid_    |
+| 15:00 - 15:30 | _Coffee break_                          | _Hybrid_    |
+| 15:30 - 17:00 | **Presentation session**                | _Hybrid_    |
+| 17:00 - 17:30 | _PPIG Prizes & close_                   | _Hybrid_    |

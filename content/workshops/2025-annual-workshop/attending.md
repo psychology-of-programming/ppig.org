@@ -95,6 +95,6 @@ The protests have been carried out largely by students and have been peaceful to
 
 For more information about the reasons behind the protests you can read [this analysis](https://unipd-centrodirittiumani.it/en/topics/what-happens-when-students-unite-for-justice-the-pulse-of-serbian-protests) and [this news article](https://www.theguardian.com/commentisfree/2025/feb/06/serbias-students-showing-world-democratic-hope).
 
-As conference organizers, we are monitoring the situation closely. The protests are still ongoing, but throughout the whole time they have been peaceful, with no violence or safety issues being experienced by non-participants. From today's perspective (15 July 2025) we do not foresee any risks related to the protests for prospective conference attendees.
+As conference organizers, we are monitoring the situation closely. The protests are still ongoing, but throughout the whole time they have been peaceful, with no violence or safety issues being experienced by non-participants. From today's perspective (5 August 2025) we do not foresee any risks related to the protests for prospective conference attendees.
 
 If you have any concerns about travelling to Belgrade, feel free to get in touch and check your government's travel advisory.
