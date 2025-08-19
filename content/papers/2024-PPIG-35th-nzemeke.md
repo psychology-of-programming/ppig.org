@@ -20,6 +20,6 @@ instruction. This multi-sensory approach caters to diverse learning styles and p
 students, offering a strategy for addressing the challenges associated with teaching recursion."
 publishedAt: ppig-2024
 year: 2024
-url_pdf: /files/2024-PPIG-35th-nkemeke.pdf
+url_pdf: /files/2024-PPIG-35th-nzemeke.pdf
 paper_number: 8
 ---
