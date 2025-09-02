@@ -33,7 +33,7 @@ The conference this year will run from Monday lunchtime on 8th September until l
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | 12:30 - 13:30 | _Lunch & registration_                                                                                                                                      | _In person_ |
 | 13:30 - 14:00 | Welcome!                                                                                                                                                    | _Hybrid_    |
-| 14:00 - 15:00 | _Keynote:_ **Title TBC** <br> Alberto Bacchelli, University of Zurich                                                                                       | _Hybrid_    |
+| 14:00 - 15:00 | _Keynote:_ **The Triadic Nature Of Code Review** <br> Alberto Bacchelli, University of Zurich                                                               | _Hybrid_    |
 | 15:00 - 15:30 | _Coffee break_                                                                                                                                              | _Hybrid_    |
 | 15:30 - 16:15 | _Doctoral Keynote:_ **Private Skills, Public Stakes: Rethinking Software Knowledge Sharing as a Social Practice** <br> Nancy Xia, University College London |             |
 | 16:15 - 17:30 | _Talks_                                                                                                                                                     | _Hybrid_    |
