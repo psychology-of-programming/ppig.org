@@ -53,4 +53,4 @@ Informal, unstructured knowledge sharing is one of the main methods of learning 
 
 ### Bio
 
-Qing (Nancy) Xia is a final-year PhD student in Human-Computer Interaction at UCL, supervised by Professor Duncan Brumby from UCL, Dr Advait Sarkar from Microsoft Research Cambridge, and Professor Anna Cox from UCL. Her PhD examines how social norms around technology shape collaborative behaviours such as workplace knowledge sharing.
+[Qing (Nancy) Xia](https://profiles.ucl.ac.uk/90626-nancy-xia) is a final-year PhD student in [Human-Computer Interaction at UCL](https://www.ucl.ac.uk/uclic), supervised by Professor Duncan Brumby from UCL, Dr Advait Sarkar from Microsoft Research Cambridge, and Professor Anna Cox from UCL. Her research examines how social norms around technology shape collaborative behaviours such as workplace knowledge sharing.
