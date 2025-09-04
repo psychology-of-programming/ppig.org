@@ -44,30 +44,30 @@ The conference this year will run from Monday lunchtime on 8th September until l
 
 ## Tuesday, 9 September
 
-|               |                                                                                                                                                                                  |             |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| 10:00 - 11:00 | _Keynote:_ **Critical Architecture / Software Theory** <br> Tomas Petricek, Charles University                                                                                   | _Hybrid_    |
-| 11:00 - 11:30 | _Coffee break_                                                                                                                                                                   | _In person_ |
-| 11:30 - 12:30 | _Workshop_: <br> **Defeating Dragons in the Classroom: Role-playing games for Teaching Communication Skills in Software Engineering** <br> Tom Beckmann, Eva Krebs, Marcel Garus | _Hybrid_    |
-| 12:30 - 14:00 | _Lunch_                                                                                                                                                                          | _In person_ |
-| 14:00 - 15:30 | _Talks_                                                                                                                                                                          | _Hybrid_    |
-|               | **Vibe coding: programming through conversation with artificial intelligence** <br> Advait Sarkar and Ian Drosos                                                                 |             |
-|               | **Design opportunities for the psychology of programming after AI** <br> Clayton Lewis                                                                                           |             |
-|               | **Vibing: Low viscosity programming with aliens** <br> Luke Church                                                                                                               |             |
-| 15:30 - 16:00 | _Coffee break_                                                                                                                                                                   | _Hybrid_    |
-| 16:00 - 17:30 | _Industry Panel_                                                                                                                                                                 | _Hybrid_    |
-|               | **Bringing Cognitive Research into Language Design: The Case of Kotlin**                                                                                                         |             |
-|               | **Increasing Developer Empathy through User Integration in Product Teams**                                                                                                       |             |
-|               | **Academic Research Contributions to Software Development: Successes and Challenges from the Human-AI Experience Team**                                                          |             |
-|               | **Rethinking Developer Productivity through the Lens of Self-Determination Theory**                                                                                              |             |
-|               | _Open discussion_                                                                                                                                                                |             |
+|               |                                                                                                                                                                                                                 |             |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| 10:00 - 11:00 | _Keynote:_ **Critical Architecture / Software Theory** <br> Tomas Petricek, Charles University                                                                                                                  | _Hybrid_    |
+| 11:00 - 11:30 | _Coffee break_                                                                                                                                                                                                  | _In person_ |
+| 11:30 - 13:00 | _Workshop_: <br> **Defeating Dragons in the Classroom: Role-playing games for Teaching Communication Skills in Software Engineering** <br> Tom Beckmann, Eva Krebs, Marcel Garus <br> **_🎲  Bring your own d20! 🎲_** | _Hybrid_    |
+| 13:00 - 14:00 | _Lunch_                                                                                                                                                                                                         | _In person_ |
+| 14:00 - 15:30 | _Talks_                                                                                                                                                                                                         | _Hybrid_    |
+|               | **Vibe coding: programming through conversation with artificial intelligence** <br> Advait Sarkar and Ian Drosos                                                                                                |             |
+|               | **Design opportunities for the psychology of programming after AI** <br> Clayton Lewis                                                                                                                          |             |
+|               | **Vibing: Low viscosity programming with aliens** <br> Luke Church                                                                                                                                              |             |
+| 15:30 - 16:00 | _Coffee break_                                                                                                                                                                                                  | _Hybrid_    |
+| 16:00 - 17:30 | _Industry Panel_                                                                                                                                                                                                | _Hybrid_    |
+|               | **Bringing Cognitive Research into Language Design: The Case of Kotlin**                                                                                                                                        |             |
+|               | **Increasing Developer Empathy through User Integration in Product Teams**                                                                                                                                      |             |
+|               | **Academic Research Contributions to Software Development: Successes and Challenges from the Human-AI Experience Team**                                                                                         |             |
+|               | **Rethinking Developer Productivity through the Lens of Self-Determination Theory**                                                                                                                             |             |
+|               | _Open discussion_                                                                                                                                                                                               |             |
 
 ## Wednesday, 10 September
 
 |               |                                                                                                                        |             |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------- |
-| 10:00 - 12:30 | **Belgrade graffiti art tour**                                                                                         | _In person_ |
-| 12:30 - 14:00 | _Lunch_                                                                                                                | _In person_ |
+| 10:00 - 13:00 | **Belgrade graffiti art tour**                                                                                         | _In person_ |
+| 13:00 - 14:00 | _Lunch_                                                                                                                | _In person_ |
 | 14:00 - 15:00 | _Keynote_: **Language and Mind: A Complex Dynamic Relation** <br> Dusica Filipovic Durdevic, University of Belgrade    | _Hybrid_    |
 | 15:00 - 15:30 | _Coffee break_                                                                                                         | _In person_ |
 | 15:30 - 17:00 | _Talks_                                                                                                                | _Hybrid_    |
