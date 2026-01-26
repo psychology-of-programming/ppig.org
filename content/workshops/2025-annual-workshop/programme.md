@@ -40,7 +40,7 @@ The conference this year will run from Monday lunchtime on 8th September until l
 |               | **Mixed-Initiative Collaborative Workflow Support for Online Tasks** <br> Sophie Claxton and Alan Blackwell                                                 |             |
 |               | **Students' Feedback Requests and Interactions with the SCRIPT Chatbot - Do They Get What They Ask For?** <br> Andreas Scholl and Natalie Kiesler           |             |
 |               | **On Programming Languaging** <br> Felienne Hermans                                                                                                         |             |
-| 18:30 - late  | _PPIG Conference Dinner_                                                                                                                                    | _In person_ |
+| 19:00 - late  | _PPIG Conference Dinner_ <br> Zavičaj Skadarlija, Skadarska 18, Beograd                                                                                     | _In person_ |
 
 ## Tuesday, 9 September
 
@@ -57,7 +57,7 @@ The conference this year will run from Monday lunchtime on 8th September until l
 | 15:30 - 16:00 | _Coffee break_                                                                                                                                                                                                        | _Hybrid_    |
 | 16:00 - 17:30 | _Industry Panel_                                                                                                                                                                                                      | _Hybrid_    |
 |               | **Academic Research Contributions to Software Development: Successes and Challenges from the Human-AI Experience Team**                                                                                               |             |
-|               | **What is the role of the large-scale developer surveys**                                                                                                                                   |             |
+|               | **What is the role of the large-scale developer surveys**                                                                                                                                                             |             |
 |               | **Increasing Developer Empathy through User Integration in Product Teams**                                                                                                                                            |             |
 |               | **Bringing Cognitive Research into Language Design: The Case of Kotlin**                                                                                                                                              |             |
 |               | _Open discussion_                                                                                                                                                                                                     |             |
@@ -70,9 +70,9 @@ The conference this year will run from Monday lunchtime on 8th September until l
 | 13:00 - 14:00 | _Lunch_                                                                                                                | _In person_ |
 | 14:00 - 15:00 | _Keynote_: **Language and Mind: A Complex Dynamic Relation** <br> Dusica Filipovic Durdevic, University of Belgrade    | _Hybrid_    |
 | 15:00 - 15:30 | _Coffee break_                                                                                                         | _In person_ |
-| 15:30 - 17:00 | _Talks_                                                                                                                | _Hybrid_    |
+| 15:30 - 17:20 | _Talks_                                                                                                                | _Hybrid_    |
+|               | **Towards a Model of Library Use** <br> Ava Heinonen                                                                   |             |
 |               | **Analogy between Interdisciplinarians and Business Analysts in IT** <br> Anna Bobkowska                               |             |
 |               | **Purpose, Transparency and Challenge: Self-taught programming in adolescence** <br> Jan Dittrich and Felienne Hermans |             |
-|               | **Towards a Model of Library Use** <br> Ava Heinonen                                                                   |             |
 |               | **LUCY-learn: Visualising Image Classifiers for Education in Machine Learning** <br> Isabel Millar and Alan Blackwell  |             |
-| 17:00 - 17:30 | _PPIG Prizes & close_                                                                                                  | _Hybrid_    |
+| 17:20 - 17:30 | _PPIG Prizes & close_                                                                                                  | _Hybrid_    |
