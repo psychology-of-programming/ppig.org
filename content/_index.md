@@ -12,6 +12,6 @@ On this website you can find information about the community, past workshops and
 
 <br>
 
-> Our next annual meeting will take place on **8-10 September 2025 in Belgrade, Serbia**!
+> Our next annual meeting will take place on **27-29 July 2026 in London, UK**!
 >
-> Check out [the workshop page](/workshops/2025-annual-workshop) for more details.
+> Check out [the workshop page](/workshops/2026-annual-workshop) for more details.

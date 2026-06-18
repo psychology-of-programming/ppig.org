@@ -10,7 +10,13 @@ body {
   line-height: 1.5;
 }
 
-nav, h1, h2, h3, h4, h5, h6,
+nav,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
 #page-title {
   font-family: Oswald, sans-serif;
   font-weight: 400;
@@ -34,7 +40,10 @@ h2 {
   margin: 24px 0 12px;
 }
 
-h3, h4, h5, h6 {
+h3,
+h4,
+h5,
+h6 {
   font-size: 16px;
   margin: 16px 0 8px;
 }
@@ -51,29 +60,44 @@ article {
 * Colors
 */
 
-color-desat-bright { color: #DD9B64 }
-color-desat-dark { color: #876C55 }
-color-primary { color: #272522 }
-color-sat-dark { color: #654931 }
-color-sat-bright { color: #8F490E }
+color-desat-bright {
+  color: #dd9b64;
+}
+color-desat-dark {
+  color: #876c55;
+}
+color-primary {
+  color: #272522;
+}
+color-sat-dark {
+  color: #654931;
+}
+color-sat-bright {
+  color: #8f490e;
+}
 
-html, body {
+html,
+body {
   color: #272522;
 }
 
 #page-title,
-h1, h2, h3,
+h1,
+h2,
+h3,
 h1 a,
 h2 a,
 h3 a {
-  color: #DD9B64;
+  color: #dd9b64;
 }
 
-h4, h5, h6,
+h4,
+h5,
+h6,
 h4 a,
 h5 a,
 h6 a {
-  color: #876C55;
+  color: #876c55;
 }
 
 a {
@@ -84,7 +108,7 @@ a {
 }
 
 a:hover {
-  color: #8F490E;
+  color: #8f490e;
 }
 
 nav a {
@@ -139,6 +163,9 @@ main {
   width: 100%;
   margin: 0 auto;
   z-index: -10;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
 #main-content {
@@ -173,7 +200,7 @@ p {
 
 blockquote {
   padding-left: 18px;
-  border-left: 2px solid #DD9B64;
+  border-left: 2px solid #dd9b64;
   font-style: italic;
 }
 
