@@ -1,7 +1,6 @@
 ---
 title: "Usability requirements for interaction-oriented development tools"
-authors: [Catherine Letondal, Stéphane Chatty, W. Greg Phillips, Fabien André, and
-Stéphane Conversy]
+authors: [Catherine Letondal, Stéphane Chatty, W. Greg Phillips, Fabien André, Stéphane Conversy]
 abstract: "Building interactive software is a notoriously complex task, for which many programming
 tools have been proposed over the years. Although the research community has sporadically
 identified usability requirements for such tools, tool proponents rarely document their design processes
