@@ -38,9 +38,10 @@ Below you can find our working outline of the programme so you can roughly plan 
 | 09:00 - 12:00 | **Doctoral Consortium** (invitation-only)      | _In person_ |
 | 12:00 - 13:00 | _Lunch & registration_       | _In person_ |
 | 13:00 - 13:30 | Welcome!                     | _Hybrid_    |
-| 13:30 - 14:30 | _Keynote:_ **Katie Seaborn** | _Hybrid_    |
+| 13:30 - 14:30 | _Keynote:_ **Katie Seaborn**, From Anime to the Vocal Arts: Programming Kawaii Vocalics | _Hybrid_    |
 | 14:30 - 15:00 | _Coffee break_               | _Hybrid_    |
-| 15:00 - 17:00 | **Paper presentations**      | _Hybrid_    |
+| 15:00 - 16:30 | **Paper presentations**      | _Hybrid_    |
+| 16:30 - 17:15 | _Hands-on demo:_ **Just tell the robot what to do, in VR**      | _Hybrid_    |
 | 18:30 onwards | _PPIG Conference Dinner_     | _In person_ |
 
 ## Tuesday, 28 July
@@ -50,7 +51,7 @@ Below you can find our working outline of the programme so you can roughly plan 
 | 09:00 - 09:05 | **DC Minute Madness**          | _Hybrid_    |
 | 09:05 - 10:30 | **Paper presentations**        | _Hybrid_    |
 | 10:30 - 11:00 | _Coffee break_                 | _Hybrid_    |
-| 11:00 - 12:00 | _Keynote:_ **Marianna Obrist** | _Hybrid_    |
+| 11:00 - 12:00 | _Keynote:_ **Marianna Obrist**, Beyond the Screen: Taste, Smell, and the Untapped Sensorium of Human-Computer Interaction | _Hybrid_    |
 | 12:00 - 13:00 | _Lunch_                        | _In person_ |
 | 13:00 - 14:30 | **Paper presentations**        | _Hybrid_    |
 | 14:30 - 15:00 | _Coffee break_                 | _Hybrid_    |
