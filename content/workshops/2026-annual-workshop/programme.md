@@ -40,7 +40,7 @@ Below you can find our working outline of the programme so you can roughly plan 
 | 9:00 - 12:00  | _Doctoral Consortium_                                                                                                                                    | _By invite_ |
 |               | **Designing Purpose-first Instruction for Supporting End-user Programmer Learning Goals** <br> Mehmet Arif Demirtas                                      |             |
 |               | **From Abstract to Concrete: Direct Manipulation and Live Feedback Tools to Program the Running System** <br> Eva Krebs                                  |             |
-|               | **The impact of AI on human metacognition** <br> Gabriel Hughes                                                                                          |             |
+|               | **Beyond prompt engineering: Rethinking agency in LLM interactions** <br> Gabriel Hughes                                                                                          |             |
 |               | **How Is AI Reshaping Computer Science Students' Cognition of Programming?** <br> Ruolin Li                                                              |             |
 | 12:00 - 13:00 | _Lunch & registration_                                                                                                                                   | _In person_ |
 | 13:00 - 13:30 | Welcome!                                                                                                                                                 | _Hybrid_    |
