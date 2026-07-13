@@ -1,5 +1,5 @@
 ---
-title: "Programme - draft"
+title: "Programme"
 workshop: "ppig-2026"
 weight: 1
 backgroundImg: "/img/ppig-2026/robert-bye-7baQ2b019NY-unsplash.jpg"
