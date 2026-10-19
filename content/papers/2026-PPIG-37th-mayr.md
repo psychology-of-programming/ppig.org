@@ -1,0 +1,9 @@
+---
+title: "Talking as Theory Reconstruction: Eliciting Architectural Decisions from Developers via Interview and LLM-Based Synthesis"
+authors: [Bernhard Mayr, Alexander Feiglstorfer, Dominik Angerer]
+abstract: "In Programming as Theory Building (1985), Peter Naur argued that programming is the construction of a theory in the programmer’s mind: a theory that cannot be captured in code or documentation, and that dies when its bearers leave the project. The spread of large language models (LLMs), and of agentic development tools that need explicit decision artefacts to operate, makes the claim worth revisiting. This work-in-progress paper reports on a two-stage method for externalising part of the implicit theory behind early-stage software projects. A human interviewer first holds a semi-structured, podcast-style conversation with the developers involved, using open questions to draw out narrative accounts and tacit reasoning. An LLM then distils the transcripts into Architecture Decision Records (ADRs) that record each decision with its rationale, the alternatives, and the trade-offs. To assess fidelity, we cross-check the generated ADRs against the codebase, looking for where stated intent and current implementation match, where they leave gaps, and where they contradict each other. We expect a mixed answer to the question of how much of the theory Naur describes survives reconstruction. Decisions and their trade-offs look partly recoverable; the deeper mental models behind them likely do not. The resulting ADRs may also be useful as context for agentic coding tools, which increasingly need machine-readable rationale to work safely on existing code. We present preliminary findings from two pilot interviews and discuss methodological challenges, among them post-hoc rationalisation, interviewer framing, and LLM hallucination during synthesis."
+publishedAt: ppig-2026
+year: 2026
+url_pdf: /files/2026-PPIG-37th-mayr.pdf
+paper_number: 17
+---

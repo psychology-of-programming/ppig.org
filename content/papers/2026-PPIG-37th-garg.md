@@ -1,0 +1,9 @@
+---
+title: "Interruptive Thinking: An Empirical Study of Operator-Side Control in AI Interaction"
+authors: [Sudhanshu Garg]
+abstract: "People who work with large language models (LLMs) routinely stop the model and redirect it. This paper is an autoethnographic account of how one experienced user does this. The data are 47 structured records, which we call receipts, of 29 of the author’s own working sessions with LLMs. Each receipt lists the moments in a session where the user interrupted the model and codes each moment for what prompted it, what the user diagnosed as wrong, what the user did, and how the work continued. Receipts were produced by asking an LLM (Claude, ChatGPT or Gemini) to code a session transcript against a fixed codebook; 15 transcripts were coded by more than one model. From this material we describe a six-stage interruption cycle (signal, pause, diagnosis, action, re-entry, log), and we report how well it fits: 29 of the 47 receipts contain at least one interruption that does not fit it cleanly. Three further observations follow. First, the three models disagree substantially about what counts as an interruption: on one transcript two models report identical totals (18 each) yet only four of their events refer to the same user turn. Second, what the user does to the model is described with 172 different labels, but six recur across receipts far more than the rest. Third, the moments that most needed an interruption were often those where the model’s output was most fluent. We describe the user’s recognition of this, output that is well formed but not grounded in the case at hand, using the word extrusion, after Bender and Hanna’s description of LLMs as text-extruding machines. We propose, but have not yet tested, that the likelihood of interrupting falls as a session accumulates accepted turns."
+publishedAt: ppig-2026
+year: 2026
+url_pdf: /files/2026-PPIG-37th-garg.pdf
+paper_number: 9
+---
