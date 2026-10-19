@@ -75,7 +75,7 @@ Below you can find our working outline of the programme so you can roughly plan 
 |               | **Using Narratives as Cognitive Scaffolds for Process-Level Reasoning in Software Engineering** <br> Md. Hasan Tareque and John Anvik                                                        |             |
 |               | **Can Gamification Encourage Debugger Usage?** <br> Teresa Dreyer and Christoph Bockisch                                                                                                     |             |
 | 16:30 - 17:00 | _Walk_                                                                                                                                                                                       | _Optional_  |
-| 17:00 - 17:30 | **Novelty Automation**                                                                                                                                                                       | _Optional_  |
+| 17:00 - 18:00 | **Novelty Automation**                                                                                                                                                                       | _Optional_  |
 
 ## Wednesday, 29 July
 
