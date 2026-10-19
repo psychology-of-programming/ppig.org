@@ -12,6 +12,6 @@ On this website you can find information about the community, past workshops and
 
 <br>
 
-> Our next annual meeting will take place on **27-29 July 2026 in London, UK**!
+> Our next annual meeting will take place on **23-25 August 2027** in **Potsdam, Germany**!
 >
-> Check out [the workshop page](/workshops/2026-annual-workshop) for more details.
+> More details will be shared soon. Hope to see you there!
